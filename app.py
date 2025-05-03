@@ -8,9 +8,9 @@ from tensorflow.keras.models import load_model
 app = Flask(__name__)
 
 # Load trained model and pre-saved encoders and scaler
-MODEL = load_model("D:/yield_api/lstm_yield_model.h5",compile=False)
-ENCODERS = joblib.load("D:/yield_api/label_encoders.pkl")
-SCALER = joblib.load("D:/yield_api/scaler.pkl")
+MODEL = load_model("lstm_yield_model.h5",compile=False)
+ENCODERS = joblib.load("label_encoders.pkl")
+SCALER = joblib.load("scaler.pkl")
 
 # Define feature order
 FEATURES = [
@@ -48,6 +48,6 @@ def predict_yield():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5006))
-    app.run(host="0.0.0.0", port=port)
+# if __name__ == "__main__":
+#     port = int(os.environ.get("PORT", 5006))
+#     app.run(host="0.0.0.0", port=port)
