@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+scikit-learn
+tensorflow      # for loading the LSTM model, if you choose
+joblib          # for loading the RandomForest model

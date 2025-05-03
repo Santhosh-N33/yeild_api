@@ -1,0 +1,2001 @@
+State,District,Crop,Season,SowingMonth,Area(ha),N(kg/ha),P(kg/ha),K(kg/ha),SoilType,AnnualRainfall(mm),AvgTemperature(C),Yield(t/ha)
+Karnataka,Belgaum,Cotton,Kharif,July,3.87,53,69,29,Clay,1072,28.3,23.44
+Punjab,Ludhiana,Wheat,Rabi,November,1.15,73,64,95,Red,721,27.7,25.27
+Punjab,Amritsar,Sugarcane,Rabi,April,7.11,53,75,22,Red,531,23.5,207.89
+Maharashtra,Pune,Rice,Kharif,April,7.7,113,83,72,Sandy,840,31.0,31.3
+Andhra Pradesh,Guntur,Tomato,Zaid,January,6.64,89,87,34,Clay,668,24.4,144.22
+West Bengal,Darjeeling,Corn,Annual,July,4.71,79,31,59,Sandy,505,29.2,23.79
+Karnataka,Mandya,Rice,Kharif,March,6.27,161,100,50,Sandy,1071,23.2,41.91
+Maharashtra,Pune,Sugarcane,Rabi,December,7.47,145,37,35,Clay,642,28.3,290.38
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,July,5.57,109,80,37,Loamy,690,34.3,328.31
+Andhra Pradesh,Guntur,Corn,Rabi,December,9.22,116,80,85,Loamy,427,21.7,36.3
+Maharashtra,Pune,Cotton,Rabi,July,5.79,93,81,85,Loamy,551,23.9,28.7
+Uttar Pradesh,Varanasi,Cotton,Annual,March,4.26,180,33,27,Clay,425,30.2,30.37
+Uttar Pradesh,Lucknow,Cotton,Kharif,January,5.74,137,85,72,Clay,870,26.8,31.59
+Tamil Nadu,Thanjavur,Corn,Kharif,June,5.16,56,66,84,Loamy,564,22.0,25.59
+Andhra Pradesh,Kurnool,Cotton,Rabi,May,5.26,141,45,67,Black,982,27.9,38.06
+West Bengal,Howrah,Sugarcane,Zaid,February,8.56,128,35,84,Sandy,1020,25.6,317.66
+Andhra Pradesh,Nellore,Sugarcane,Annual,October,3.89,155,54,85,Black,625,22.6,396.88
+Punjab,Ludhiana,Rice,Zaid,February,3.27,96,35,94,Clay,967,30.4,24.37
+West Bengal,Kolkata,Wheat,Kharif,May,9.06,111,66,31,Red,439,20.4,28.1
+Karnataka,Mysore,Wheat,Kharif,May,9.09,137,63,36,Loamy,625,27.5,33.09
+Karnataka,Mandya,Sugarcane,Annual,January,3.96,110,64,90,Loamy,688,26.8,329.1
+Karnataka,Mysore,Cotton,Kharif,November,6.43,173,94,45,Black,636,23.2,34.76
+Andhra Pradesh,Nellore,Sugarcane,Rabi,November,2.54,153,44,99,Sandy,1013,32.0,334.68
+Maharashtra,Pune,Cotton,Rabi,May,5.13,127,97,84,Clay,832,20.5,36.5
+Karnataka,Mysore,Wheat,Zaid,November,9.63,117,63,61,Sandy,533,22.8,25.57
+Andhra Pradesh,Nellore,Tomato,Rabi,April,9.62,106,47,38,Sandy,1055,28.6,177.23
+Tamil Nadu,Salem,Wheat,Zaid,July,3.07,59,85,31,Red,475,29.5,18.68
+West Bengal,Darjeeling,Tomato,Rabi,June,3.86,108,85,56,Clay,698,20.1,196.28
+Tamil Nadu,Madurai,Cotton,Annual,December,6.27,104,100,36,Sandy,732,31.4,36.86
+Uttar Pradesh,Varanasi,Tomato,Annual,May,3.86,78,83,31,Loamy,1132,31.4,189.62
+Tamil Nadu,Salem,Rice,Rabi,November,3.07,136,92,24,Sandy,1163,30.5,26.96
+Punjab,Ludhiana,Sugarcane,Zaid,February,6.95,176,73,76,Red,707,34.1,472.55
+Uttar Pradesh,Lucknow,Sugarcane,Zaid,April,5.92,156,48,66,Red,624,27.6,392.44
+Andhra Pradesh,Guntur,Cotton,Kharif,December,7.25,142,86,70,Clay,787,32.9,39.94
+West Bengal,Kolkata,Sugarcane,Rabi,January,2.52,74,35,57,Black,1199,21.4,213.01
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,July,7.19,182,59,61,Sandy,606,32.8,416.49
+Karnataka,Mandya,Sugarcane,Zaid,December,5.48,81,80,46,Red,822,33.7,317.23
+Maharashtra,Nashik,Wheat,Annual,March,1.81,178,40,52,Black,433,25.0,31.39
+West Bengal,Howrah,Sugarcane,Zaid,February,2.31,132,41,80,Red,456,28.3,316.4
+Karnataka,Mysore,Wheat,Zaid,April,9.3,198,77,32,Clay,1145,26.3,45.07
+West Bengal,Howrah,Cotton,Kharif,April,2.66,139,82,28,Black,402,23.2,27.35
+West Bengal,Darjeeling,Corn,Annual,April,8.64,98,85,39,Clay,508,21.3,30.14
+Maharashtra,Nagpur,Wheat,Zaid,January,8.54,128,46,88,Clay,1171,32.7,36.48
+Karnataka,Belgaum,Rice,Kharif,November,7.61,73,34,44,Clay,750,26.1,20.83
+Punjab,Amritsar,Corn,Rabi,March,8.79,73,36,46,Sandy,477,26.7,22.02
+Punjab,Amritsar,Wheat,Kharif,February,9.38,174,64,79,Red,1056,24.0,44.42
+Tamil Nadu,Madurai,Rice,Rabi,July,4.85,197,46,82,Sandy,529,24.1,31.86
+Punjab,Ludhiana,Rice,Zaid,February,4.01,75,46,38,Clay,605,29.2,22.95
+West Bengal,Kolkata,Wheat,Annual,March,3.46,124,79,38,Sandy,1094,20.5,30.16
+Maharashtra,Nashik,Rice,Annual,November,9.63,161,48,85,Sandy,1191,24.6,43.97
+Uttar Pradesh,Lucknow,Sugarcane,Zaid,July,7.34,109,74,97,Black,862,22.3,319.96
+Andhra Pradesh,Guntur,Tomato,Kharif,August,1.45,141,56,55,Clay,529,21.8,178.23
+Andhra Pradesh,Kurnool,Sugarcane,Annual,February,3.59,95,42,82,Sandy,657,33.1,233.23
+Karnataka,Mysore,Wheat,Annual,August,8.35,72,52,87,Loamy,714,21.3,26.2
+West Bengal,Kolkata,Tomato,Rabi,August,7.28,124,67,71,Loamy,922,21.8,192.76
+Karnataka,Mysore,Sugarcane,Zaid,November,4.81,139,45,75,Black,404,34.0,308.15
+Uttar Pradesh,Varanasi,Rice,Rabi,April,5.05,183,76,76,Loamy,406,23.6,44.92
+Uttar Pradesh,Lucknow,Wheat,Kharif,September,3.6,76,88,95,Clay,1194,27.3,39.96
+West Bengal,Darjeeling,Rice,Zaid,June,3.74,114,87,45,Red,581,28.1,26.35
+Karnataka,Mysore,Tomato,Rabi,December,1.23,118,52,34,Red,825,25.3,144.03
+Karnataka,Mysore,Sugarcane,Rabi,March,9.09,118,52,83,Sandy,654,27.6,319.22
+Uttar Pradesh,Varanasi,Cotton,Kharif,September,5.84,73,65,83,Sandy,494,28.8,27.18
+West Bengal,Darjeeling,Tomato,Kharif,December,2.96,81,43,49,Red,862,29.4,147.3
+Punjab,Patiala,Tomato,Zaid,July,8.35,66,33,99,Loamy,961,20.5,161.88
+Andhra Pradesh,Guntur,Rice,Kharif,September,2.5,119,57,75,Loamy,698,28.6,35.1
+Tamil Nadu,Madurai,Sugarcane,Rabi,November,4.74,123,43,85,Red,857,29.7,265.87
+Maharashtra,Nashik,Corn,Zaid,December,6.52,138,60,21,Sandy,781,28.9,25.19
+Andhra Pradesh,Kurnool,Cotton,Rabi,November,9.64,89,72,79,Red,511,31.2,25.71
+Karnataka,Belgaum,Sugarcane,Annual,December,6.09,118,62,66,Clay,961,32.4,354.2
+West Bengal,Darjeeling,Cotton,Kharif,July,6.21,109,41,38,Clay,857,29.1,24.09
+Tamil Nadu,Salem,Corn,Zaid,June,4.0,125,96,36,Sandy,1008,31.4,31.78
+Karnataka,Mandya,Wheat,Zaid,May,2.46,143,36,56,Red,964,34.4,27.06
+Uttar Pradesh,Kanpur,Sugarcane,Annual,March,3.58,100,81,30,Clay,1065,26.4,294.72
+West Bengal,Howrah,Wheat,Rabi,February,7.14,175,39,90,Black,444,25.0,32.77
+Maharashtra,Pune,Wheat,Kharif,January,2.65,135,44,98,Sandy,1097,26.2,34.33
+Maharashtra,Pune,Sugarcane,Annual,May,5.74,83,95,39,Loamy,943,21.3,311.3
+Karnataka,Mysore,Corn,Annual,October,8.19,151,59,88,Black,962,22.7,33.99
+Maharashtra,Nashik,Sugarcane,Kharif,September,2.84,75,53,20,Clay,1170,29.4,225.75
+Karnataka,Mandya,Cotton,Zaid,September,5.34,73,55,44,Sandy,510,27.8,20.26
+Tamil Nadu,Salem,Sugarcane,Kharif,December,6.75,183,85,100,Black,939,20.1,473.99
+Punjab,Ludhiana,Tomato,Rabi,February,1.91,74,91,76,Red,1112,33.1,152.26
+Tamil Nadu,Madurai,Tomato,Kharif,April,1.03,87,39,94,Red,1101,20.6,175.29
+West Bengal,Howrah,Wheat,Annual,May,9.63,96,34,96,Black,573,34.1,34.0
+West Bengal,Kolkata,Tomato,Zaid,February,2.2,98,42,80,Clay,594,23.6,140.4
+Karnataka,Mysore,Sugarcane,Annual,August,2.18,195,73,33,Red,1017,25.7,424.94
+Uttar Pradesh,Varanasi,Corn,Zaid,August,5.45,155,37,41,Loamy,1140,30.5,34.32
+Andhra Pradesh,Nellore,Wheat,Annual,July,5.74,60,40,45,Sandy,733,32.6,25.17
+Andhra Pradesh,Guntur,Wheat,Zaid,June,7.63,196,98,49,Black,834,21.5,34.75
+Tamil Nadu,Madurai,Tomato,Annual,March,6.45,128,51,51,Sandy,878,22.7,206.16
+Tamil Nadu,Salem,Wheat,Rabi,January,7.26,162,79,60,Loamy,664,24.9,37.96
+Uttar Pradesh,Lucknow,Cotton,Annual,April,2.85,108,65,51,Loamy,475,31.2,25.07
+Punjab,Ludhiana,Wheat,Rabi,January,5.09,179,47,66,Clay,449,27.6,33.86
+Punjab,Amritsar,Rice,Annual,July,8.34,120,45,94,Black,990,33.9,39.32
+Karnataka,Mandya,Rice,Rabi,November,1.46,132,90,68,Clay,1136,26.6,35.84
+West Bengal,Howrah,Wheat,Annual,May,2.67,86,64,89,Red,806,20.8,24.31
+Karnataka,Belgaum,Rice,Rabi,November,6.97,181,54,25,Clay,625,28.5,27.69
+Andhra Pradesh,Guntur,Tomato,Rabi,September,5.82,105,90,31,Black,705,33.1,175.16
+Andhra Pradesh,Guntur,Sugarcane,Annual,April,1.55,115,89,63,Red,679,34.9,259.56
+West Bengal,Darjeeling,Sugarcane,Annual,June,3.61,123,35,49,Loamy,922,30.4,246.13
+Uttar Pradesh,Varanasi,Corn,Annual,February,8.05,110,59,100,Loamy,968,25.3,36.22
+West Bengal,Darjeeling,Corn,Annual,November,8.18,71,88,73,Loamy,1106,21.3,36.87
+Maharashtra,Nagpur,Sugarcane,Kharif,November,2.88,114,33,56,Clay,1043,34.0,242.76
+Punjab,Amritsar,Cotton,Annual,January,5.85,61,37,61,Clay,1136,21.3,20.12
+Uttar Pradesh,Lucknow,Wheat,Zaid,July,8.09,145,97,44,Clay,1136,22.9,34.23
+Uttar Pradesh,Varanasi,Rice,Rabi,September,8.43,147,89,90,Clay,465,24.3,37.37
+West Bengal,Howrah,Wheat,Rabi,September,4.95,171,98,83,Clay,832,27.9,47.94
+Karnataka,Belgaum,Corn,Kharif,April,1.58,193,95,55,Clay,1092,32.4,33.46
+Andhra Pradesh,Kurnool,Wheat,Kharif,July,8.07,114,58,38,Clay,451,26.6,24.74
+Punjab,Ludhiana,Tomato,Kharif,January,5.24,112,75,30,Red,976,23.1,184.79
+Uttar Pradesh,Varanasi,Wheat,Kharif,September,4.4,64,61,76,Red,1158,32.3,28.41
+Tamil Nadu,Madurai,Tomato,Annual,August,6.74,53,65,62,Black,831,29.9,154.31
+Tamil Nadu,Salem,Rice,Zaid,February,1.95,113,44,52,Black,484,23.6,27.5
+West Bengal,Kolkata,Wheat,Rabi,August,3.53,59,38,49,Loamy,783,33.5,18.97
+Karnataka,Belgaum,Wheat,Rabi,July,6.2,190,80,61,Black,740,24.9,43.11
+Maharashtra,Nagpur,Cotton,Rabi,February,5.07,138,67,24,Black,710,26.9,24.66
+Tamil Nadu,Madurai,Tomato,Annual,December,2.95,91,56,74,Loamy,612,33.4,178.42
+Tamil Nadu,Salem,Rice,Annual,November,9.27,56,76,41,Sandy,869,25.5,23.65
+Andhra Pradesh,Nellore,Wheat,Rabi,March,6.63,123,75,96,Red,751,28.7,29.69
+Punjab,Patiala,Wheat,Zaid,December,3.89,75,64,26,Loamy,636,22.6,25.76
+Uttar Pradesh,Varanasi,Wheat,Zaid,June,8.58,166,92,65,Red,1164,34.9,37.66
+West Bengal,Howrah,Tomato,Zaid,August,7.71,83,69,65,Red,1168,33.3,221.26
+West Bengal,Darjeeling,Rice,Rabi,August,5.13,118,94,41,Loamy,464,27.4,34.31
+Punjab,Amritsar,Sugarcane,Kharif,August,7.24,192,61,92,Red,1049,26.4,499.64
+West Bengal,Kolkata,Rice,Annual,July,8.67,116,42,51,Sandy,712,20.8,32.06
+West Bengal,Kolkata,Sugarcane,Zaid,November,7.28,156,33,27,Clay,781,25.3,349.28
+Maharashtra,Nashik,Sugarcane,Annual,July,4.42,183,73,58,Clay,1056,26.9,348.43
+Maharashtra,Pune,Sugarcane,Annual,September,6.19,139,73,77,Loamy,708,27.1,367.07
+West Bengal,Darjeeling,Sugarcane,Kharif,June,7.97,179,31,83,Red,629,28.5,409.42
+Andhra Pradesh,Nellore,Wheat,Annual,January,2.35,160,61,38,Clay,760,32.4,29.86
+Maharashtra,Nashik,Cotton,Rabi,November,9.83,191,42,70,Clay,861,27.2,40.37
+Punjab,Amritsar,Rice,Rabi,February,2.55,82,60,25,Red,1016,28.0,25.27
+Tamil Nadu,Salem,Cotton,Zaid,May,7.95,175,49,78,Black,948,22.0,35.52
+Maharashtra,Nagpur,Sugarcane,Annual,October,1.38,154,46,84,Sandy,1187,23.2,294.21
+Karnataka,Belgaum,Sugarcane,Annual,December,6.75,62,36,28,Loamy,483,22.7,153.62
+Andhra Pradesh,Kurnool,Cotton,Zaid,September,9.09,191,78,81,Black,1085,22.1,46.66
+Uttar Pradesh,Lucknow,Corn,Rabi,July,1.22,107,64,47,Sandy,460,26.0,21.57
+Tamil Nadu,Salem,Cotton,Kharif,February,9.79,92,85,93,Loamy,480,28.6,32.84
+Maharashtra,Nashik,Tomato,Rabi,April,7.77,189,65,83,Sandy,422,24.8,214.18
+Uttar Pradesh,Kanpur,Cotton,Annual,August,8.75,182,87,59,Clay,1155,27.1,35.43
+Tamil Nadu,Salem,Cotton,Annual,August,1.7,72,80,20,Red,1060,20.7,27.23
+Karnataka,Mysore,Rice,Rabi,April,7.5,110,51,53,Sandy,512,21.8,32.71
+Tamil Nadu,Madurai,Tomato,Rabi,September,8.09,79,43,32,Sandy,515,33.6,142.62
+Maharashtra,Nashik,Wheat,Kharif,October,9.62,63,96,76,Clay,470,31.9,25.2
+Maharashtra,Pune,Corn,Zaid,December,2.13,95,38,69,Clay,499,34.8,21.21
+Andhra Pradesh,Kurnool,Corn,Annual,June,1.8,176,78,80,Loamy,971,24.2,45.38
+Andhra Pradesh,Kurnool,Tomato,Zaid,May,9.33,119,56,94,Clay,704,32.6,206.3
+Karnataka,Belgaum,Tomato,Rabi,September,6.1,152,95,55,Loamy,1108,27.3,207.1
+Maharashtra,Nashik,Cotton,Zaid,January,5.81,198,65,95,Sandy,613,29.6,48.14
+Karnataka,Belgaum,Cotton,Zaid,November,8.15,172,33,62,Red,1103,24.4,38.25
+Uttar Pradesh,Kanpur,Rice,Annual,December,3.89,64,64,57,Clay,1177,22.9,22.28
+Andhra Pradesh,Guntur,Rice,Zaid,August,4.85,93,52,55,Black,508,30.4,28.22
+Punjab,Patiala,Wheat,Rabi,February,3.89,104,53,65,Sandy,753,30.4,25.13
+Maharashtra,Nagpur,Corn,Annual,December,1.23,65,45,82,Sandy,1040,32.2,23.28
+Tamil Nadu,Thanjavur,Cotton,Zaid,January,1.8,71,96,25,Red,926,22.9,23.9
+Andhra Pradesh,Guntur,Wheat,Rabi,February,3.01,118,51,32,Sandy,528,24.7,23.72
+Tamil Nadu,Madurai,Tomato,Rabi,November,2.56,53,75,40,Loamy,488,27.1,115.02
+Maharashtra,Nagpur,Rice,Kharif,November,2.85,159,50,95,Red,834,28.9,36.5
+West Bengal,Howrah,Corn,Rabi,February,6.07,179,42,31,Sandy,667,20.0,26.69
+Karnataka,Mysore,Cotton,Zaid,December,3.13,194,57,94,Sandy,1190,20.0,49.68
+Karnataka,Mysore,Wheat,Annual,January,4.5,99,72,84,Clay,664,24.3,36.75
+West Bengal,Kolkata,Cotton,Zaid,April,6.16,68,49,62,Clay,1047,34.9,23.42
+Andhra Pradesh,Guntur,Tomato,Rabi,January,8.52,72,54,45,Black,788,25.3,156.29
+Andhra Pradesh,Guntur,Cotton,Kharif,September,4.75,139,62,52,Red,582,34.5,32.52
+Andhra Pradesh,Guntur,Sugarcane,Zaid,July,7.26,115,42,58,Sandy,460,31.5,296.02
+Andhra Pradesh,Nellore,Cotton,Rabi,December,9.37,181,42,66,Red,410,29.1,40.89
+Andhra Pradesh,Guntur,Corn,Rabi,February,6.42,188,44,80,Loamy,524,28.7,34.53
+Uttar Pradesh,Lucknow,Rice,Kharif,October,3.67,51,81,96,Red,1156,29.0,24.61
+Punjab,Ludhiana,Wheat,Zaid,March,9.77,120,84,83,Black,928,27.7,41.15
+Uttar Pradesh,Lucknow,Cotton,Rabi,December,1.11,180,99,50,Black,504,25.6,29.19
+Andhra Pradesh,Guntur,Tomato,Rabi,August,9.44,120,100,90,Red,913,22.4,255.58
+Tamil Nadu,Salem,Wheat,Zaid,August,1.29,116,65,26,Loamy,425,27.9,21.02
+Tamil Nadu,Salem,Tomato,Rabi,October,1.33,111,87,46,Clay,530,26.7,167.11
+Uttar Pradesh,Varanasi,Rice,Annual,June,2.28,128,39,59,Loamy,711,21.1,30.69
+Maharashtra,Nashik,Cotton,Zaid,September,3.78,176,54,80,Clay,992,32.9,36.7
+Karnataka,Mandya,Sugarcane,Kharif,October,3.06,135,74,83,Loamy,1074,31.8,381.14
+Karnataka,Mysore,Corn,Annual,June,8.73,153,67,22,Black,500,30.4,32.7
+Punjab,Patiala,Rice,Kharif,July,6.25,170,94,82,Loamy,1019,20.2,43.59
+Tamil Nadu,Madurai,Cotton,Kharif,April,7.2,185,48,86,Loamy,489,20.3,37.73
+Maharashtra,Nagpur,Tomato,Rabi,October,2.24,111,34,78,Sandy,1103,32.5,152.57
+Andhra Pradesh,Kurnool,Corn,Zaid,December,4.81,52,47,67,Loamy,1067,28.2,21.52
+Karnataka,Mandya,Cotton,Kharif,February,1.37,138,84,25,Sandy,622,24.2,28.7
+Andhra Pradesh,Nellore,Rice,Annual,July,2.63,158,43,97,Loamy,543,22.4,33.83
+West Bengal,Kolkata,Tomato,Kharif,July,9.86,88,83,70,Red,894,27.5,167.36
+Uttar Pradesh,Lucknow,Sugarcane,Annual,July,1.05,146,33,46,Loamy,459,27.6,234.59
+Uttar Pradesh,Kanpur,Tomato,Kharif,July,2.58,185,95,70,Red,492,34.9,198.54
+West Bengal,Kolkata,Rice,Kharif,February,5.21,190,73,99,Loamy,954,34.3,41.55
+Maharashtra,Nashik,Cotton,Kharif,November,9.24,82,94,80,Sandy,689,23.6,38.37
+Tamil Nadu,Madurai,Rice,Zaid,June,5.35,78,53,57,Sandy,665,21.2,20.35
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,August,9.18,64,76,42,Black,468,20.4,296.63
+Uttar Pradesh,Kanpur,Sugarcane,Zaid,January,4.46,172,48,45,Black,1109,26.8,345.57
+Tamil Nadu,Madurai,Corn,Zaid,September,8.1,166,57,89,Clay,1184,29.7,43.15
+Maharashtra,Nagpur,Tomato,Zaid,January,3.14,102,73,32,Clay,820,30.2,171.16
+Andhra Pradesh,Kurnool,Rice,Zaid,October,6.74,117,62,83,Red,925,22.1,39.66
+Andhra Pradesh,Guntur,Rice,Kharif,February,1.71,196,76,51,Red,407,24.4,34.8
+Karnataka,Mysore,Wheat,Kharif,July,6.45,101,79,48,Clay,855,25.0,24.46
+Uttar Pradesh,Varanasi,Corn,Kharif,May,8.05,102,53,81,Clay,1199,20.8,34.78
+West Bengal,Howrah,Corn,Annual,May,3.85,110,79,84,Red,423,26.6,31.38
+Maharashtra,Pune,Sugarcane,Rabi,July,1.01,51,72,63,Sandy,832,34.3,204.88
+West Bengal,Howrah,Tomato,Rabi,August,3.2,76,60,71,Black,555,34.6,130.97
+Uttar Pradesh,Lucknow,Cotton,Annual,November,2.4,149,99,20,Loamy,546,20.2,24.89
+Maharashtra,Nashik,Corn,Zaid,January,6.41,63,58,43,Loamy,1142,22.7,21.57
+West Bengal,Howrah,Sugarcane,Annual,December,5.12,115,53,90,Clay,1089,20.1,305.21
+Tamil Nadu,Thanjavur,Sugarcane,Zaid,September,3.37,154,74,92,Red,1055,24.4,445.5
+Uttar Pradesh,Varanasi,Wheat,Rabi,July,4.94,139,80,57,Black,1068,31.8,39.88
+Maharashtra,Pune,Sugarcane,Rabi,December,8.75,58,61,61,Sandy,428,30.0,260.24
+Maharashtra,Nagpur,Sugarcane,Rabi,February,2.42,123,36,74,Sandy,658,27.1,303.72
+West Bengal,Darjeeling,Cotton,Zaid,January,4.27,160,71,28,Loamy,866,24.5,31.21
+Andhra Pradesh,Nellore,Cotton,Kharif,July,5.28,69,47,63,Black,769,22.6,28.86
+Andhra Pradesh,Nellore,Corn,Annual,July,9.16,119,47,95,Clay,468,33.9,29.67
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,August,2.62,78,92,58,Black,505,22.9,250.83
+Maharashtra,Pune,Wheat,Kharif,November,7.61,102,93,80,Black,747,20.4,40.86
+Andhra Pradesh,Guntur,Tomato,Rabi,September,8.61,94,54,26,Black,820,21.0,146.32
+Tamil Nadu,Salem,Rice,Kharif,April,9.8,84,50,87,Red,974,20.7,28.03
+Andhra Pradesh,Nellore,Rice,Kharif,March,4.52,160,38,60,Red,685,21.7,25.61
+Andhra Pradesh,Guntur,Rice,Rabi,September,4.44,190,66,94,Clay,719,30.9,39.31
+Karnataka,Mysore,Wheat,Kharif,March,3.35,103,30,94,Black,1179,31.9,27.91
+Uttar Pradesh,Lucknow,Corn,Rabi,January,6.27,107,69,98,Black,1036,27.0,32.76
+Karnataka,Belgaum,Rice,Rabi,November,2.99,79,60,76,Sandy,496,27.9,30.54
+Punjab,Patiala,Rice,Kharif,February,6.18,174,39,41,Red,723,25.2,37.44
+Punjab,Amritsar,Cotton,Annual,May,9.95,189,89,58,Black,1080,25.0,41.29
+Maharashtra,Nashik,Rice,Rabi,February,9.86,153,61,47,Loamy,963,27.7,33.79
+Maharashtra,Nashik,Wheat,Zaid,September,1.65,177,58,96,Loamy,1019,24.4,32.94
+Maharashtra,Nagpur,Tomato,Annual,November,4.2,107,44,92,Sandy,899,20.1,163.84
+Andhra Pradesh,Guntur,Wheat,Zaid,October,5.88,71,48,30,Black,799,27.6,17.56
+Tamil Nadu,Madurai,Cotton,Zaid,October,7.08,100,94,94,Black,870,34.9,37.29
+Tamil Nadu,Thanjavur,Tomato,Rabi,March,1.03,176,44,75,Red,1200,24.6,245.12
+Punjab,Amritsar,Cotton,Zaid,July,1.53,151,86,31,Red,479,23.9,32.48
+Uttar Pradesh,Kanpur,Rice,Rabi,May,6.23,169,92,100,Red,516,21.7,47.47
+Uttar Pradesh,Lucknow,Rice,Kharif,December,6.72,100,81,63,Black,1162,29.3,37.72
+Maharashtra,Nagpur,Wheat,Annual,January,5.32,101,45,58,Sandy,854,33.9,27.94
+Maharashtra,Nagpur,Wheat,Zaid,March,4.51,53,45,31,Loamy,442,34.6,19.92
+West Bengal,Darjeeling,Rice,Zaid,December,7.86,98,63,46,Sandy,442,33.0,23.62
+Punjab,Amritsar,Sugarcane,Rabi,January,6.57,165,56,32,Black,652,21.4,288.51
+West Bengal,Darjeeling,Tomato,Kharif,January,6.47,196,81,46,Loamy,665,26.3,226.6
+Punjab,Amritsar,Cotton,Annual,November,2.67,74,79,36,Black,604,26.5,22.83
+West Bengal,Kolkata,Cotton,Zaid,November,1.7,132,38,33,Black,625,29.3,23.6
+Punjab,Patiala,Wheat,Zaid,January,5.14,58,81,91,Clay,1179,26.1,26.32
+Uttar Pradesh,Varanasi,Cotton,Zaid,March,4.69,164,52,26,Clay,880,27.9,36.96
+Tamil Nadu,Madurai,Rice,Zaid,February,1.04,152,66,48,Clay,1136,30.9,30.56
+Maharashtra,Nagpur,Cotton,Annual,December,7.28,66,60,80,Black,925,33.0,27.31
+Andhra Pradesh,Nellore,Rice,Zaid,February,4.95,172,99,51,Red,680,31.6,33.72
+Maharashtra,Nagpur,Rice,Annual,June,8.58,189,76,98,Black,843,27.2,47.67
+Karnataka,Belgaum,Cotton,Kharif,February,8.87,137,82,20,Clay,674,31.6,35.03
+Maharashtra,Nagpur,Corn,Annual,February,8.57,118,72,21,Red,996,33.3,31.12
+Andhra Pradesh,Kurnool,Rice,Annual,January,4.51,108,87,76,Clay,866,27.1,37.04
+Uttar Pradesh,Kanpur,Sugarcane,Rabi,January,1.84,53,95,45,Loamy,1046,21.7,267.31
+Tamil Nadu,Thanjavur,Wheat,Rabi,February,3.65,173,79,73,Loamy,676,32.6,38.73
+Uttar Pradesh,Kanpur,Rice,Rabi,February,4.93,143,82,21,Red,654,34.4,26.1
+Uttar Pradesh,Lucknow,Tomato,Rabi,December,4.17,110,59,35,Clay,1197,28.4,160.65
+Punjab,Amritsar,Wheat,Kharif,September,5.13,54,74,30,Loamy,678,33.2,20.45
+West Bengal,Howrah,Sugarcane,Zaid,January,3.64,72,89,38,Sandy,626,29.6,287.19
+Maharashtra,Pune,Wheat,Zaid,December,5.33,126,71,34,Red,1026,21.8,34.41
+Uttar Pradesh,Varanasi,Sugarcane,Annual,November,6.56,92,60,75,Black,600,24.1,323.72
+Andhra Pradesh,Nellore,Cotton,Annual,September,4.12,113,43,51,Loamy,1141,29.4,33.83
+Maharashtra,Nashik,Tomato,Zaid,September,6.94,99,65,84,Red,601,27.4,202.39
+West Bengal,Howrah,Rice,Zaid,October,8.8,64,31,90,Sandy,963,27.0,29.25
+Punjab,Patiala,Wheat,Annual,December,6.71,134,71,40,Clay,865,22.8,26.81
+Uttar Pradesh,Kanpur,Sugarcane,Rabi,April,4.71,80,55,42,Black,1012,31.5,229.63
+Tamil Nadu,Madurai,Rice,Rabi,August,4.5,51,77,39,Black,997,22.6,27.62
+Maharashtra,Nagpur,Rice,Rabi,March,8.43,170,77,52,Black,830,34.8,32.0
+Punjab,Ludhiana,Wheat,Kharif,June,7.88,90,87,21,Sandy,1137,26.4,25.16
+West Bengal,Kolkata,Rice,Rabi,May,8.87,137,87,66,Red,402,30.5,41.31
+Karnataka,Belgaum,Tomato,Annual,July,6.85,155,44,74,Red,1122,20.8,180.92
+West Bengal,Kolkata,Cotton,Rabi,July,4.58,54,81,71,Sandy,1197,34.9,33.33
+Andhra Pradesh,Kurnool,Cotton,Zaid,February,8.22,104,68,99,Sandy,433,27.7,30.03
+Uttar Pradesh,Varanasi,Rice,Kharif,June,9.39,73,70,88,Red,1081,34.3,37.21
+Tamil Nadu,Madurai,Tomato,Rabi,March,1.85,69,38,74,Sandy,1123,32.0,124.68
+Tamil Nadu,Thanjavur,Sugarcane,Annual,July,9.44,181,87,97,Loamy,1070,25.6,398.57
+Maharashtra,Nashik,Corn,Annual,August,2.5,100,75,46,Loamy,1161,34.7,23.53
+Tamil Nadu,Madurai,Sugarcane,Zaid,May,3.86,71,94,25,Black,898,28.5,257.51
+Andhra Pradesh,Kurnool,Rice,Zaid,September,1.62,115,53,39,Red,714,29.7,26.48
+Karnataka,Belgaum,Wheat,Annual,July,2.5,125,95,43,Clay,980,20.8,38.79
+Karnataka,Mandya,Cotton,Rabi,February,1.01,69,58,51,Red,716,25.6,25.98
+Karnataka,Belgaum,Wheat,Rabi,November,8.91,187,37,89,Red,1031,28.7,39.51
+Punjab,Amritsar,Wheat,Zaid,May,3.1,179,43,89,Clay,529,32.6,29.36
+Punjab,Amritsar,Cotton,Rabi,December,4.91,66,83,96,Loamy,1052,21.8,34.82
+Punjab,Patiala,Wheat,Kharif,September,1.04,162,99,86,Black,1128,34.8,46.03
+Andhra Pradesh,Nellore,Sugarcane,Zaid,September,5.98,178,75,86,Loamy,435,22.7,396.5
+West Bengal,Darjeeling,Tomato,Kharif,April,6.69,172,67,34,Black,607,34.3,225.35
+Andhra Pradesh,Kurnool,Sugarcane,Kharif,May,2.58,130,99,48,Red,808,20.1,269.69
+West Bengal,Darjeeling,Corn,Annual,July,8.77,163,49,39,Clay,1164,31.6,36.55
+Uttar Pradesh,Kanpur,Cotton,Annual,October,2.18,71,77,41,Red,698,30.2,20.17
+West Bengal,Kolkata,Tomato,Rabi,September,7.16,154,72,48,Loamy,439,23.0,227.94
+Uttar Pradesh,Kanpur,Rice,Annual,October,1.43,190,75,75,Red,534,22.7,32.93
+Uttar Pradesh,Lucknow,Sugarcane,Annual,March,8.02,126,97,68,Black,676,21.6,306.08
+Punjab,Amritsar,Sugarcane,Annual,May,5.19,103,92,75,Red,1019,25.9,286.4
+Karnataka,Mandya,Sugarcane,Zaid,February,4.46,69,41,95,Loamy,561,34.4,209.91
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,January,2.69,73,53,24,Red,411,20.5,218.32
+Andhra Pradesh,Guntur,Wheat,Zaid,December,2.58,166,35,79,Loamy,1130,26.9,39.5
+Uttar Pradesh,Lucknow,Sugarcane,Kharif,April,2.9,108,86,21,Clay,424,32.6,222.42
+Tamil Nadu,Salem,Corn,Zaid,September,1.27,144,51,56,Loamy,464,29.2,22.65
+West Bengal,Howrah,Corn,Rabi,December,7.39,103,78,73,Red,456,22.7,30.47
+West Bengal,Darjeeling,Rice,Kharif,March,4.67,72,51,23,Clay,664,26.5,18.74
+West Bengal,Darjeeling,Tomato,Zaid,August,9.66,80,53,47,Red,453,25.5,176.43
+Tamil Nadu,Thanjavur,Rice,Rabi,October,6.87,167,89,37,Sandy,717,25.9,38.57
+Punjab,Amritsar,Rice,Zaid,June,8.83,157,87,60,Black,1180,20.5,32.87
+Andhra Pradesh,Guntur,Wheat,Annual,December,3.84,176,53,72,Loamy,582,24.3,36.06
+Karnataka,Belgaum,Tomato,Zaid,November,2.22,181,60,30,Red,404,23.4,196.29
+Tamil Nadu,Thanjavur,Sugarcane,Zaid,July,5.46,67,64,22,Clay,832,32.5,248.72
+Karnataka,Belgaum,Tomato,Kharif,December,8.83,134,74,61,Loamy,574,26.1,200.04
+Andhra Pradesh,Guntur,Tomato,Rabi,May,2.19,152,83,25,Sandy,694,22.3,159.02
+Uttar Pradesh,Kanpur,Corn,Annual,October,1.46,152,46,22,Loamy,519,28.5,26.98
+Karnataka,Mysore,Tomato,Annual,June,9.52,93,84,93,Clay,773,27.8,247.82
+Andhra Pradesh,Nellore,Rice,Zaid,March,1.42,102,69,82,Clay,411,31.9,32.62
+West Bengal,Howrah,Cotton,Kharif,September,4.27,140,71,20,Clay,542,30.0,26.63
+Tamil Nadu,Salem,Rice,Rabi,January,6.08,145,78,58,Red,1053,21.4,40.18
+Tamil Nadu,Thanjavur,Corn,Rabi,February,8.08,75,45,58,Black,834,29.9,29.06
+West Bengal,Darjeeling,Wheat,Rabi,September,4.72,102,55,22,Sandy,575,21.4,22.45
+West Bengal,Darjeeling,Corn,Rabi,August,3.6,54,93,20,Loamy,585,22.3,22.22
+Tamil Nadu,Salem,Rice,Kharif,June,4.75,155,67,87,Clay,757,21.8,31.83
+Uttar Pradesh,Varanasi,Wheat,Kharif,September,3.49,180,46,23,Loamy,556,34.7,28.81
+Andhra Pradesh,Guntur,Cotton,Zaid,October,3.56,186,44,61,Red,1190,24.2,37.25
+Karnataka,Mandya,Rice,Zaid,May,1.13,83,68,98,Sandy,627,33.4,33.11
+Maharashtra,Nagpur,Corn,Annual,June,1.81,155,67,68,Red,550,28.2,26.66
+Andhra Pradesh,Guntur,Wheat,Annual,June,4.83,101,34,70,Clay,1111,21.0,27.51
+Punjab,Patiala,Rice,Zaid,August,4.09,129,96,90,Clay,756,29.5,40.38
+Tamil Nadu,Madurai,Tomato,Zaid,August,2.56,174,85,97,Clay,700,33.4,243.46
+Maharashtra,Pune,Wheat,Rabi,November,8.36,144,74,42,Sandy,750,32.6,36.35
+West Bengal,Howrah,Rice,Rabi,August,8.74,90,77,37,Loamy,931,22.8,33.14
+Maharashtra,Nashik,Tomato,Zaid,January,3.5,83,86,42,Sandy,564,33.9,158.07
+Karnataka,Mandya,Sugarcane,Kharif,February,1.81,88,34,92,Loamy,1087,22.2,229.88
+Tamil Nadu,Madurai,Cotton,Zaid,September,5.5,195,86,76,Clay,850,34.2,37.93
+West Bengal,Kolkata,Rice,Annual,October,8.39,52,67,26,Clay,537,23.2,19.84
+Maharashtra,Nagpur,Rice,Kharif,October,7.92,101,47,38,Sandy,488,22.6,26.52
+Uttar Pradesh,Kanpur,Sugarcane,Rabi,August,3.91,140,83,70,Loamy,661,30.0,313.13
+West Bengal,Kolkata,Wheat,Rabi,September,5.43,118,86,83,Loamy,405,25.1,35.1
+Tamil Nadu,Salem,Cotton,Kharif,February,6.61,136,57,44,Black,1199,33.7,39.05
+Uttar Pradesh,Lucknow,Cotton,Annual,March,4.09,90,74,47,Sandy,719,28.7,21.9
+Karnataka,Belgaum,Sugarcane,Kharif,May,9.99,75,38,94,Loamy,586,34.7,326.45
+Karnataka,Mysore,Corn,Zaid,April,7.12,70,92,65,Sandy,991,34.9,27.53
+Maharashtra,Pune,Wheat,Rabi,July,2.31,194,84,95,Red,427,34.9,37.72
+West Bengal,Kolkata,Wheat,Zaid,May,5.47,110,83,98,Red,427,25.8,35.89
+Karnataka,Belgaum,Wheat,Kharif,October,8.16,140,41,36,Loamy,916,34.8,34.19
+Tamil Nadu,Thanjavur,Cotton,Zaid,March,7.06,180,51,51,Clay,1174,29.8,32.04
+Punjab,Amritsar,Corn,Zaid,May,1.92,191,35,89,Red,714,32.3,31.73
+Maharashtra,Nagpur,Cotton,Annual,April,3.27,141,84,89,Black,745,22.1,41.1
+Karnataka,Mysore,Rice,Rabi,July,8.99,120,86,69,Sandy,499,25.4,37.87
+Andhra Pradesh,Kurnool,Cotton,Annual,December,3.98,150,44,74,Clay,1130,21.0,39.83
+Karnataka,Belgaum,Rice,Kharif,January,1.87,169,32,26,Clay,622,22.0,25.54
+Karnataka,Mandya,Rice,Kharif,March,9.47,65,84,41,Loamy,610,33.1,30.17
+Karnataka,Mysore,Rice,Zaid,May,3.51,160,35,29,Black,1128,22.2,31.53
+Karnataka,Mandya,Sugarcane,Annual,September,5.21,163,80,94,Sandy,1012,32.0,441.17
+Maharashtra,Pune,Corn,Kharif,September,1.23,54,55,98,Loamy,771,34.0,27.88
+West Bengal,Darjeeling,Cotton,Kharif,December,7.31,145,67,42,Black,981,33.4,33.12
+Maharashtra,Nagpur,Tomato,Zaid,September,9.51,169,76,26,Sandy,704,23.4,190.75
+Andhra Pradesh,Nellore,Wheat,Kharif,November,3.67,120,46,50,Loamy,1008,30.2,28.42
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,January,4.57,100,54,69,Clay,552,25.7,255.7
+West Bengal,Darjeeling,Wheat,Zaid,July,8.79,77,64,78,Clay,516,20.6,32.03
+Maharashtra,Nashik,Sugarcane,Kharif,February,3.7,195,41,47,Sandy,467,20.4,312.52
+West Bengal,Kolkata,Rice,Kharif,June,5.7,73,36,95,Red,710,23.3,26.97
+Tamil Nadu,Thanjavur,Sugarcane,Annual,January,9.51,199,47,21,Red,814,23.6,331.52
+Maharashtra,Pune,Sugarcane,Annual,April,1.41,143,70,55,Sandy,684,32.5,271.12
+Tamil Nadu,Madurai,Rice,Annual,January,1.59,133,42,86,Clay,819,34.9,29.89
+Maharashtra,Pune,Tomato,Kharif,November,5.56,144,34,51,Black,885,26.0,168.04
+West Bengal,Kolkata,Corn,Annual,December,5.03,115,47,63,Black,425,24.5,27.68
+Maharashtra,Pune,Wheat,Annual,November,4.98,189,31,80,Loamy,1000,23.4,42.7
+West Bengal,Howrah,Wheat,Rabi,November,9.85,57,75,100,Sandy,1168,20.3,32.32
+Andhra Pradesh,Kurnool,Corn,Zaid,October,1.72,181,71,31,Sandy,578,31.4,32.71
+Tamil Nadu,Salem,Cotton,Annual,July,6.88,125,49,45,Loamy,625,31.2,25.35
+West Bengal,Darjeeling,Rice,Annual,October,2.01,109,63,51,Clay,815,24.3,30.52
+West Bengal,Howrah,Sugarcane,Kharif,April,7.74,78,82,86,Loamy,765,23.7,323.79
+Uttar Pradesh,Kanpur,Wheat,Rabi,January,1.37,69,97,71,Black,1107,20.1,31.15
+Karnataka,Mandya,Rice,Zaid,May,6.74,60,67,39,Red,594,27.6,20.11
+Maharashtra,Pune,Sugarcane,Zaid,November,3.8,197,69,73,Sandy,412,28.4,416.92
+Punjab,Amritsar,Cotton,Rabi,June,5.47,116,79,80,Loamy,440,27.1,33.87
+Andhra Pradesh,Guntur,Cotton,Rabi,March,1.15,195,35,65,Red,724,34.9,30.61
+Uttar Pradesh,Varanasi,Corn,Kharif,June,4.85,97,41,74,Clay,1004,24.9,29.9
+Maharashtra,Nagpur,Corn,Kharif,June,8.91,125,52,27,Red,662,30.8,27.69
+Uttar Pradesh,Varanasi,Rice,Annual,November,1.6,196,75,89,Sandy,1164,33.6,39.88
+Andhra Pradesh,Guntur,Sugarcane,Annual,July,4.01,181,37,28,Red,835,25.1,266.17
+Punjab,Patiala,Cotton,Rabi,May,2.23,192,85,27,Sandy,1183,33.4,30.57
+Andhra Pradesh,Nellore,Cotton,Rabi,October,5.56,135,91,59,Clay,471,29.1,32.9
+Maharashtra,Pune,Rice,Kharif,September,4.03,136,47,54,Sandy,999,23.0,32.55
+Tamil Nadu,Salem,Sugarcane,Rabi,August,4.2,68,33,100,Clay,771,29.1,254.0
+Uttar Pradesh,Varanasi,Corn,Zaid,August,2.78,135,79,69,Loamy,477,22.9,38.06
+Maharashtra,Nagpur,Tomato,Zaid,December,2.8,155,89,41,Black,1072,28.0,173.08
+Maharashtra,Pune,Rice,Zaid,February,6.29,60,95,62,Red,1182,25.3,29.58
+Tamil Nadu,Madurai,Cotton,Zaid,October,9.59,157,55,28,Black,558,34.2,27.94
+West Bengal,Kolkata,Corn,Zaid,April,8.84,188,79,30,Red,834,20.4,45.52
+Uttar Pradesh,Kanpur,Rice,Rabi,April,4.72,58,76,56,Clay,699,20.0,25.89
+Andhra Pradesh,Guntur,Corn,Rabi,June,8.64,137,68,21,Black,1111,27.0,37.32
+Punjab,Ludhiana,Corn,Zaid,January,4.99,185,57,87,Loamy,823,28.9,46.59
+Karnataka,Mysore,Tomato,Rabi,March,3.64,80,92,86,Clay,563,21.3,198.23
+Uttar Pradesh,Kanpur,Sugarcane,Annual,March,8.9,158,74,37,Black,524,23.0,397.52
+Uttar Pradesh,Lucknow,Wheat,Annual,November,7.85,139,82,83,Loamy,407,32.0,34.54
+Maharashtra,Nagpur,Sugarcane,Rabi,July,9.05,88,43,41,Loamy,533,29.8,268.48
+Andhra Pradesh,Guntur,Sugarcane,Rabi,May,7.17,199,80,54,Loamy,583,22.4,431.54
+West Bengal,Kolkata,Rice,Zaid,January,5.41,181,44,22,Clay,637,33.2,28.55
+Punjab,Ludhiana,Corn,Zaid,July,5.5,125,50,100,Loamy,402,31.4,36.21
+Karnataka,Mysore,Sugarcane,Annual,April,9.09,60,63,28,Black,612,32.2,241.24
+Uttar Pradesh,Kanpur,Tomato,Rabi,September,5.23,61,92,100,Sandy,1189,22.4,225.92
+Punjab,Ludhiana,Wheat,Kharif,December,6.97,172,78,42,Loamy,695,32.5,35.17
+West Bengal,Howrah,Corn,Zaid,March,7.58,147,42,39,Sandy,424,29.0,23.1
+Karnataka,Belgaum,Wheat,Rabi,March,6.55,179,60,22,Clay,1085,24.8,31.53
+Karnataka,Belgaum,Cotton,Kharif,February,9.99,93,97,57,Black,558,33.8,26.52
+Andhra Pradesh,Guntur,Tomato,Annual,August,1.74,189,81,79,Sandy,661,20.1,226.58
+Karnataka,Mysore,Corn,Rabi,September,9.7,107,71,56,Sandy,1183,25.5,34.48
+Maharashtra,Pune,Tomato,Kharif,January,8.27,171,74,55,Loamy,403,22.8,255.36
+Maharashtra,Nashik,Sugarcane,Zaid,January,2.85,110,55,23,Loamy,1091,33.6,296.19
+West Bengal,Howrah,Corn,Kharif,December,6.54,85,95,87,Sandy,623,23.8,36.83
+Karnataka,Belgaum,Rice,Zaid,March,2.69,167,36,74,Loamy,433,22.7,32.55
+Uttar Pradesh,Varanasi,Rice,Rabi,August,6.07,165,86,47,Black,926,29.0,31.51
+Maharashtra,Pune,Tomato,Annual,July,8.63,58,78,73,Sandy,540,25.5,176.96
+Karnataka,Mysore,Rice,Rabi,November,6.62,72,53,27,Clay,596,21.0,19.74
+West Bengal,Darjeeling,Cotton,Zaid,August,5.56,120,81,22,Clay,867,28.0,25.41
+Maharashtra,Pune,Sugarcane,Kharif,March,5.12,145,67,43,Black,1089,31.3,391.29
+Andhra Pradesh,Kurnool,Rice,Kharif,February,1.19,139,99,41,Clay,748,34.7,30.66
+Karnataka,Mysore,Wheat,Rabi,June,4.22,156,48,37,Clay,960,30.0,25.41
+Tamil Nadu,Salem,Cotton,Annual,April,1.13,68,40,26,Loamy,1005,26.5,20.85
+Maharashtra,Nagpur,Corn,Rabi,January,9.44,60,83,85,Black,1148,33.6,36.82
+Punjab,Amritsar,Wheat,Annual,August,1.07,181,64,59,Red,915,27.1,28.48
+Karnataka,Belgaum,Corn,Annual,May,5.23,174,56,52,Black,771,31.6,35.25
+Karnataka,Belgaum,Sugarcane,Kharif,August,3.05,94,51,60,Black,888,28.1,280.72
+West Bengal,Darjeeling,Corn,Annual,January,3.79,194,38,67,Black,1168,25.6,37.69
+West Bengal,Darjeeling,Tomato,Rabi,January,4.76,84,80,80,Black,566,26.2,147.29
+West Bengal,Kolkata,Cotton,Kharif,November,4.58,113,38,94,Loamy,782,27.5,30.22
+Andhra Pradesh,Kurnool,Tomato,Zaid,August,3.82,146,70,28,Loamy,1102,25.6,211.93
+Maharashtra,Nagpur,Wheat,Zaid,March,1.96,73,49,57,Sandy,766,32.5,26.98
+Andhra Pradesh,Nellore,Cotton,Zaid,September,4.76,85,51,79,Black,1069,34.4,26.88
+Punjab,Amritsar,Cotton,Rabi,January,4.86,159,97,92,Sandy,1018,21.8,43.25
+Andhra Pradesh,Kurnool,Tomato,Kharif,October,9.2,137,92,80,Clay,580,32.0,258.1
+Uttar Pradesh,Varanasi,Corn,Rabi,July,6.75,197,31,86,Loamy,520,31.1,35.27
+Tamil Nadu,Thanjavur,Wheat,Rabi,November,6.31,130,81,77,Sandy,834,23.6,32.58
+Maharashtra,Pune,Tomato,Zaid,May,6.34,109,39,45,Clay,959,28.2,169.47
+Uttar Pradesh,Lucknow,Tomato,Kharif,June,6.92,105,67,52,Sandy,417,22.1,176.94
+Maharashtra,Nagpur,Cotton,Annual,November,3.82,103,69,80,Loamy,447,30.7,30.42
+Uttar Pradesh,Kanpur,Tomato,Rabi,November,7.66,147,31,72,Black,1087,22.5,210.09
+Uttar Pradesh,Kanpur,Cotton,Kharif,April,9.45,57,60,23,Loamy,534,26.1,22.59
+Punjab,Amritsar,Tomato,Kharif,October,4.93,68,97,23,Clay,486,28.6,169.56
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,September,2.83,156,30,91,Red,599,24.9,350.32
+Maharashtra,Nagpur,Sugarcane,Zaid,October,8.47,79,58,27,Loamy,555,27.0,196.99
+Tamil Nadu,Madurai,Corn,Annual,June,2.13,140,88,29,Sandy,791,24.3,34.19
+West Bengal,Howrah,Tomato,Kharif,July,8.08,117,86,65,Sandy,823,21.8,213.87
+Uttar Pradesh,Lucknow,Cotton,Kharif,September,9.54,98,56,37,Black,960,28.3,23.75
+Uttar Pradesh,Kanpur,Sugarcane,Kharif,August,9.88,95,65,29,Black,1136,30.4,318.93
+West Bengal,Darjeeling,Wheat,Kharif,January,9.42,80,68,73,Black,425,27.6,30.34
+Karnataka,Mandya,Tomato,Zaid,December,8.3,68,56,42,Loamy,606,29.2,142.51
+Uttar Pradesh,Lucknow,Corn,Kharif,March,8.57,124,79,30,Red,1108,28.7,27.19
+Tamil Nadu,Thanjavur,Rice,Zaid,January,3.25,87,92,35,Sandy,860,20.1,26.91
+Andhra Pradesh,Nellore,Tomato,Kharif,August,9.17,58,39,97,Clay,587,24.8,156.83
+Tamil Nadu,Salem,Wheat,Zaid,July,1.73,179,74,26,Red,481,33.9,34.9
+Uttar Pradesh,Varanasi,Cotton,Annual,November,9.7,179,99,87,Black,1094,24.9,46.78
+Andhra Pradesh,Kurnool,Corn,Kharif,January,7.48,61,64,37,Loamy,876,22.6,29.18
+Uttar Pradesh,Lucknow,Corn,Annual,June,8.06,84,54,28,Red,1186,28.6,28.27
+Maharashtra,Nagpur,Corn,Zaid,September,7.58,136,82,71,Black,589,21.9,37.21
+Karnataka,Mandya,Sugarcane,Kharif,July,6.68,83,54,52,Loamy,977,26.9,286.44
+Andhra Pradesh,Guntur,Wheat,Annual,December,5.5,169,49,87,Loamy,786,24.3,42.54
+West Bengal,Howrah,Sugarcane,Zaid,January,7.46,55,35,51,Clay,972,25.9,212.52
+Punjab,Amritsar,Wheat,Kharif,June,6.09,156,76,63,Red,894,29.3,38.48
+Tamil Nadu,Salem,Tomato,Zaid,August,9.37,130,97,29,Sandy,767,33.3,233.69
+Tamil Nadu,Thanjavur,Wheat,Rabi,January,7.39,50,69,36,Sandy,580,20.2,20.99
+Tamil Nadu,Madurai,Tomato,Zaid,November,3.25,142,95,44,Black,890,20.3,243.64
+West Bengal,Howrah,Cotton,Annual,November,2.02,59,69,26,Clay,1036,23.7,20.03
+Uttar Pradesh,Lucknow,Corn,Zaid,April,5.15,93,81,94,Clay,465,31.1,28.77
+Tamil Nadu,Salem,Sugarcane,Rabi,April,5.65,88,73,43,Black,519,23.7,283.73
+Andhra Pradesh,Kurnool,Rice,Rabi,February,6.93,120,92,58,Loamy,944,25.2,33.19
+Karnataka,Belgaum,Corn,Zaid,April,7.17,164,79,77,Red,909,33.2,39.53
+Maharashtra,Pune,Corn,Zaid,July,3.25,61,38,94,Red,599,30.7,25.95
+West Bengal,Darjeeling,Tomato,Zaid,September,1.87,124,44,30,Sandy,483,25.6,153.02
+Karnataka,Mysore,Rice,Zaid,November,5.7,103,38,45,Red,418,23.8,19.31
+Uttar Pradesh,Varanasi,Rice,Kharif,February,1.72,116,52,41,Sandy,1001,25.4,29.45
+Punjab,Patiala,Corn,Zaid,July,2.73,60,47,70,Sandy,623,23.8,19.43
+Karnataka,Mysore,Sugarcane,Annual,September,4.65,132,54,54,Loamy,712,21.7,275.97
+Karnataka,Mandya,Cotton,Zaid,July,4.6,126,85,43,Clay,987,22.9,30.5
+Punjab,Patiala,Sugarcane,Annual,December,3.71,103,94,88,Black,739,33.7,339.04
+Andhra Pradesh,Guntur,Wheat,Zaid,July,3.33,131,58,68,Sandy,1184,32.7,29.73
+Tamil Nadu,Madurai,Sugarcane,Rabi,October,8.56,56,65,55,Loamy,1167,28.8,277.48
+Maharashtra,Pune,Wheat,Annual,July,2.12,70,68,77,Red,608,31.9,24.22
+Uttar Pradesh,Varanasi,Tomato,Rabi,November,2.47,93,53,29,Clay,1056,31.4,118.84
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,October,1.64,78,70,57,Sandy,509,25.7,212.36
+Karnataka,Mandya,Rice,Zaid,January,1.34,103,40,62,Loamy,400,30.5,18.78
+Andhra Pradesh,Kurnool,Rice,Kharif,December,5.21,177,84,20,Clay,728,24.6,39.17
+Karnataka,Mandya,Sugarcane,Rabi,July,9.23,93,51,21,Clay,1135,33.9,232.0
+Tamil Nadu,Thanjavur,Tomato,Kharif,September,8.99,155,66,65,Black,980,25.4,201.57
+West Bengal,Darjeeling,Sugarcane,Zaid,May,7.47,170,36,55,Sandy,644,32.6,330.3
+Karnataka,Belgaum,Tomato,Annual,August,7.2,139,84,57,Black,526,28.9,235.63
+Maharashtra,Nagpur,Tomato,Kharif,March,4.88,114,72,96,Red,431,28.2,173.04
+Uttar Pradesh,Varanasi,Tomato,Zaid,May,8.29,81,58,80,Sandy,917,25.4,168.45
+Uttar Pradesh,Kanpur,Cotton,Zaid,July,9.07,67,58,53,Sandy,665,33.2,22.95
+Karnataka,Mandya,Rice,Kharif,July,8.55,137,71,56,Black,1199,21.3,39.38
+Karnataka,Belgaum,Rice,Zaid,December,8.02,106,53,99,Loamy,862,30.4,30.56
+Andhra Pradesh,Guntur,Corn,Kharif,August,6.21,163,41,83,Black,624,30.5,37.67
+Andhra Pradesh,Guntur,Sugarcane,Rabi,January,8.26,101,39,36,Red,632,27.3,218.17
+Andhra Pradesh,Kurnool,Rice,Kharif,December,3.8,57,90,50,Clay,948,24.4,28.66
+West Bengal,Howrah,Tomato,Zaid,November,2.24,103,35,99,Clay,813,26.1,198.28
+Andhra Pradesh,Guntur,Rice,Rabi,May,5.06,173,68,85,Clay,900,21.5,45.85
+Maharashtra,Nagpur,Corn,Kharif,July,5.1,93,62,56,Sandy,1165,25.7,24.19
+West Bengal,Darjeeling,Sugarcane,Zaid,November,9.8,127,45,65,Red,466,24.5,334.65
+Punjab,Ludhiana,Sugarcane,Annual,March,4.87,193,34,39,Red,633,25.9,375.16
+Karnataka,Mysore,Tomato,Annual,November,6.54,91,63,76,Sandy,429,23.2,173.9
+West Bengal,Kolkata,Wheat,Kharif,October,7.1,177,80,45,Red,1050,34.3,39.75
+West Bengal,Howrah,Sugarcane,Zaid,October,6.77,183,42,27,Loamy,788,27.4,308.8
+West Bengal,Howrah,Tomato,Annual,September,4.96,144,53,62,Clay,607,27.6,220.68
+Tamil Nadu,Madurai,Rice,Kharif,October,9.68,61,62,49,Sandy,603,21.6,29.48
+Andhra Pradesh,Kurnool,Cotton,Zaid,April,6.85,87,96,37,Clay,1052,22.5,34.44
+West Bengal,Darjeeling,Wheat,Kharif,October,5.54,99,56,38,Black,537,24.8,26.24
+Maharashtra,Nashik,Tomato,Rabi,December,4.87,168,36,80,Black,1094,30.4,255.5
+Andhra Pradesh,Guntur,Cotton,Annual,July,6.92,74,61,61,Black,662,31.6,29.87
+Punjab,Amritsar,Rice,Kharif,May,5.5,72,53,97,Clay,818,22.4,27.52
+Karnataka,Mandya,Corn,Rabi,September,2.66,92,66,30,Red,821,29.7,21.2
+Punjab,Ludhiana,Sugarcane,Rabi,April,2.86,138,43,48,Loamy,509,28.7,223.1
+Tamil Nadu,Thanjavur,Rice,Kharif,March,4.77,91,73,97,Sandy,464,26.3,27.5
+Karnataka,Mandya,Corn,Rabi,August,4.97,152,34,67,Black,734,24.1,34.16
+Tamil Nadu,Thanjavur,Sugarcane,Zaid,April,8.38,125,79,76,Black,860,26.0,370.66
+Andhra Pradesh,Kurnool,Corn,Annual,August,6.27,67,94,83,Red,727,32.9,36.38
+Karnataka,Mandya,Sugarcane,Rabi,January,3.72,183,96,52,Clay,1062,23.6,323.18
+Tamil Nadu,Thanjavur,Tomato,Rabi,October,8.71,50,64,53,Loamy,820,30.2,158.97
+Andhra Pradesh,Guntur,Sugarcane,Zaid,September,5.45,126,85,63,Black,1058,27.9,333.43
+West Bengal,Kolkata,Sugarcane,Rabi,March,9.2,55,33,25,Red,689,21.9,176.07
+Tamil Nadu,Salem,Cotton,Rabi,February,2.84,150,48,92,Clay,887,20.6,38.17
+Maharashtra,Nashik,Cotton,Kharif,September,7.64,169,79,90,Black,637,33.3,35.31
+West Bengal,Howrah,Wheat,Rabi,August,1.56,80,73,45,Black,915,26.0,30.06
+Andhra Pradesh,Kurnool,Cotton,Kharif,September,3.82,199,98,76,Red,944,20.1,42.55
+Karnataka,Mandya,Corn,Annual,June,5.79,103,40,51,Loamy,799,24.3,22.45
+Tamil Nadu,Thanjavur,Cotton,Annual,November,7.84,134,99,37,Black,1015,24.7,34.69
+Karnataka,Mandya,Tomato,Zaid,June,4.69,175,78,63,Clay,994,31.1,198.65
+Punjab,Patiala,Rice,Kharif,February,6.93,170,96,67,Sandy,740,24.2,47.02
+Maharashtra,Pune,Corn,Rabi,November,4.25,149,81,71,Clay,1028,29.0,41.55
+Andhra Pradesh,Guntur,Rice,Annual,December,4.18,162,32,39,Red,475,26.2,28.1
+Uttar Pradesh,Varanasi,Cotton,Kharif,May,5.15,105,38,76,Loamy,1192,29.1,24.59
+Karnataka,Belgaum,Rice,Kharif,May,6.38,106,56,42,Sandy,569,34.3,28.12
+Karnataka,Mandya,Corn,Rabi,March,5.46,101,85,63,Black,768,31.2,25.33
+Punjab,Patiala,Tomato,Zaid,August,6.14,82,92,38,Black,670,29.2,179.62
+Karnataka,Mandya,Tomato,Rabi,February,1.03,116,61,88,Red,1094,24.0,189.57
+Tamil Nadu,Madurai,Cotton,Annual,November,4.5,160,60,62,Loamy,1137,21.5,34.15
+Karnataka,Mandya,Tomato,Zaid,December,2.24,122,44,59,Red,990,27.7,159.14
+Uttar Pradesh,Lucknow,Sugarcane,Annual,April,1.33,167,47,86,Black,736,26.6,388.58
+Karnataka,Mandya,Tomato,Rabi,September,9.16,137,69,34,Black,678,21.8,184.85
+Maharashtra,Nagpur,Wheat,Annual,December,1.62,191,46,58,Clay,472,22.6,33.54
+West Bengal,Kolkata,Corn,Annual,June,5.71,170,69,40,Sandy,760,32.1,33.11
+Andhra Pradesh,Guntur,Cotton,Kharif,February,2.56,55,38,54,Red,749,34.3,19.57
+Uttar Pradesh,Varanasi,Rice,Rabi,February,7.98,178,89,84,Red,446,27.1,45.16
+Uttar Pradesh,Varanasi,Corn,Kharif,May,1.61,168,46,71,Red,937,24.2,33.21
+Punjab,Ludhiana,Sugarcane,Kharif,May,7.93,79,31,57,Clay,1029,26.5,249.56
+Tamil Nadu,Madurai,Cotton,Kharif,August,6.2,160,57,82,Black,1040,30.8,43.14
+West Bengal,Darjeeling,Wheat,Rabi,April,6.55,96,38,49,Clay,706,31.7,28.63
+Punjab,Amritsar,Sugarcane,Kharif,June,6.84,180,82,94,Black,782,33.5,399.2
+Tamil Nadu,Madurai,Rice,Annual,March,1.58,199,48,30,Loamy,452,21.4,34.77
+Tamil Nadu,Salem,Tomato,Annual,January,5.24,161,32,81,Loamy,438,27.1,169.55
+Maharashtra,Nagpur,Corn,Zaid,March,7.35,51,39,97,Sandy,546,21.5,25.22
+Punjab,Patiala,Cotton,Annual,October,4.23,98,49,91,Clay,648,24.0,30.11
+Punjab,Patiala,Cotton,Annual,April,3.64,139,47,32,Red,1143,25.6,33.93
+West Bengal,Darjeeling,Sugarcane,Kharif,May,9.52,191,39,81,Sandy,414,21.3,338.07
+Uttar Pradesh,Kanpur,Sugarcane,Kharif,December,4.03,93,70,50,Black,481,24.6,215.64
+Punjab,Ludhiana,Corn,Kharif,February,8.15,115,79,52,Clay,978,24.2,39.55
+Punjab,Patiala,Corn,Annual,October,5.25,87,42,100,Red,738,29.7,30.33
+West Bengal,Darjeeling,Sugarcane,Zaid,February,7.51,153,77,86,Black,1143,28.7,476.92
+Uttar Pradesh,Varanasi,Cotton,Kharif,January,6.66,54,57,83,Black,864,26.9,23.75
+Andhra Pradesh,Kurnool,Tomato,Rabi,August,1.39,72,79,56,Black,723,26.8,145.17
+Karnataka,Mysore,Cotton,Annual,February,2.56,58,82,74,Black,419,32.6,25.18
+Uttar Pradesh,Lucknow,Sugarcane,Kharif,March,7.57,177,98,99,Black,822,21.8,368.01
+Punjab,Patiala,Tomato,Kharif,March,9.24,107,35,44,Clay,600,20.4,162.64
+Punjab,Patiala,Cotton,Rabi,January,8.01,156,44,92,Black,832,26.0,31.44
+Tamil Nadu,Madurai,Corn,Rabi,May,7.53,176,52,43,Loamy,703,20.1,36.14
+Karnataka,Mandya,Rice,Annual,June,4.12,90,55,34,Clay,811,24.5,19.64
+Uttar Pradesh,Varanasi,Rice,Kharif,July,8.16,111,99,98,Sandy,1077,33.9,45.26
+Tamil Nadu,Madurai,Rice,Kharif,May,1.54,96,62,75,Clay,1028,21.3,25.52
+Punjab,Amritsar,Wheat,Kharif,November,5.74,71,69,100,Clay,424,34.1,25.47
+West Bengal,Darjeeling,Tomato,Kharif,June,5.49,172,91,35,Sandy,1117,33.5,255.04
+Uttar Pradesh,Kanpur,Wheat,Kharif,April,3.49,74,75,76,Clay,971,20.1,28.62
+Punjab,Patiala,Tomato,Kharif,March,6.18,186,86,73,Black,760,26.5,279.02
+Maharashtra,Pune,Wheat,Annual,July,8.1,148,57,38,Clay,582,28.3,30.63
+Andhra Pradesh,Nellore,Tomato,Rabi,April,5.58,120,77,46,Black,622,26.0,200.64
+West Bengal,Kolkata,Wheat,Zaid,May,4.35,151,80,58,Clay,409,32.2,27.16
+West Bengal,Kolkata,Cotton,Annual,August,7.82,195,39,82,Red,917,26.4,41.24
+Maharashtra,Pune,Corn,Annual,July,6.45,75,95,98,Black,1147,31.2,39.03
+Tamil Nadu,Madurai,Sugarcane,Rabi,July,6.91,183,51,20,Sandy,821,29.8,371.82
+Uttar Pradesh,Kanpur,Rice,Kharif,July,6.41,169,99,66,Clay,784,22.2,39.95
+Punjab,Amritsar,Rice,Rabi,February,5.78,80,57,31,Loamy,519,21.2,22.41
+Punjab,Amritsar,Cotton,Annual,March,9.77,94,59,20,Sandy,492,23.8,25.45
+Karnataka,Belgaum,Corn,Kharif,March,7.48,89,63,94,Red,1067,29.0,30.15
+West Bengal,Darjeeling,Cotton,Rabi,June,1.89,163,83,49,Black,1099,23.1,40.42
+West Bengal,Kolkata,Tomato,Kharif,March,2.96,142,39,55,Sandy,521,26.4,185.62
+West Bengal,Kolkata,Tomato,Zaid,May,9.14,105,95,55,Loamy,836,25.5,207.99
+Karnataka,Mandya,Wheat,Zaid,August,3.52,136,70,74,Red,547,24.2,32.88
+Tamil Nadu,Thanjavur,Wheat,Kharif,November,9.92,52,50,91,Clay,769,34.8,29.47
+Karnataka,Mandya,Sugarcane,Rabi,September,8.33,163,91,81,Sandy,1178,33.7,358.48
+Tamil Nadu,Salem,Rice,Annual,January,2.1,85,82,69,Sandy,466,21.3,26.68
+Karnataka,Mysore,Corn,Rabi,May,6.41,100,93,75,Clay,1112,32.5,42.38
+Andhra Pradesh,Nellore,Cotton,Zaid,November,10.0,92,40,76,Loamy,550,30.6,33.48
+Uttar Pradesh,Varanasi,Tomato,Zaid,December,8.75,121,54,58,Red,1000,33.7,158.19
+Uttar Pradesh,Kanpur,Wheat,Annual,December,1.76,111,31,85,Clay,1189,34.8,29.31
+West Bengal,Howrah,Corn,Annual,September,8.9,131,73,91,Loamy,443,31.4,39.3
+Tamil Nadu,Salem,Cotton,Annual,July,3.12,120,48,40,Clay,1096,34.0,31.83
+Tamil Nadu,Salem,Cotton,Zaid,July,8.69,181,83,60,Black,1144,26.7,42.12
+Maharashtra,Pune,Corn,Rabi,December,4.89,58,72,42,Loamy,1141,27.1,27.84
+West Bengal,Darjeeling,Rice,Annual,September,7.59,124,84,72,Loamy,703,22.6,33.43
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,August,6.4,102,37,34,Loamy,763,30.4,288.94
+Uttar Pradesh,Varanasi,Corn,Zaid,August,3.37,171,73,29,Loamy,746,30.9,37.38
+Tamil Nadu,Madurai,Corn,Rabi,May,4.79,139,56,85,Clay,745,33.7,27.58
+West Bengal,Kolkata,Sugarcane,Annual,February,3.14,190,34,39,Sandy,605,21.7,295.16
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,November,2.26,172,45,70,Loamy,633,29.0,380.37
+Uttar Pradesh,Varanasi,Corn,Rabi,August,4.47,122,85,87,Loamy,1102,27.0,40.05
+Uttar Pradesh,Kanpur,Sugarcane,Zaid,November,7.56,187,84,92,Red,762,26.5,442.98
+Punjab,Amritsar,Sugarcane,Zaid,June,2.68,85,99,20,Loamy,1089,23.4,297.36
+Tamil Nadu,Madurai,Wheat,Kharif,December,7.53,195,93,70,Black,620,23.4,44.39
+Karnataka,Mysore,Tomato,Annual,November,7.76,188,58,41,Clay,582,32.5,239.02
+West Bengal,Darjeeling,Corn,Annual,December,3.37,196,47,69,Sandy,810,26.9,32.32
+Tamil Nadu,Thanjavur,Rice,Annual,October,6.38,100,75,30,Black,1120,32.3,32.66
+Uttar Pradesh,Varanasi,Corn,Kharif,April,9.34,66,87,22,Clay,922,27.9,26.03
+Uttar Pradesh,Kanpur,Tomato,Annual,September,3.12,187,84,91,Red,1113,21.4,289.43
+Uttar Pradesh,Lucknow,Rice,Zaid,January,5.68,151,40,34,Clay,1128,33.7,31.21
+Karnataka,Mandya,Cotton,Annual,February,3.4,176,76,63,Clay,707,33.3,40.54
+Tamil Nadu,Madurai,Cotton,Kharif,August,5.32,150,80,71,Black,425,21.4,39.34
+Andhra Pradesh,Guntur,Rice,Kharif,July,5.35,103,63,76,Red,755,33.9,31.78
+Tamil Nadu,Thanjavur,Tomato,Rabi,November,5.39,187,36,46,Black,1121,28.2,192.86
+Tamil Nadu,Madurai,Tomato,Rabi,October,9.43,196,55,35,Clay,758,22.4,219.98
+West Bengal,Howrah,Cotton,Rabi,February,9.46,165,71,24,Clay,669,21.9,35.23
+West Bengal,Darjeeling,Corn,Zaid,December,5.31,170,69,80,Red,647,33.2,41.28
+West Bengal,Kolkata,Sugarcane,Kharif,April,1.24,190,69,57,Loamy,575,26.4,392.96
+Uttar Pradesh,Varanasi,Wheat,Rabi,October,1.79,183,84,52,Sandy,1104,21.4,34.23
+West Bengal,Howrah,Cotton,Zaid,May,4.59,126,88,39,Red,774,24.1,29.64
+Maharashtra,Nashik,Tomato,Annual,January,9.03,152,52,48,Red,853,30.9,173.38
+Maharashtra,Nagpur,Corn,Rabi,June,8.78,93,39,85,Loamy,1127,28.3,35.3
+Maharashtra,Nashik,Sugarcane,Kharif,March,1.01,170,89,65,Clay,1020,27.7,339.3
+Maharashtra,Nashik,Rice,Kharif,March,1.95,157,54,71,Black,866,34.8,34.87
+Maharashtra,Nagpur,Tomato,Kharif,March,8.18,90,96,89,Loamy,988,29.8,242.04
+Tamil Nadu,Thanjavur,Wheat,Zaid,September,6.02,111,76,87,Sandy,1106,25.3,30.04
+West Bengal,Howrah,Rice,Rabi,April,4.04,106,88,85,Clay,937,22.2,40.88
+Karnataka,Mysore,Corn,Zaid,September,3.75,114,46,50,Black,588,27.7,27.38
+Tamil Nadu,Madurai,Rice,Kharif,April,7.58,156,54,84,Black,1165,20.7,39.42
+Karnataka,Mysore,Tomato,Kharif,December,4.0,179,84,73,Clay,831,24.0,282.67
+Tamil Nadu,Salem,Wheat,Annual,June,7.29,199,65,21,Sandy,919,23.6,38.03
+Punjab,Amritsar,Sugarcane,Kharif,April,5.2,162,58,50,Red,502,28.5,318.4
+Tamil Nadu,Salem,Cotton,Kharif,September,4.56,118,79,30,Loamy,953,23.5,27.0
+West Bengal,Howrah,Sugarcane,Annual,November,5.7,135,41,64,Loamy,678,21.2,279.91
+Andhra Pradesh,Guntur,Sugarcane,Kharif,May,9.01,152,41,35,Clay,948,31.4,350.91
+Andhra Pradesh,Nellore,Tomato,Zaid,June,9.75,163,41,34,Sandy,620,29.6,217.3
+Punjab,Amritsar,Cotton,Annual,February,2.68,184,80,23,Loamy,811,24.1,39.86
+West Bengal,Kolkata,Wheat,Kharif,March,5.78,91,66,67,Clay,646,23.2,27.61
+West Bengal,Darjeeling,Rice,Rabi,September,6.71,57,46,49,Clay,783,27.9,20.44
+Tamil Nadu,Thanjavur,Tomato,Annual,June,6.68,72,59,66,Clay,581,29.1,163.89
+West Bengal,Darjeeling,Wheat,Annual,March,5.79,102,47,80,Red,1186,23.6,33.54
+Karnataka,Belgaum,Tomato,Zaid,July,4.38,97,31,36,Clay,940,27.4,121.14
+Tamil Nadu,Madurai,Tomato,Kharif,July,8.17,54,91,89,Loamy,415,34.6,175.85
+Karnataka,Mysore,Rice,Rabi,January,2.51,182,63,44,Clay,1067,24.8,33.84
+Punjab,Ludhiana,Tomato,Kharif,March,9.88,134,39,58,Sandy,628,24.3,203.62
+Tamil Nadu,Thanjavur,Cotton,Annual,May,3.39,193,91,84,Sandy,631,26.6,33.34
+Punjab,Patiala,Cotton,Annual,August,6.76,85,77,21,Sandy,588,21.7,28.69
+Uttar Pradesh,Lucknow,Cotton,Kharif,December,1.63,63,40,32,Clay,1096,22.8,19.78
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,April,3.48,81,74,67,Black,1055,22.0,338.38
+West Bengal,Darjeeling,Cotton,Zaid,December,5.23,164,88,98,Loamy,726,24.8,47.86
+West Bengal,Howrah,Cotton,Annual,October,9.65,188,43,94,Sandy,873,28.6,36.16
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,August,3.92,80,80,33,Red,617,22.8,230.34
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,April,1.44,138,53,96,Loamy,523,25.8,379.56
+Andhra Pradesh,Nellore,Rice,Annual,January,4.51,103,52,46,Clay,522,31.0,21.64
+Maharashtra,Nagpur,Wheat,Kharif,November,1.11,195,79,50,Black,566,32.2,39.51
+Andhra Pradesh,Guntur,Wheat,Zaid,September,6.29,159,42,28,Black,515,23.5,28.95
+West Bengal,Kolkata,Cotton,Zaid,December,1.5,160,100,73,Clay,449,32.8,36.52
+West Bengal,Darjeeling,Rice,Rabi,July,1.37,90,81,68,Sandy,1199,22.8,30.87
+Maharashtra,Nagpur,Sugarcane,Annual,August,2.05,104,58,96,Black,631,29.0,245.21
+West Bengal,Howrah,Cotton,Annual,March,4.43,153,72,66,Black,1021,23.1,29.3
+Andhra Pradesh,Nellore,Cotton,Rabi,March,3.55,65,49,25,Clay,711,21.2,16.85
+Andhra Pradesh,Nellore,Cotton,Zaid,January,1.78,163,34,42,Loamy,613,25.2,27.64
+Uttar Pradesh,Lucknow,Corn,Kharif,January,5.51,189,43,97,Red,563,32.4,40.85
+Tamil Nadu,Madurai,Wheat,Rabi,April,5.26,76,46,99,Sandy,860,24.2,26.55
+West Bengal,Kolkata,Corn,Rabi,October,1.16,61,79,57,Sandy,748,34.2,19.91
+Karnataka,Mysore,Wheat,Annual,October,5.92,161,76,66,Sandy,1181,33.0,31.83
+Karnataka,Mandya,Cotton,Zaid,September,8.8,139,82,59,Red,407,22.8,30.93
+Punjab,Patiala,Cotton,Rabi,October,10.0,166,52,71,Sandy,455,34.7,32.03
+Andhra Pradesh,Guntur,Wheat,Annual,April,1.37,194,67,91,Loamy,1043,22.5,45.04
+Andhra Pradesh,Nellore,Corn,Zaid,April,5.04,96,80,47,Red,1064,25.6,31.36
+Tamil Nadu,Salem,Cotton,Zaid,July,9.78,188,86,77,Clay,894,22.4,40.81
+Maharashtra,Pune,Wheat,Zaid,January,1.09,51,88,100,Black,571,25.6,23.45
+Karnataka,Mandya,Tomato,Annual,February,8.08,183,53,82,Sandy,799,29.7,257.09
+Andhra Pradesh,Kurnool,Rice,Annual,March,1.7,185,81,20,Loamy,780,27.0,39.7
+Uttar Pradesh,Lucknow,Tomato,Kharif,October,3.69,124,46,37,Loamy,458,22.6,145.52
+Karnataka,Mysore,Cotton,Kharif,July,1.74,158,90,36,Clay,448,21.4,29.09
+Punjab,Amritsar,Tomato,Rabi,October,6.07,160,71,45,Loamy,457,22.1,182.53
+Punjab,Patiala,Sugarcane,Rabi,January,3.61,176,85,40,Loamy,858,26.7,409.77
+Uttar Pradesh,Lucknow,Corn,Annual,November,4.17,171,75,82,Loamy,577,20.6,38.12
+West Bengal,Darjeeling,Cotton,Zaid,August,2.21,123,62,93,Black,435,32.3,35.97
+Uttar Pradesh,Varanasi,Cotton,Rabi,December,2.07,137,87,86,Loamy,433,32.4,33.05
+Karnataka,Mysore,Rice,Zaid,December,7.46,161,30,72,Loamy,472,32.5,31.56
+West Bengal,Howrah,Wheat,Zaid,October,7.58,65,99,81,Sandy,670,26.5,28.65
+Uttar Pradesh,Lucknow,Cotton,Rabi,June,4.01,99,98,51,Sandy,1196,23.4,38.71
+Punjab,Ludhiana,Wheat,Annual,February,5.95,142,41,40,Black,487,22.5,28.24
+Tamil Nadu,Madurai,Rice,Kharif,May,6.9,190,41,71,Loamy,1151,22.5,38.63
+Andhra Pradesh,Nellore,Rice,Kharif,August,8.05,125,60,97,Clay,1074,32.9,35.42
+Karnataka,Belgaum,Wheat,Rabi,April,7.9,126,95,46,Clay,1126,20.9,41.34
+Uttar Pradesh,Varanasi,Wheat,Zaid,September,6.79,76,77,51,Red,765,33.7,22.63
+Karnataka,Mandya,Wheat,Annual,December,5.6,91,84,80,Clay,878,23.5,38.03
+Maharashtra,Nagpur,Wheat,Annual,February,3.54,50,88,20,Clay,838,21.7,24.35
+Karnataka,Mandya,Rice,Zaid,September,3.21,80,73,20,Sandy,1112,25.4,24.81
+Andhra Pradesh,Nellore,Rice,Kharif,June,9.18,75,80,20,Loamy,437,23.8,19.53
+Uttar Pradesh,Varanasi,Tomato,Rabi,June,4.75,52,80,92,Loamy,562,27.9,150.99
+Andhra Pradesh,Guntur,Corn,Kharif,August,9.58,122,59,47,Clay,668,22.2,31.18
+Karnataka,Mysore,Corn,Kharif,April,8.73,70,46,48,Sandy,611,20.6,22.51
+West Bengal,Howrah,Rice,Kharif,December,2.6,69,72,45,Black,535,33.9,19.6
+West Bengal,Darjeeling,Wheat,Kharif,July,6.0,91,66,71,Sandy,1042,33.8,28.42
+Maharashtra,Nagpur,Cotton,Zaid,July,7.18,99,41,93,Sandy,864,25.4,34.97
+West Bengal,Darjeeling,Cotton,Rabi,November,4.02,127,77,54,Red,962,22.8,26.72
+Uttar Pradesh,Varanasi,Cotton,Rabi,June,9.1,73,63,71,Sandy,838,29.6,26.68
+Uttar Pradesh,Kanpur,Wheat,Zaid,February,6.56,167,44,27,Clay,1182,27.4,29.09
+Karnataka,Mysore,Cotton,Kharif,February,7.97,121,96,66,Sandy,619,23.4,33.52
+Andhra Pradesh,Kurnool,Corn,Kharif,June,3.5,182,37,36,Red,616,21.5,27.18
+West Bengal,Howrah,Sugarcane,Annual,August,4.05,172,76,44,Red,461,30.7,273.32
+Punjab,Patiala,Sugarcane,Annual,October,5.48,70,70,34,Clay,513,24.1,182.25
+Tamil Nadu,Thanjavur,Wheat,Annual,October,5.83,102,94,91,Sandy,533,21.8,36.89
+Punjab,Amritsar,Cotton,Rabi,May,8.0,139,69,35,Black,855,24.0,33.4
+Punjab,Patiala,Corn,Zaid,November,2.77,119,33,55,Red,559,27.2,29.66
+Maharashtra,Nagpur,Tomato,Zaid,October,7.84,153,54,63,Loamy,878,29.3,252.12
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,July,1.17,198,62,26,Loamy,704,20.6,353.91
+Maharashtra,Nagpur,Cotton,Zaid,April,5.59,98,50,28,Clay,831,29.2,23.75
+Uttar Pradesh,Varanasi,Cotton,Kharif,July,1.9,105,82,78,Sandy,431,26.1,32.6
+Andhra Pradesh,Kurnool,Rice,Zaid,October,2.39,69,35,97,Sandy,1055,26.4,26.61
+Tamil Nadu,Thanjavur,Wheat,Rabi,September,7.38,126,34,30,Black,1166,20.2,31.25
+Punjab,Ludhiana,Rice,Rabi,March,9.79,177,57,77,Clay,685,27.9,32.04
+Karnataka,Belgaum,Sugarcane,Kharif,October,1.93,179,73,77,Red,985,20.9,392.58
+Tamil Nadu,Madurai,Wheat,Rabi,July,5.4,196,69,46,Red,463,30.4,30.45
+Uttar Pradesh,Lucknow,Wheat,Rabi,August,2.51,66,33,23,Loamy,957,32.7,20.14
+West Bengal,Kolkata,Rice,Kharif,November,6.38,156,52,48,Red,619,33.8,34.56
+Tamil Nadu,Thanjavur,Wheat,Rabi,December,3.14,76,99,42,Sandy,610,25.1,25.07
+Tamil Nadu,Thanjavur,Wheat,Rabi,July,8.36,119,100,65,Red,697,27.9,36.93
+West Bengal,Kolkata,Tomato,Kharif,October,2.8,177,44,60,Clay,981,30.5,199.33
+Karnataka,Mysore,Corn,Zaid,March,1.23,139,30,81,Clay,602,21.2,26.66
+Tamil Nadu,Salem,Rice,Kharif,January,4.05,119,92,100,Clay,627,25.4,32.77
+Punjab,Ludhiana,Wheat,Zaid,March,9.74,184,80,22,Black,1173,32.0,31.61
+Uttar Pradesh,Kanpur,Cotton,Zaid,June,6.01,55,75,96,Loamy,489,30.3,22.68
+Punjab,Ludhiana,Wheat,Rabi,July,8.23,54,93,67,Sandy,625,31.1,22.97
+West Bengal,Darjeeling,Sugarcane,Kharif,March,6.98,129,47,80,Loamy,1145,20.8,413.91
+West Bengal,Darjeeling,Sugarcane,Zaid,June,3.68,112,44,96,Red,958,29.8,361.07
+Karnataka,Mysore,Corn,Kharif,January,2.06,59,33,90,Clay,495,27.1,22.61
+Uttar Pradesh,Lucknow,Corn,Annual,October,7.14,83,39,34,Loamy,1098,28.1,29.33
+Maharashtra,Nagpur,Tomato,Zaid,November,6.2,70,42,76,Clay,1162,29.2,197.5
+Maharashtra,Nashik,Tomato,Zaid,August,1.53,68,49,39,Loamy,651,24.3,117.97
+Punjab,Patiala,Sugarcane,Zaid,March,4.78,60,99,55,Sandy,1090,21.8,285.27
+Maharashtra,Pune,Rice,Rabi,November,3.51,53,56,88,Black,931,25.1,27.86
+Tamil Nadu,Thanjavur,Cotton,Rabi,November,3.84,147,82,88,Red,926,21.9,42.95
+Tamil Nadu,Thanjavur,Cotton,Annual,July,1.17,194,91,80,Sandy,1164,28.1,39.09
+Andhra Pradesh,Guntur,Corn,Rabi,May,1.63,57,54,28,Red,1106,21.2,20.06
+Tamil Nadu,Salem,Wheat,Rabi,September,7.0,136,72,39,Loamy,785,26.4,32.19
+Andhra Pradesh,Kurnool,Wheat,Kharif,August,7.07,157,89,44,Red,585,34.1,41.13
+Uttar Pradesh,Kanpur,Corn,Annual,July,5.58,199,37,74,Loamy,1077,32.7,31.7
+Andhra Pradesh,Guntur,Rice,Kharif,February,4.82,160,40,33,Black,835,28.5,27.01
+Maharashtra,Pune,Tomato,Kharif,June,3.14,96,46,53,Sandy,1036,22.2,132.15
+Tamil Nadu,Madurai,Rice,Kharif,December,4.52,198,90,61,Clay,514,32.5,39.86
+Tamil Nadu,Madurai,Wheat,Zaid,February,2.56,188,42,25,Loamy,824,24.3,34.02
+Punjab,Amritsar,Cotton,Rabi,June,2.39,123,40,94,Clay,542,20.2,26.96
+Karnataka,Belgaum,Wheat,Zaid,August,3.36,140,58,22,Clay,805,34.4,32.73
+West Bengal,Darjeeling,Corn,Rabi,September,1.25,63,98,91,Sandy,992,31.4,24.98
+Tamil Nadu,Thanjavur,Cotton,Kharif,January,5.28,193,37,82,Red,487,21.9,36.83
+Uttar Pradesh,Lucknow,Wheat,Rabi,February,9.53,58,98,84,Sandy,630,34.7,34.77
+West Bengal,Howrah,Corn,Annual,October,5.33,145,70,87,Clay,856,25.8,43.16
+West Bengal,Kolkata,Tomato,Zaid,August,1.91,189,82,68,Clay,531,20.0,241.18
+Tamil Nadu,Madurai,Sugarcane,Zaid,May,6.0,125,77,41,Loamy,614,24.4,349.78
+Uttar Pradesh,Kanpur,Sugarcane,Annual,September,2.73,131,46,55,Sandy,414,33.9,267.81
+Karnataka,Belgaum,Tomato,Zaid,May,8.77,170,41,75,Sandy,690,30.3,202.66
+Punjab,Ludhiana,Wheat,Annual,March,5.59,152,36,88,Clay,1164,29.7,40.67
+West Bengal,Darjeeling,Corn,Rabi,November,4.02,194,32,91,Black,904,25.8,35.17
+Maharashtra,Nagpur,Rice,Annual,November,3.87,80,46,95,Loamy,1099,29.8,34.59
+Uttar Pradesh,Varanasi,Tomato,Zaid,November,2.29,97,30,44,Clay,1189,27.2,131.53
+Uttar Pradesh,Lucknow,Cotton,Kharif,May,3.93,157,75,46,Loamy,552,25.2,37.11
+Karnataka,Belgaum,Cotton,Kharif,March,8.41,84,87,29,Black,613,32.8,30.01
+Andhra Pradesh,Kurnool,Cotton,Rabi,October,9.54,181,54,98,Loamy,424,28.6,43.16
+Andhra Pradesh,Nellore,Cotton,Annual,January,6.57,124,34,33,Black,1143,26.7,28.73
+Punjab,Ludhiana,Tomato,Kharif,July,4.46,107,81,57,Black,1048,20.6,162.88
+Tamil Nadu,Madurai,Corn,Annual,November,1.16,142,35,30,Red,1111,27.0,26.13
+Andhra Pradesh,Kurnool,Wheat,Kharif,January,6.46,195,47,81,Sandy,1173,21.8,42.59
+Maharashtra,Nashik,Tomato,Kharif,September,1.75,120,75,70,Sandy,451,26.5,172.04
+Karnataka,Belgaum,Rice,Kharif,May,4.08,75,68,58,Black,428,30.9,27.15
+Andhra Pradesh,Nellore,Sugarcane,Zaid,November,4.11,159,43,83,Red,696,23.3,283.76
+Maharashtra,Nashik,Rice,Zaid,September,3.42,167,30,53,Clay,570,32.2,29.51
+Andhra Pradesh,Guntur,Tomato,Zaid,December,7.88,52,73,49,Sandy,403,34.3,134.17
+Andhra Pradesh,Nellore,Rice,Annual,November,8.93,108,30,54,Loamy,1060,28.0,28.06
+Tamil Nadu,Madurai,Cotton,Zaid,September,2.28,177,95,35,Loamy,1065,33.8,39.62
+Punjab,Amritsar,Wheat,Rabi,October,7.84,117,96,71,Loamy,544,20.6,41.56
+West Bengal,Kolkata,Wheat,Annual,July,4.25,112,74,51,Red,806,21.4,31.45
+Karnataka,Mandya,Sugarcane,Zaid,July,1.35,119,41,64,Loamy,731,29.6,259.62
+West Bengal,Darjeeling,Sugarcane,Annual,March,6.39,81,68,93,Loamy,1079,25.0,273.6
+Andhra Pradesh,Kurnool,Sugarcane,Annual,December,3.41,104,73,72,Red,482,23.3,233.03
+Karnataka,Mysore,Wheat,Kharif,January,6.49,57,79,23,Black,1087,33.2,25.87
+Andhra Pradesh,Nellore,Wheat,Annual,January,5.98,119,65,47,Sandy,588,26.5,31.44
+West Bengal,Kolkata,Rice,Zaid,June,1.14,83,36,35,Red,1036,32.0,24.2
+Uttar Pradesh,Kanpur,Rice,Kharif,December,7.16,87,69,40,Red,946,23.7,25.19
+Uttar Pradesh,Varanasi,Cotton,Annual,February,1.2,117,65,94,Sandy,477,27.2,26.71
+Punjab,Patiala,Cotton,Rabi,July,8.61,154,52,49,Clay,450,27.5,33.97
+West Bengal,Howrah,Sugarcane,Zaid,March,9.9,170,44,60,Loamy,736,27.7,309.12
+West Bengal,Darjeeling,Wheat,Annual,March,8.02,136,48,90,Sandy,1058,32.9,43.2
+West Bengal,Howrah,Cotton,Zaid,August,7.45,165,51,50,Black,761,21.1,29.96
+Karnataka,Mysore,Tomato,Rabi,July,9.01,126,77,24,Sandy,800,20.3,219.71
+Punjab,Ludhiana,Rice,Rabi,April,6.9,137,54,43,Black,649,25.7,27.94
+Karnataka,Mandya,Cotton,Rabi,November,6.35,72,30,56,Black,597,23.2,17.99
+West Bengal,Darjeeling,Wheat,Annual,October,7.46,144,91,73,Sandy,1076,30.8,35.16
+Uttar Pradesh,Lucknow,Wheat,Rabi,May,5.94,54,88,54,Red,751,29.3,21.96
+Andhra Pradesh,Guntur,Sugarcane,Rabi,February,4.22,152,37,20,Loamy,797,22.0,282.62
+Punjab,Amritsar,Sugarcane,Rabi,September,9.53,182,59,91,Black,717,24.2,365.25
+Karnataka,Mysore,Rice,Rabi,October,4.61,65,83,22,Red,705,23.4,23.4
+Punjab,Ludhiana,Wheat,Rabi,August,4.15,66,51,78,Loamy,750,32.9,26.03
+West Bengal,Howrah,Cotton,Annual,November,4.35,112,69,24,Clay,579,25.1,28.25
+Karnataka,Mysore,Sugarcane,Zaid,March,4.12,88,80,97,Sandy,578,23.4,264.28
+Punjab,Patiala,Corn,Zaid,May,5.41,72,60,77,Clay,1021,27.9,28.16
+Tamil Nadu,Madurai,Rice,Zaid,June,2.33,95,81,51,Black,432,35.0,24.51
+Andhra Pradesh,Kurnool,Wheat,Zaid,April,8.31,194,44,53,Loamy,437,33.6,38.87
+Tamil Nadu,Madurai,Rice,Rabi,December,6.26,118,99,56,Sandy,698,20.1,38.67
+Karnataka,Mandya,Wheat,Annual,April,8.3,88,40,72,Black,670,20.3,30.02
+Uttar Pradesh,Varanasi,Rice,Annual,July,9.67,151,69,20,Black,764,27.7,38.07
+Maharashtra,Nashik,Sugarcane,Kharif,May,6.19,52,71,86,Clay,1022,28.0,247.15
+Tamil Nadu,Salem,Rice,Annual,February,2.31,83,32,80,Loamy,494,30.2,24.12
+Tamil Nadu,Madurai,Cotton,Zaid,December,3.96,121,30,64,Black,534,21.6,25.62
+Tamil Nadu,Madurai,Cotton,Kharif,January,2.72,175,76,88,Black,797,20.7,33.85
+Uttar Pradesh,Varanasi,Corn,Kharif,December,6.08,59,41,43,Red,1033,33.8,26.52
+West Bengal,Kolkata,Cotton,Rabi,March,6.82,83,78,63,Sandy,870,25.7,30.02
+West Bengal,Darjeeling,Wheat,Annual,March,8.14,90,78,100,Clay,1003,27.5,35.05
+Tamil Nadu,Madurai,Wheat,Annual,January,6.08,145,44,84,Sandy,428,27.0,37.81
+Andhra Pradesh,Guntur,Rice,Rabi,May,4.64,111,97,29,Black,552,20.9,24.89
+Karnataka,Belgaum,Tomato,Annual,January,8.95,121,38,59,Loamy,430,31.3,202.44
+Punjab,Patiala,Tomato,Rabi,December,8.54,111,47,28,Black,407,22.6,123.61
+Maharashtra,Nagpur,Tomato,Kharif,August,2.56,168,46,20,Sandy,866,32.5,207.2
+Tamil Nadu,Thanjavur,Rice,Zaid,February,4.51,59,46,66,Clay,715,23.1,27.16
+Maharashtra,Pune,Corn,Annual,January,3.44,61,38,97,Red,489,27.0,25.31
+Tamil Nadu,Salem,Tomato,Zaid,August,5.83,156,52,22,Red,428,29.1,153.87
+Andhra Pradesh,Nellore,Wheat,Annual,June,7.46,151,43,27,Red,999,24.0,31.22
+Uttar Pradesh,Lucknow,Corn,Kharif,December,8.33,188,43,71,Loamy,786,26.7,34.35
+Tamil Nadu,Thanjavur,Wheat,Rabi,July,2.02,101,48,51,Black,637,29.5,23.95
+Uttar Pradesh,Varanasi,Wheat,Rabi,December,5.77,121,58,41,Sandy,966,28.1,25.87
+Punjab,Ludhiana,Corn,Annual,June,2.89,83,74,24,Black,545,25.3,18.0
+Tamil Nadu,Salem,Wheat,Annual,February,7.88,190,83,41,Sandy,440,28.4,41.47
+Uttar Pradesh,Kanpur,Corn,Kharif,August,9.8,128,92,57,Loamy,853,31.7,40.03
+Tamil Nadu,Salem,Rice,Annual,July,7.04,155,93,76,Clay,621,26.2,36.67
+Andhra Pradesh,Nellore,Sugarcane,Kharif,March,5.38,199,73,89,Clay,875,23.8,464.36
+Andhra Pradesh,Nellore,Wheat,Annual,June,3.89,190,70,80,Black,1123,21.3,40.16
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,January,9.83,192,46,56,Loamy,1132,29.0,435.49
+Andhra Pradesh,Kurnool,Rice,Annual,February,6.78,168,49,88,Loamy,1077,31.7,36.46
+Karnataka,Mandya,Rice,Zaid,November,6.23,105,32,32,Clay,780,23.3,21.51
+West Bengal,Darjeeling,Corn,Kharif,September,5.43,144,61,21,Sandy,1078,30.8,26.31
+Tamil Nadu,Salem,Cotton,Kharif,January,6.59,65,52,52,Red,1060,32.1,29.26
+Karnataka,Mandya,Wheat,Rabi,February,5.93,97,82,93,Red,728,20.9,34.85
+Maharashtra,Nashik,Rice,Kharif,May,1.12,148,98,25,Black,1042,30.9,38.23
+Punjab,Amritsar,Corn,Kharif,August,2.51,115,75,57,Sandy,1107,32.4,37.63
+Tamil Nadu,Thanjavur,Cotton,Annual,April,2.66,122,42,53,Sandy,618,26.9,24.53
+Andhra Pradesh,Kurnool,Wheat,Annual,October,3.97,98,37,27,Clay,813,26.4,21.02
+Karnataka,Belgaum,Rice,Kharif,May,4.0,112,66,26,Black,453,34.3,27.74
+Karnataka,Mysore,Cotton,Kharif,June,7.65,120,48,31,Black,667,24.3,22.87
+Maharashtra,Nashik,Corn,Kharif,November,8.29,125,53,50,Loamy,822,24.9,29.29
+Maharashtra,Nagpur,Wheat,Annual,January,4.51,51,56,20,Clay,910,21.8,15.9
+Karnataka,Mysore,Sugarcane,Zaid,January,1.58,70,39,81,Black,833,31.7,247.5
+Maharashtra,Pune,Sugarcane,Kharif,April,8.75,51,66,31,Sandy,599,23.2,245.35
+Maharashtra,Pune,Sugarcane,Kharif,March,9.72,115,30,42,Clay,822,33.7,261.06
+West Bengal,Howrah,Cotton,Rabi,September,4.4,192,94,44,Loamy,840,33.6,41.14
+Tamil Nadu,Thanjavur,Tomato,Zaid,May,7.66,76,33,29,Clay,526,31.7,105.57
+Andhra Pradesh,Kurnool,Corn,Zaid,November,2.75,96,42,58,Loamy,1146,22.7,31.67
+Punjab,Patiala,Corn,Zaid,September,4.94,56,54,47,Clay,1178,20.3,22.98
+Andhra Pradesh,Guntur,Rice,Rabi,March,9.42,111,86,25,Clay,927,23.4,28.84
+Punjab,Patiala,Wheat,Annual,December,8.89,192,98,90,Loamy,1195,22.1,42.98
+Tamil Nadu,Thanjavur,Rice,Kharif,March,3.05,163,32,66,Red,1167,25.4,38.19
+Tamil Nadu,Madurai,Corn,Rabi,June,5.92,112,37,80,Loamy,747,21.8,23.96
+West Bengal,Howrah,Cotton,Annual,October,7.34,50,74,62,Sandy,743,27.2,25.54
+Tamil Nadu,Madurai,Sugarcane,Zaid,November,6.86,143,82,88,Clay,415,28.3,324.6
+West Bengal,Kolkata,Rice,Zaid,June,3.73,133,72,40,Clay,446,28.4,29.95
+Andhra Pradesh,Kurnool,Rice,Annual,March,1.44,200,50,31,Clay,428,25.5,29.77
+Karnataka,Mysore,Sugarcane,Annual,March,4.5,86,84,81,Sandy,1008,25.4,325.75
+Karnataka,Mandya,Rice,Zaid,June,4.42,120,99,33,Sandy,429,28.2,24.71
+Maharashtra,Pune,Sugarcane,Zaid,June,6.88,64,54,56,Sandy,892,27.1,258.58
+Maharashtra,Pune,Rice,Rabi,July,7.4,200,43,34,Red,554,25.2,36.42
+Uttar Pradesh,Lucknow,Sugarcane,Kharif,March,2.74,87,86,80,Red,404,32.2,268.64
+Punjab,Ludhiana,Sugarcane,Zaid,July,3.13,113,42,42,Sandy,834,26.7,302.2
+West Bengal,Kolkata,Corn,Kharif,August,3.43,157,96,24,Clay,550,21.3,32.2
+Uttar Pradesh,Lucknow,Rice,Annual,January,8.63,63,75,21,Loamy,1154,31.6,23.27
+Karnataka,Mandya,Corn,Annual,November,6.18,70,99,92,Sandy,499,29.7,31.57
+Uttar Pradesh,Lucknow,Wheat,Zaid,June,8.33,126,43,83,Clay,435,31.3,26.74
+West Bengal,Kolkata,Wheat,Kharif,June,8.72,113,57,31,Clay,569,33.5,22.58
+Tamil Nadu,Salem,Wheat,Rabi,January,1.09,162,68,92,Clay,812,23.4,43.45
+Maharashtra,Pune,Cotton,Kharif,March,6.53,197,56,100,Black,445,24.3,42.72
+Andhra Pradesh,Kurnool,Wheat,Rabi,May,7.45,155,98,24,Clay,1113,21.5,38.27
+Karnataka,Mandya,Wheat,Annual,November,8.64,78,39,20,Clay,1030,30.1,27.29
+Maharashtra,Pune,Tomato,Annual,August,1.09,86,97,97,Loamy,1135,29.9,195.11
+Uttar Pradesh,Kanpur,Tomato,Kharif,May,7.05,132,72,85,Sandy,429,23.4,184.48
+Tamil Nadu,Salem,Tomato,Annual,February,3.87,106,86,67,Sandy,942,25.8,169.31
+Maharashtra,Nagpur,Rice,Kharif,September,2.69,185,63,91,Clay,766,31.4,40.36
+Andhra Pradesh,Guntur,Rice,Zaid,June,3.73,164,58,83,Sandy,539,34.8,37.25
+Karnataka,Mandya,Sugarcane,Kharif,May,4.5,50,71,98,Black,962,33.9,335.55
+West Bengal,Howrah,Corn,Rabi,March,3.15,173,91,89,Black,973,32.0,39.34
+Punjab,Amritsar,Tomato,Annual,January,1.4,71,86,26,Loamy,1007,24.8,147.96
+Punjab,Ludhiana,Tomato,Annual,September,7.83,73,82,83,Black,558,20.3,165.16
+Punjab,Amritsar,Wheat,Zaid,August,1.28,118,71,63,Black,609,20.2,31.88
+Tamil Nadu,Thanjavur,Wheat,Kharif,August,2.87,134,86,93,Black,516,29.3,31.39
+Punjab,Amritsar,Wheat,Zaid,March,9.54,115,41,88,Red,924,28.5,37.41
+Tamil Nadu,Madurai,Cotton,Kharif,July,8.67,177,89,82,Black,739,31.8,39.83
+Karnataka,Belgaum,Wheat,Rabi,November,4.39,147,55,77,Black,1017,30.9,41.57
+Uttar Pradesh,Kanpur,Sugarcane,Zaid,December,9.98,118,66,61,Loamy,466,33.3,283.72
+Uttar Pradesh,Varanasi,Wheat,Zaid,April,8.78,127,68,26,Black,863,20.8,35.39
+Karnataka,Belgaum,Cotton,Zaid,October,9.98,116,94,27,Red,759,20.4,37.28
+Andhra Pradesh,Nellore,Rice,Kharif,May,8.23,162,41,94,Loamy,1055,32.3,37.03
+Andhra Pradesh,Nellore,Sugarcane,Zaid,May,8.89,142,99,72,Sandy,806,27.5,369.4
+Tamil Nadu,Salem,Sugarcane,Zaid,August,6.7,94,39,70,Red,1025,22.4,306.6
+Andhra Pradesh,Kurnool,Cotton,Annual,February,7.51,87,77,25,Clay,930,34.1,28.1
+West Bengal,Howrah,Wheat,Rabi,December,5.82,124,31,88,Loamy,1187,24.9,31.0
+Maharashtra,Pune,Corn,Zaid,August,2.16,158,67,78,Sandy,432,34.1,32.77
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,May,2.51,76,40,39,Loamy,436,28.0,152.93
+Punjab,Amritsar,Corn,Rabi,October,7.67,156,70,70,Black,675,26.4,33.66
+Uttar Pradesh,Varanasi,Tomato,Zaid,December,9.39,186,89,78,Loamy,989,20.9,274.6
+Maharashtra,Nagpur,Corn,Rabi,October,9.12,169,91,72,Loamy,562,29.0,44.98
+West Bengal,Kolkata,Sugarcane,Annual,October,5.62,161,91,51,Black,1019,23.7,322.62
+West Bengal,Darjeeling,Cotton,Zaid,July,6.41,148,40,25,Black,872,25.4,25.51
+Andhra Pradesh,Guntur,Rice,Annual,January,3.51,65,76,48,Black,736,26.2,26.5
+Tamil Nadu,Salem,Rice,Rabi,September,7.13,185,100,32,Red,417,26.0,42.14
+Andhra Pradesh,Nellore,Sugarcane,Kharif,May,6.89,124,34,88,Clay,1188,22.3,392.09
+Tamil Nadu,Madurai,Corn,Zaid,April,7.6,92,53,54,Sandy,554,27.9,23.9
+Karnataka,Mandya,Corn,Rabi,December,1.16,55,49,42,Loamy,1100,24.5,18.12
+Uttar Pradesh,Lucknow,Wheat,Annual,March,7.35,88,95,57,Clay,484,28.0,35.56
+Tamil Nadu,Salem,Cotton,Kharif,November,9.88,77,90,73,Red,545,27.7,32.67
+Uttar Pradesh,Varanasi,Cotton,Annual,February,4.88,148,34,21,Sandy,593,26.9,28.0
+Andhra Pradesh,Nellore,Wheat,Kharif,October,8.98,181,91,89,Clay,503,20.4,47.62
+Karnataka,Mandya,Sugarcane,Rabi,January,9.23,144,53,23,Black,1138,26.2,357.15
+Andhra Pradesh,Kurnool,Tomato,Kharif,June,9.95,198,68,89,Sandy,902,27.7,269.23
+Andhra Pradesh,Nellore,Corn,Annual,December,9.52,138,97,66,Red,641,26.6,42.36
+Uttar Pradesh,Lucknow,Wheat,Rabi,April,5.15,92,86,42,Clay,418,24.7,29.43
+Punjab,Ludhiana,Corn,Kharif,June,4.66,94,32,66,Sandy,568,24.3,29.17
+West Bengal,Howrah,Sugarcane,Rabi,August,1.07,120,31,57,Sandy,885,31.4,273.79
+West Bengal,Kolkata,Corn,Rabi,February,1.04,92,37,90,Sandy,1004,22.6,23.55
+Punjab,Amritsar,Corn,Rabi,June,9.69,106,84,77,Loamy,1116,20.5,34.7
+Karnataka,Mysore,Tomato,Annual,July,3.3,144,46,51,Clay,670,24.7,186.78
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,May,9.38,156,32,24,Red,1129,23.8,334.27
+Karnataka,Mandya,Rice,Rabi,January,5.16,134,74,82,Red,1172,34.4,30.05
+Punjab,Ludhiana,Corn,Annual,December,3.29,179,85,21,Clay,1160,20.4,33.25
+Andhra Pradesh,Kurnool,Corn,Annual,November,2.38,165,50,92,Clay,958,26.5,40.77
+Andhra Pradesh,Kurnool,Wheat,Kharif,March,8.56,149,66,98,Black,1119,25.5,46.79
+West Bengal,Kolkata,Wheat,Annual,March,4.33,136,33,32,Black,625,30.8,22.52
+Maharashtra,Nagpur,Corn,Zaid,October,9.3,94,73,70,Clay,968,25.2,34.22
+Tamil Nadu,Madurai,Sugarcane,Rabi,June,2.95,121,49,71,Sandy,831,26.6,269.77
+Punjab,Amritsar,Tomato,Rabi,August,9.52,200,96,83,Black,998,34.2,245.85
+Maharashtra,Pune,Sugarcane,Annual,July,8.86,72,54,95,Red,633,27.3,281.46
+Andhra Pradesh,Guntur,Cotton,Zaid,December,6.03,102,30,97,Black,682,21.5,26.0
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,July,3.06,190,68,47,Red,1031,27.7,381.53
+Uttar Pradesh,Varanasi,Corn,Annual,September,2.38,166,46,80,Clay,832,23.3,32.57
+Maharashtra,Nagpur,Rice,Zaid,April,1.83,194,94,56,Loamy,874,32.3,43.26
+Maharashtra,Pune,Sugarcane,Zaid,April,9.3,137,80,28,Loamy,748,28.4,320.58
+Karnataka,Belgaum,Corn,Rabi,December,9.95,172,64,92,Clay,1114,23.9,37.15
+Uttar Pradesh,Kanpur,Corn,Zaid,November,6.98,107,62,20,Clay,633,26.6,28.21
+Andhra Pradesh,Guntur,Tomato,Kharif,July,3.4,68,45,72,Sandy,761,29.5,144.25
+Maharashtra,Pune,Tomato,Annual,January,5.5,179,46,29,Clay,583,30.3,212.92
+Karnataka,Belgaum,Corn,Zaid,March,7.86,129,64,64,Black,1164,34.4,33.93
+Punjab,Patiala,Cotton,Annual,February,5.87,181,74,61,Black,424,31.9,41.7
+West Bengal,Darjeeling,Sugarcane,Rabi,April,2.64,115,69,54,Black,1040,34.2,249.18
+Punjab,Patiala,Wheat,Rabi,February,7.5,178,73,56,Loamy,636,29.5,44.23
+Tamil Nadu,Madurai,Tomato,Rabi,September,7.97,63,75,52,Loamy,782,33.1,189.73
+Andhra Pradesh,Guntur,Corn,Kharif,March,5.68,101,34,88,Sandy,637,32.7,27.86
+Uttar Pradesh,Lucknow,Rice,Zaid,June,8.96,195,99,58,Loamy,1022,22.5,42.67
+Tamil Nadu,Salem,Wheat,Kharif,September,2.08,77,54,31,Clay,1104,20.7,22.24
+West Bengal,Kolkata,Corn,Kharif,October,4.21,135,42,97,Loamy,412,34.4,31.78
+West Bengal,Howrah,Corn,Rabi,August,2.66,59,57,59,Sandy,1078,26.0,22.33
+Punjab,Patiala,Corn,Zaid,August,2.12,91,72,78,Clay,465,26.1,26.24
+Maharashtra,Pune,Sugarcane,Rabi,February,9.46,165,90,70,Loamy,1036,22.1,392.62
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,April,5.54,108,61,42,Loamy,717,31.9,234.5
+Tamil Nadu,Thanjavur,Tomato,Zaid,October,9.99,161,74,99,Black,1092,29.8,253.48
+Tamil Nadu,Salem,Corn,Kharif,November,9.44,58,60,60,Red,909,26.8,22.66
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,March,1.7,143,79,34,Loamy,1142,20.1,380.54
+Punjab,Ludhiana,Cotton,Kharif,February,3.75,105,89,79,Loamy,402,24.2,33.28
+West Bengal,Kolkata,Corn,Zaid,December,8.67,147,63,49,Sandy,1041,21.8,36.13
+Uttar Pradesh,Varanasi,Wheat,Annual,February,4.35,87,38,93,Red,656,23.5,30.33
+West Bengal,Howrah,Cotton,Zaid,July,2.22,195,62,29,Loamy,735,33.6,30.94
+Tamil Nadu,Thanjavur,Wheat,Kharif,June,6.95,97,66,74,Black,893,28.1,27.93
+Punjab,Patiala,Sugarcane,Annual,May,4.94,127,40,61,Sandy,576,22.3,253.31
+Karnataka,Mysore,Tomato,Kharif,December,5.12,80,73,35,Clay,972,25.2,168.35
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,April,6.58,135,72,98,Clay,1080,23.6,391.62
+Karnataka,Mandya,Rice,Annual,July,1.3,78,68,68,Loamy,1068,29.2,30.45
+West Bengal,Howrah,Sugarcane,Zaid,July,8.41,143,52,79,Loamy,1192,31.7,411.16
+West Bengal,Howrah,Corn,Kharif,October,9.81,135,88,98,Sandy,747,26.8,39.21
+West Bengal,Howrah,Cotton,Annual,October,1.55,175,32,71,Red,871,33.1,29.41
+Uttar Pradesh,Lucknow,Tomato,Kharif,July,2.82,135,32,58,Loamy,956,20.8,161.92
+West Bengal,Howrah,Cotton,Annual,October,8.92,190,84,35,Red,943,28.2,39.26
+Punjab,Amritsar,Rice,Rabi,August,2.09,145,38,87,Sandy,1099,27.7,27.46
+Tamil Nadu,Thanjavur,Rice,Zaid,May,3.31,139,51,99,Clay,1117,23.9,36.05
+Tamil Nadu,Madurai,Wheat,Rabi,December,5.39,187,64,91,Black,1042,22.6,44.97
+Punjab,Amritsar,Wheat,Annual,May,1.98,85,77,42,Black,720,27.6,24.36
+Maharashtra,Nashik,Rice,Kharif,March,7.79,116,93,24,Red,1191,26.9,36.95
+Punjab,Amritsar,Corn,Zaid,July,1.5,124,63,38,Red,628,33.3,30.62
+Punjab,Amritsar,Sugarcane,Rabi,March,2.11,178,80,52,Clay,895,33.2,408.16
+Maharashtra,Nashik,Corn,Annual,August,3.92,85,38,89,Red,686,34.6,28.04
+Karnataka,Mandya,Wheat,Rabi,June,9.28,61,57,50,Red,998,25.3,24.82
+Tamil Nadu,Salem,Cotton,Rabi,October,2.03,139,48,88,Red,571,23.1,29.28
+Tamil Nadu,Thanjavur,Corn,Annual,August,9.13,69,40,54,Clay,474,26.7,22.93
+Andhra Pradesh,Kurnool,Cotton,Rabi,October,1.53,158,48,77,Loamy,609,21.2,30.2
+Andhra Pradesh,Nellore,Corn,Rabi,April,2.33,172,64,65,Red,1012,21.4,40.25
+West Bengal,Kolkata,Sugarcane,Kharif,August,7.44,91,51,47,Red,1133,33.6,303.99
+Tamil Nadu,Salem,Wheat,Kharif,October,1.69,116,72,81,Sandy,892,21.6,36.79
+Uttar Pradesh,Kanpur,Wheat,Rabi,March,1.25,68,74,62,Sandy,950,25.8,27.0
+Punjab,Ludhiana,Wheat,Rabi,August,9.73,148,77,86,Black,669,27.5,36.69
+Tamil Nadu,Salem,Corn,Kharif,February,4.01,78,90,97,Red,1020,29.2,40.1
+Maharashtra,Pune,Corn,Rabi,March,8.64,101,51,30,Black,851,28.1,28.3
+Tamil Nadu,Salem,Cotton,Zaid,October,5.13,158,42,62,Clay,866,30.6,32.45
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,May,4.21,80,71,54,Loamy,608,20.6,296.27
+Punjab,Patiala,Tomato,Kharif,August,3.66,176,49,41,Sandy,1005,20.2,191.51
+Karnataka,Belgaum,Rice,Kharif,November,8.43,131,96,57,Red,658,25.2,39.25
+Uttar Pradesh,Kanpur,Tomato,Kharif,July,9.91,173,50,96,Clay,709,33.5,260.15
+West Bengal,Howrah,Cotton,Zaid,July,7.39,171,85,74,Clay,899,31.1,41.6
+Punjab,Ludhiana,Corn,Annual,July,3.38,168,93,27,Red,975,25.3,29.21
+Tamil Nadu,Madurai,Wheat,Kharif,May,8.86,130,66,76,Sandy,640,31.8,33.37
+Uttar Pradesh,Varanasi,Wheat,Kharif,February,6.92,91,72,25,Clay,962,22.8,26.69
+Maharashtra,Nashik,Tomato,Kharif,July,9.5,134,37,95,Sandy,710,21.2,232.75
+Tamil Nadu,Salem,Rice,Rabi,April,8.59,107,88,23,Clay,475,20.9,28.63
+West Bengal,Howrah,Sugarcane,Zaid,October,7.86,119,54,63,Red,794,24.3,348.45
+Andhra Pradesh,Nellore,Corn,Zaid,September,1.94,94,92,48,Clay,863,28.7,24.9
+Andhra Pradesh,Nellore,Cotton,Rabi,April,6.06,51,36,95,Loamy,838,28.4,23.88
+Andhra Pradesh,Guntur,Cotton,Kharif,May,1.48,146,46,36,Red,1155,30.4,27.34
+Karnataka,Belgaum,Corn,Annual,September,9.11,56,99,43,Loamy,558,24.0,25.03
+Karnataka,Mandya,Sugarcane,Annual,September,8.27,185,92,89,Loamy,995,22.9,535.12
+Maharashtra,Nashik,Corn,Rabi,January,1.87,75,64,38,Sandy,670,27.7,19.27
+Andhra Pradesh,Nellore,Corn,Kharif,May,9.75,74,48,61,Black,1165,29.6,28.66
+Punjab,Patiala,Wheat,Zaid,April,6.76,160,36,48,Black,806,33.1,36.12
+Maharashtra,Pune,Sugarcane,Zaid,September,2.52,112,70,87,Clay,833,30.7,281.3
+Tamil Nadu,Madurai,Corn,Rabi,February,6.43,95,89,46,Clay,658,25.0,34.47
+Karnataka,Mandya,Sugarcane,Kharif,April,2.94,98,38,56,Black,599,32.6,226.54
+Andhra Pradesh,Nellore,Rice,Annual,October,6.04,68,60,80,Clay,1078,26.0,32.28
+Karnataka,Mandya,Corn,Zaid,September,7.09,164,36,82,Clay,730,21.1,31.34
+Uttar Pradesh,Kanpur,Tomato,Kharif,January,8.56,179,73,65,Red,517,30.3,199.28
+Uttar Pradesh,Varanasi,Wheat,Annual,March,1.79,141,35,99,Loamy,698,25.3,30.1
+Karnataka,Mysore,Wheat,Rabi,December,5.46,173,79,100,Black,820,26.7,41.74
+Uttar Pradesh,Varanasi,Corn,Kharif,February,2.44,113,96,34,Black,892,32.0,27.3
+Tamil Nadu,Salem,Corn,Annual,July,1.06,183,84,27,Loamy,1015,21.7,38.28
+Uttar Pradesh,Kanpur,Tomato,Kharif,March,3.65,146,64,34,Sandy,769,23.9,151.35
+Karnataka,Mandya,Tomato,Kharif,February,4.87,171,37,91,Black,712,28.4,205.21
+Punjab,Ludhiana,Sugarcane,Rabi,February,3.33,86,69,30,Loamy,747,23.0,245.25
+Uttar Pradesh,Lucknow,Tomato,Zaid,March,9.03,76,66,81,Black,918,35.0,159.76
+Uttar Pradesh,Lucknow,Wheat,Rabi,July,2.26,178,87,74,Loamy,856,21.8,39.75
+Uttar Pradesh,Varanasi,Wheat,Zaid,January,5.5,154,46,76,Black,472,29.4,31.84
+Tamil Nadu,Thanjavur,Tomato,Zaid,March,8.91,199,84,27,Black,1074,28.9,277.23
+Maharashtra,Nagpur,Wheat,Rabi,December,1.04,189,37,27,Black,541,21.5,25.52
+Maharashtra,Nashik,Wheat,Zaid,April,2.37,60,40,77,Red,1049,34.6,20.4
+West Bengal,Howrah,Wheat,Rabi,August,6.01,153,72,88,Black,430,33.2,43.44
+Andhra Pradesh,Nellore,Sugarcane,Kharif,March,2.1,130,50,48,Black,743,20.6,257.92
+West Bengal,Howrah,Tomato,Zaid,December,1.42,64,96,24,Red,541,27.3,120.35
+Maharashtra,Nashik,Corn,Rabi,January,8.3,63,54,92,Black,1146,24.0,28.58
+Andhra Pradesh,Guntur,Rice,Zaid,October,9.79,80,70,95,Sandy,631,25.4,34.8
+West Bengal,Kolkata,Cotton,Kharif,October,7.77,123,42,39,Black,1130,30.6,32.03
+Maharashtra,Pune,Cotton,Kharif,May,7.77,76,70,27,Loamy,542,29.8,22.89
+Uttar Pradesh,Lucknow,Wheat,Zaid,July,5.47,58,84,54,Clay,1062,26.4,26.63
+Karnataka,Mandya,Sugarcane,Annual,April,7.21,192,45,35,Black,1130,32.2,424.98
+Punjab,Patiala,Tomato,Rabi,February,7.96,76,52,67,Red,890,32.0,191.31
+West Bengal,Darjeeling,Wheat,Kharif,January,6.5,190,91,65,Red,746,20.5,48.29
+Maharashtra,Pune,Cotton,Rabi,April,4.59,133,35,70,Black,970,22.1,35.18
+West Bengal,Kolkata,Corn,Kharif,April,1.27,83,88,100,Red,995,31.7,31.15
+Uttar Pradesh,Kanpur,Tomato,Rabi,February,7.59,199,36,96,Sandy,840,25.1,210.01
+Punjab,Ludhiana,Tomato,Zaid,May,4.65,80,98,100,Clay,546,30.1,202.66
+Maharashtra,Pune,Corn,Zaid,March,2.68,60,68,41,Loamy,589,23.5,21.26
+Maharashtra,Nashik,Wheat,Annual,May,3.69,165,80,43,Red,511,33.1,27.81
+Punjab,Patiala,Wheat,Kharif,October,7.55,65,96,79,Loamy,698,33.9,29.99
+Tamil Nadu,Salem,Tomato,Zaid,April,3.72,108,31,24,Red,619,25.8,128.4
+West Bengal,Howrah,Corn,Annual,August,4.4,180,96,42,Red,1143,27.0,34.61
+Tamil Nadu,Thanjavur,Tomato,Zaid,February,4.77,166,61,51,Red,957,26.7,204.71
+Tamil Nadu,Madurai,Tomato,Kharif,January,8.81,194,36,96,Clay,997,32.1,233.97
+Punjab,Patiala,Sugarcane,Zaid,September,1.97,95,80,28,Clay,712,28.9,256.38
+Karnataka,Mandya,Wheat,Kharif,April,5.31,58,68,36,Loamy,405,29.7,17.02
+Maharashtra,Pune,Wheat,Zaid,May,5.3,130,43,87,Clay,438,32.0,28.82
+West Bengal,Howrah,Sugarcane,Annual,April,3.8,112,85,87,Clay,702,23.8,293.22
+Uttar Pradesh,Varanasi,Tomato,Kharif,May,2.95,199,72,88,Black,824,23.2,251.4
+Karnataka,Mandya,Wheat,Kharif,May,3.58,120,42,71,Loamy,403,27.3,31.34
+Karnataka,Mandya,Tomato,Kharif,November,7.86,147,82,53,Red,591,25.1,214.44
+West Bengal,Howrah,Sugarcane,Rabi,February,2.94,50,100,99,Black,691,34.7,341.82
+Maharashtra,Nagpur,Corn,Rabi,June,4.82,136,62,34,Black,977,24.1,29.85
+West Bengal,Darjeeling,Wheat,Zaid,January,8.11,103,45,68,Loamy,998,34.0,28.46
+Punjab,Patiala,Corn,Zaid,September,1.21,195,59,46,Clay,693,21.9,35.19
+Maharashtra,Nashik,Wheat,Kharif,February,1.39,113,73,35,Clay,1185,28.2,32.61
+West Bengal,Kolkata,Cotton,Annual,June,2.96,162,61,33,Clay,1056,34.3,28.55
+Tamil Nadu,Thanjavur,Corn,Zaid,January,6.45,73,72,60,Black,412,23.4,29.9
+Tamil Nadu,Salem,Cotton,Zaid,September,1.13,165,97,44,Red,493,23.9,40.08
+Maharashtra,Pune,Tomato,Annual,January,9.66,114,91,85,Black,1181,29.5,277.0
+West Bengal,Kolkata,Cotton,Rabi,January,6.31,135,36,94,Sandy,496,29.7,37.15
+Uttar Pradesh,Kanpur,Corn,Zaid,April,3.19,165,61,43,Red,670,26.9,33.5
+Karnataka,Mysore,Sugarcane,Rabi,February,4.41,98,59,62,Black,458,26.0,310.69
+Maharashtra,Pune,Cotton,Kharif,February,9.59,114,97,65,Sandy,797,33.2,39.6
+Uttar Pradesh,Lucknow,Wheat,Zaid,May,7.1,171,64,27,Clay,974,28.8,35.98
+West Bengal,Darjeeling,Corn,Kharif,December,4.43,187,53,50,Clay,529,24.7,28.83
+Uttar Pradesh,Lucknow,Sugarcane,Zaid,January,5.71,93,37,90,Loamy,1026,33.2,344.0
+Maharashtra,Nashik,Tomato,Annual,December,5.76,194,77,99,Sandy,659,24.5,292.71
+West Bengal,Kolkata,Wheat,Annual,August,1.45,105,37,57,Black,1108,29.4,28.63
+Tamil Nadu,Salem,Rice,Rabi,February,4.26,168,64,85,Red,789,21.6,32.43
+Maharashtra,Nashik,Cotton,Rabi,May,7.62,193,86,61,Sandy,969,32.8,39.2
+West Bengal,Howrah,Rice,Annual,June,1.55,145,95,68,Red,1088,23.8,36.07
+West Bengal,Darjeeling,Corn,Annual,October,8.37,155,72,91,Sandy,884,28.2,37.72
+Tamil Nadu,Madurai,Rice,Rabi,September,8.29,166,37,54,Sandy,486,21.0,26.81
+Maharashtra,Nashik,Wheat,Kharif,August,5.64,157,99,38,Clay,769,25.2,38.84
+Karnataka,Mysore,Rice,Annual,November,1.51,196,36,95,Loamy,663,28.6,38.54
+Karnataka,Mysore,Rice,Zaid,December,7.57,72,82,24,Red,935,27.1,25.23
+Maharashtra,Pune,Wheat,Rabi,November,3.24,187,49,97,Loamy,826,32.8,33.05
+Maharashtra,Nagpur,Wheat,Annual,January,2.99,147,93,33,Sandy,967,33.9,31.13
+West Bengal,Kolkata,Cotton,Zaid,March,9.45,136,68,87,Black,833,25.3,35.24
+Tamil Nadu,Madurai,Corn,Zaid,November,1.63,131,90,59,Sandy,801,21.7,33.02
+Maharashtra,Nashik,Rice,Rabi,June,7.62,183,32,71,Red,470,31.2,34.96
+Uttar Pradesh,Lucknow,Cotton,Kharif,December,5.27,122,72,28,Sandy,501,32.7,31.04
+Uttar Pradesh,Lucknow,Wheat,Zaid,March,4.2,191,96,90,Red,458,26.9,43.97
+Punjab,Amritsar,Cotton,Annual,January,2.77,180,60,49,Loamy,755,26.4,39.46
+West Bengal,Darjeeling,Tomato,Annual,October,4.43,189,71,68,Loamy,425,31.8,237.06
+West Bengal,Kolkata,Sugarcane,Rabi,February,5.13,51,62,87,Red,1044,27.5,227.83
+Karnataka,Belgaum,Sugarcane,Zaid,August,3.56,75,45,21,Black,1146,24.2,230.93
+Uttar Pradesh,Kanpur,Rice,Kharif,June,3.49,199,97,64,Red,573,27.4,38.67
+West Bengal,Howrah,Sugarcane,Zaid,September,6.67,143,59,34,Loamy,685,21.9,364.06
+Andhra Pradesh,Nellore,Cotton,Annual,September,9.91,99,100,56,Sandy,1051,23.7,38.03
+Andhra Pradesh,Guntur,Rice,Zaid,September,1.29,99,80,100,Clay,1128,28.6,29.62
+Karnataka,Belgaum,Rice,Kharif,August,4.01,65,36,68,Loamy,1050,31.5,22.29
+Uttar Pradesh,Varanasi,Wheat,Rabi,August,3.66,163,73,49,Sandy,879,24.8,29.43
+Tamil Nadu,Salem,Tomato,Annual,November,2.49,70,83,50,Black,701,21.6,123.78
+Maharashtra,Pune,Sugarcane,Rabi,December,7.96,131,58,43,Red,1100,21.2,303.78
+Andhra Pradesh,Kurnool,Tomato,Rabi,October,3.75,83,50,75,Clay,453,26.5,138.49
+Karnataka,Mandya,Rice,Rabi,May,1.67,196,100,35,Loamy,882,21.2,37.76
+Andhra Pradesh,Nellore,Tomato,Rabi,July,1.59,193,58,81,Loamy,446,23.1,244.81
+Karnataka,Belgaum,Rice,Kharif,June,4.55,86,95,85,Red,646,20.6,28.13
+Andhra Pradesh,Guntur,Wheat,Annual,August,9.33,175,70,63,Black,1081,33.5,47.49
+Punjab,Patiala,Cotton,Annual,March,5.95,54,33,95,Clay,755,30.4,29.16
+Maharashtra,Nagpur,Corn,Rabi,July,2.89,99,99,52,Red,505,31.2,28.39
+Uttar Pradesh,Lucknow,Corn,Kharif,February,2.47,75,95,53,Loamy,946,31.6,26.39
+Tamil Nadu,Thanjavur,Rice,Zaid,July,5.28,159,70,81,Loamy,701,28.9,38.94
+Uttar Pradesh,Varanasi,Cotton,Zaid,June,9.7,58,55,31,Sandy,895,28.4,27.04
+Punjab,Ludhiana,Corn,Rabi,August,7.72,151,57,58,Loamy,542,24.8,38.31
+Karnataka,Belgaum,Corn,Kharif,March,5.1,195,65,84,Loamy,751,32.6,48.29
+Maharashtra,Nagpur,Sugarcane,Zaid,April,9.15,82,45,79,Loamy,813,30.3,292.72
+Maharashtra,Pune,Sugarcane,Annual,November,3.13,51,47,58,Loamy,1163,31.3,212.28
+Karnataka,Mandya,Tomato,Rabi,April,5.11,185,71,23,Sandy,610,24.6,169.51
+West Bengal,Darjeeling,Wheat,Rabi,April,2.87,105,61,56,Loamy,855,31.6,31.65
+Tamil Nadu,Thanjavur,Cotton,Kharif,October,5.57,158,88,25,Black,969,30.9,28.63
+Maharashtra,Nashik,Corn,Zaid,March,2.08,70,48,36,Red,906,29.7,23.26
+West Bengal,Howrah,Cotton,Rabi,April,2.62,137,62,48,Clay,903,34.4,35.51
+Tamil Nadu,Thanjavur,Wheat,Rabi,March,1.19,171,36,61,Clay,408,31.3,29.66
+West Bengal,Kolkata,Sugarcane,Annual,May,4.77,148,58,44,Red,645,31.4,319.28
+Uttar Pradesh,Varanasi,Rice,Rabi,February,6.44,161,90,63,Loamy,651,23.3,44.24
+West Bengal,Darjeeling,Rice,Annual,November,7.57,193,66,64,Black,522,32.0,44.14
+Tamil Nadu,Salem,Corn,Annual,February,6.23,82,36,52,Red,1200,23.2,28.78
+West Bengal,Howrah,Rice,Rabi,April,4.84,103,87,62,Loamy,1116,30.8,34.47
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,June,4.05,90,65,87,Clay,558,24.2,337.62
+West Bengal,Darjeeling,Sugarcane,Annual,September,3.22,129,98,22,Black,906,24.7,356.21
+Uttar Pradesh,Varanasi,Wheat,Zaid,September,6.63,166,93,54,Clay,1035,20.3,39.42
+West Bengal,Darjeeling,Cotton,Kharif,March,1.31,106,34,27,Red,579,32.7,18.09
+Punjab,Patiala,Tomato,Rabi,April,5.7,161,48,49,Loamy,909,20.8,213.76
+Andhra Pradesh,Kurnool,Tomato,Kharif,June,8.34,137,43,64,Loamy,469,29.9,217.12
+Punjab,Amritsar,Rice,Kharif,October,8.21,199,32,34,Loamy,1144,29.9,37.35
+Andhra Pradesh,Guntur,Rice,Zaid,November,2.84,107,40,83,Loamy,1150,32.0,34.46
+West Bengal,Darjeeling,Rice,Kharif,April,3.59,191,69,49,Clay,557,29.2,32.99
+Tamil Nadu,Thanjavur,Corn,Rabi,May,2.72,150,50,27,Loamy,504,28.4,24.15
+Andhra Pradesh,Guntur,Cotton,Kharif,August,3.5,98,50,20,Clay,1047,33.4,27.15
+Andhra Pradesh,Guntur,Wheat,Rabi,November,7.12,170,62,25,Sandy,554,29.5,34.5
+Andhra Pradesh,Kurnool,Tomato,Zaid,January,2.08,53,67,88,Sandy,467,26.9,141.07
+West Bengal,Howrah,Sugarcane,Rabi,October,8.38,128,71,21,Loamy,605,24.3,301.08
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,May,5.15,73,55,35,Loamy,416,30.0,207.19
+Maharashtra,Pune,Wheat,Annual,May,8.92,63,87,20,Clay,843,30.8,21.5
+Punjab,Ludhiana,Sugarcane,Kharif,March,8.87,107,34,72,Black,725,22.5,260.64
+Andhra Pradesh,Nellore,Wheat,Zaid,October,1.22,113,72,89,Clay,770,31.3,34.52
+Uttar Pradesh,Kanpur,Corn,Annual,January,5.83,193,41,45,Red,587,21.8,33.0
+Andhra Pradesh,Kurnool,Corn,Rabi,August,7.77,92,75,92,Loamy,1030,23.9,32.46
+Punjab,Ludhiana,Sugarcane,Kharif,August,6.65,169,69,84,Clay,893,32.7,426.47
+Karnataka,Mysore,Corn,Annual,June,5.06,106,32,43,Loamy,715,34.2,20.53
+Punjab,Amritsar,Wheat,Annual,March,5.68,155,77,80,Clay,909,20.1,33.37
+Maharashtra,Nashik,Tomato,Zaid,August,5.17,100,64,23,Loamy,539,27.9,123.48
+Maharashtra,Pune,Corn,Zaid,January,2.16,166,92,49,Sandy,675,21.1,29.0
+Andhra Pradesh,Guntur,Rice,Annual,April,5.31,76,79,75,Red,870,28.2,25.62
+Punjab,Patiala,Cotton,Rabi,March,6.52,154,74,21,Sandy,1148,26.0,38.94
+Tamil Nadu,Salem,Rice,Kharif,June,9.72,57,70,32,Sandy,1051,33.6,28.4
+Tamil Nadu,Salem,Tomato,Kharif,April,1.86,153,66,49,Clay,982,31.5,203.06
+West Bengal,Kolkata,Cotton,Annual,July,3.26,163,98,69,Black,886,23.0,39.01
+Andhra Pradesh,Kurnool,Tomato,Rabi,November,7.62,77,56,100,Red,769,25.2,191.36
+Tamil Nadu,Salem,Sugarcane,Zaid,July,5.39,140,37,30,Loamy,408,26.1,254.71
+West Bengal,Howrah,Rice,Kharif,October,2.8,156,47,100,Loamy,971,23.3,35.77
+West Bengal,Darjeeling,Rice,Zaid,March,3.75,51,71,81,Loamy,764,30.0,26.35
+Uttar Pradesh,Lucknow,Rice,Annual,June,5.65,134,65,59,Clay,949,20.5,27.03
+Maharashtra,Nashik,Rice,Rabi,June,3.05,192,93,69,Sandy,934,25.3,35.45
+Uttar Pradesh,Varanasi,Cotton,Annual,October,8.46,178,56,69,Red,447,21.0,36.95
+Tamil Nadu,Salem,Cotton,Zaid,May,1.48,137,79,98,Red,461,20.2,40.58
+Punjab,Ludhiana,Cotton,Annual,May,5.69,52,44,89,Red,964,21.9,30.55
+Maharashtra,Nagpur,Rice,Kharif,May,9.53,71,45,85,Black,674,30.5,33.34
+Tamil Nadu,Salem,Cotton,Kharif,April,2.91,159,89,100,Red,452,23.0,43.38
+Maharashtra,Pune,Sugarcane,Zaid,June,3.91,67,41,25,Red,922,22.9,176.06
+Uttar Pradesh,Kanpur,Rice,Annual,September,2.27,64,65,86,Loamy,1084,24.5,29.56
+Uttar Pradesh,Varanasi,Sugarcane,Annual,November,4.83,162,69,40,Black,709,28.2,299.9
+Andhra Pradesh,Kurnool,Cotton,Annual,June,6.97,107,59,44,Red,424,31.6,22.33
+Punjab,Amritsar,Rice,Rabi,June,8.57,58,61,63,Sandy,581,21.6,28.51
+Uttar Pradesh,Lucknow,Cotton,Rabi,August,6.76,95,32,85,Loamy,1022,23.7,34.24
+Uttar Pradesh,Varanasi,Tomato,Zaid,April,5.92,89,62,52,Clay,921,33.5,140.81
+Karnataka,Mandya,Cotton,Kharif,May,9.84,149,44,76,Black,701,32.5,39.03
+West Bengal,Howrah,Sugarcane,Kharif,December,3.12,61,40,85,Sandy,652,23.1,208.02
+Andhra Pradesh,Kurnool,Tomato,Kharif,November,9.81,50,71,29,Black,1141,33.0,150.28
+Andhra Pradesh,Nellore,Sugarcane,Rabi,August,8.82,94,63,77,Black,913,30.8,340.98
+Tamil Nadu,Thanjavur,Corn,Annual,January,4.5,135,43,55,Red,967,28.5,28.41
+Karnataka,Mandya,Corn,Rabi,November,9.57,62,56,20,Loamy,1065,28.3,21.75
+Punjab,Amritsar,Corn,Kharif,September,4.46,74,67,38,Clay,642,31.5,21.44
+West Bengal,Howrah,Sugarcane,Zaid,July,5.48,194,83,65,Loamy,626,25.0,336.09
+Karnataka,Belgaum,Rice,Zaid,July,1.06,114,96,23,Black,865,23.5,33.37
+Karnataka,Mandya,Cotton,Zaid,September,4.48,125,59,94,Black,860,23.3,31.03
+West Bengal,Darjeeling,Corn,Kharif,October,3.87,96,73,64,Sandy,1073,25.5,27.31
+Maharashtra,Pune,Sugarcane,Annual,November,1.19,72,44,48,Clay,566,27.0,212.64
+Andhra Pradesh,Kurnool,Cotton,Kharif,June,3.68,132,74,93,Loamy,419,24.3,40.1
+West Bengal,Howrah,Sugarcane,Rabi,June,8.63,70,96,77,Sandy,1167,28.6,392.95
+Tamil Nadu,Thanjavur,Corn,Annual,July,6.94,101,58,50,Loamy,874,20.9,32.5
+Uttar Pradesh,Lucknow,Corn,Kharif,February,2.24,197,46,64,Sandy,493,29.6,31.56
+Punjab,Patiala,Cotton,Zaid,April,6.0,67,95,23,Black,520,29.5,22.96
+Punjab,Patiala,Wheat,Rabi,November,9.92,160,73,21,Red,869,24.9,33.8
+West Bengal,Howrah,Tomato,Kharif,September,1.08,66,74,93,Black,769,28.4,139.46
+Tamil Nadu,Madurai,Wheat,Annual,January,3.63,167,46,88,Clay,995,33.9,31.73
+Karnataka,Mysore,Corn,Rabi,September,8.39,142,36,81,Clay,781,25.3,29.9
+West Bengal,Howrah,Tomato,Annual,September,4.65,177,93,27,Sandy,1022,34.1,262.07
+West Bengal,Darjeeling,Cotton,Zaid,June,3.22,184,100,28,Loamy,601,20.3,32.08
+Andhra Pradesh,Kurnool,Corn,Annual,October,4.8,58,50,46,Black,459,24.6,20.77
+Maharashtra,Nashik,Wheat,Annual,July,5.3,171,43,77,Loamy,855,30.9,39.9
+Karnataka,Mandya,Wheat,Kharif,May,6.8,128,36,87,Loamy,842,30.4,36.54
+Tamil Nadu,Salem,Rice,Annual,March,1.99,53,97,63,Black,973,31.7,24.12
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,July,3.29,89,55,46,Clay,1058,28.4,232.24
+Punjab,Ludhiana,Wheat,Kharif,February,5.35,159,85,84,Black,998,25.3,41.42
+Maharashtra,Pune,Rice,Kharif,June,7.47,123,56,90,Red,1191,28.6,33.65
+Tamil Nadu,Madurai,Tomato,Zaid,March,3.02,101,61,89,Red,939,23.3,185.42
+Maharashtra,Nashik,Wheat,Kharif,June,6.41,86,65,60,Red,539,34.6,26.25
+Maharashtra,Nashik,Rice,Rabi,July,7.82,162,37,68,Black,1014,20.0,39.79
+Tamil Nadu,Salem,Corn,Kharif,February,8.33,189,44,95,Black,836,24.3,44.54
+Maharashtra,Nashik,Tomato,Kharif,September,4.03,90,87,20,Black,1180,22.8,139.26
+Karnataka,Belgaum,Corn,Rabi,April,1.56,170,54,55,Clay,1176,26.7,31.78
+Andhra Pradesh,Guntur,Corn,Kharif,July,2.68,169,48,29,Clay,667,24.8,33.96
+West Bengal,Howrah,Wheat,Rabi,February,7.82,66,61,98,Red,422,31.3,30.97
+Karnataka,Belgaum,Sugarcane,Rabi,April,7.87,140,56,99,Loamy,848,34.0,416.72
+Uttar Pradesh,Varanasi,Cotton,Zaid,July,7.1,104,82,65,Black,1018,33.2,31.11
+Maharashtra,Nagpur,Tomato,Rabi,May,2.8,71,71,63,Black,1013,28.2,185.02
+Punjab,Patiala,Tomato,Zaid,October,1.12,94,46,50,Red,1008,32.8,123.93
+Tamil Nadu,Salem,Sugarcane,Rabi,November,3.89,197,46,26,Loamy,1031,20.2,372.97
+Andhra Pradesh,Kurnool,Cotton,Annual,August,9.67,79,33,28,Clay,1158,32.9,22.25
+Karnataka,Mysore,Wheat,Annual,January,6.6,185,41,84,Sandy,725,32.8,34.04
+Karnataka,Belgaum,Tomato,Rabi,June,8.08,117,98,100,Sandy,406,24.7,229.4
+West Bengal,Kolkata,Wheat,Annual,August,5.52,154,71,85,Sandy,1125,26.4,36.95
+West Bengal,Howrah,Tomato,Kharif,March,4.06,82,69,78,Loamy,619,31.9,177.47
+Maharashtra,Nagpur,Cotton,Kharif,June,4.2,196,87,64,Red,1188,32.1,40.32
+West Bengal,Howrah,Rice,Zaid,July,3.63,150,72,26,Black,681,21.6,30.07
+Karnataka,Belgaum,Rice,Kharif,October,5.15,60,36,29,Clay,946,21.4,16.48
+Maharashtra,Nashik,Tomato,Rabi,September,9.2,198,77,29,Black,459,22.2,266.13
+West Bengal,Kolkata,Corn,Rabi,January,3.28,164,68,41,Sandy,992,22.2,31.82
+Uttar Pradesh,Varanasi,Cotton,Annual,February,3.28,74,63,53,Sandy,476,20.7,25.07
+West Bengal,Darjeeling,Tomato,Annual,May,9.88,111,73,52,Loamy,783,35.0,204.57
+Maharashtra,Pune,Corn,Rabi,August,6.09,170,98,97,Loamy,768,33.7,39.31
+Andhra Pradesh,Guntur,Wheat,Rabi,October,7.52,88,42,67,Black,550,29.3,27.78
+Andhra Pradesh,Kurnool,Corn,Annual,August,5.42,81,72,62,Clay,1023,23.8,25.33
+Tamil Nadu,Madurai,Sugarcane,Rabi,July,9.3,87,42,35,Clay,945,21.6,279.19
+Maharashtra,Nagpur,Tomato,Annual,October,2.35,194,65,84,Sandy,613,26.1,211.38
+Tamil Nadu,Thanjavur,Corn,Annual,August,7.42,107,97,34,Sandy,1061,21.9,26.68
+Punjab,Amritsar,Corn,Annual,July,8.85,57,96,35,Black,652,25.0,22.76
+Tamil Nadu,Salem,Rice,Annual,November,8.4,191,33,27,Sandy,934,28.7,39.83
+Punjab,Patiala,Tomato,Zaid,April,1.67,72,40,71,Loamy,712,28.8,144.23
+Karnataka,Mysore,Sugarcane,Zaid,September,7.03,153,55,35,Black,1189,31.4,309.11
+Maharashtra,Nashik,Sugarcane,Annual,August,3.91,184,50,89,Black,429,23.3,370.96
+West Bengal,Darjeeling,Sugarcane,Zaid,June,5.42,121,94,36,Red,958,34.4,279.19
+West Bengal,Darjeeling,Tomato,Annual,January,6.49,114,37,92,Sandy,663,30.7,214.81
+Karnataka,Belgaum,Rice,Rabi,February,2.95,50,97,31,Clay,1114,22.3,20.77
+Andhra Pradesh,Guntur,Cotton,Kharif,January,6.5,120,88,79,Clay,426,29.0,30.1
+Tamil Nadu,Salem,Wheat,Annual,November,3.86,63,94,36,Loamy,617,23.3,26.29
+Maharashtra,Nashik,Corn,Kharif,July,4.47,126,36,71,Black,885,31.8,27.82
+Andhra Pradesh,Kurnool,Cotton,Zaid,November,4.54,153,34,54,Loamy,670,33.0,33.31
+Karnataka,Mandya,Sugarcane,Zaid,March,4.53,151,48,46,Clay,957,34.9,274.6
+Uttar Pradesh,Lucknow,Cotton,Annual,August,1.16,187,82,87,Sandy,922,27.7,37.96
+Punjab,Ludhiana,Tomato,Annual,September,9.11,74,86,65,Loamy,492,22.6,208.96
+Tamil Nadu,Salem,Rice,Rabi,April,2.81,155,59,94,Sandy,1100,28.8,43.12
+West Bengal,Howrah,Cotton,Kharif,April,6.66,136,68,93,Sandy,920,20.4,32.99
+Karnataka,Mysore,Corn,Rabi,July,1.46,74,64,60,Red,830,21.7,25.27
+Uttar Pradesh,Lucknow,Cotton,Zaid,August,7.44,178,95,43,Black,546,21.2,31.22
+Andhra Pradesh,Guntur,Wheat,Rabi,May,5.98,187,33,50,Red,840,21.2,29.86
+Andhra Pradesh,Nellore,Corn,Annual,April,1.46,166,76,71,Loamy,915,34.4,34.79
+Andhra Pradesh,Nellore,Wheat,Kharif,August,8.0,88,67,65,Sandy,619,23.6,26.96
+West Bengal,Darjeeling,Rice,Zaid,April,2.9,59,41,34,Clay,924,32.4,18.07
+Karnataka,Mysore,Sugarcane,Annual,March,7.63,54,91,20,Red,981,28.3,289.13
+West Bengal,Howrah,Tomato,Kharif,November,9.0,93,68,85,Clay,948,20.4,205.15
+Andhra Pradesh,Nellore,Corn,Zaid,May,2.23,75,34,26,Red,1029,30.8,18.15
+Maharashtra,Pune,Wheat,Annual,July,9.77,196,74,51,Black,946,34.1,44.86
+Karnataka,Mandya,Corn,Zaid,June,7.74,124,46,100,Sandy,418,29.6,29.21
+West Bengal,Darjeeling,Tomato,Rabi,March,1.09,178,90,31,Loamy,986,33.2,204.26
+Karnataka,Mandya,Wheat,Annual,September,4.52,71,35,74,Sandy,623,22.2,22.85
+Andhra Pradesh,Kurnool,Tomato,Zaid,April,5.34,123,52,49,Loamy,1030,29.7,198.68
+Uttar Pradesh,Lucknow,Tomato,Rabi,August,4.77,163,47,31,Clay,787,31.4,215.71
+Uttar Pradesh,Varanasi,Tomato,Kharif,October,6.04,123,59,71,Sandy,756,22.3,178.82
+Uttar Pradesh,Kanpur,Tomato,Kharif,September,1.86,81,80,97,Clay,867,20.5,202.59
+Andhra Pradesh,Nellore,Sugarcane,Zaid,December,2.87,105,37,36,Clay,842,32.8,212.31
+Karnataka,Belgaum,Cotton,Zaid,January,2.68,185,45,54,Black,712,26.1,31.25
+Maharashtra,Pune,Wheat,Zaid,November,4.14,192,96,20,Black,1045,25.2,37.11
+Andhra Pradesh,Nellore,Rice,Rabi,December,3.99,54,83,45,Red,444,22.9,26.42
+Punjab,Ludhiana,Corn,Zaid,December,7.1,128,70,68,Sandy,725,27.6,35.42
+Uttar Pradesh,Kanpur,Tomato,Annual,September,9.15,73,51,61,Clay,430,27.0,137.21
+Maharashtra,Nashik,Cotton,Kharif,September,3.99,135,80,70,Sandy,586,27.3,30.16
+Karnataka,Belgaum,Corn,Annual,November,5.66,134,98,79,Clay,1037,30.0,46.6
+Andhra Pradesh,Nellore,Sugarcane,Kharif,March,2.93,199,73,87,Black,435,32.6,435.15
+Maharashtra,Pune,Sugarcane,Kharif,July,4.7,195,53,87,Black,419,25.4,425.43
+Maharashtra,Pune,Sugarcane,Annual,January,1.2,148,78,72,Sandy,899,28.1,409.51
+Punjab,Patiala,Cotton,Zaid,December,8.24,86,34,83,Clay,509,23.9,22.21
+Tamil Nadu,Thanjavur,Sugarcane,Kharif,April,4.37,109,93,30,Clay,410,31.2,324.55
+Tamil Nadu,Salem,Corn,Annual,April,9.31,141,98,56,Red,479,32.5,38.35
+Karnataka,Mandya,Wheat,Kharif,April,2.7,176,99,90,Loamy,1063,26.0,49.94
+Punjab,Patiala,Corn,Kharif,October,9.96,81,45,85,Red,1115,25.1,31.77
+Tamil Nadu,Madurai,Wheat,Annual,January,5.14,95,54,25,Black,459,21.1,20.81
+Andhra Pradesh,Nellore,Wheat,Annual,August,6.19,173,91,69,Red,1075,34.9,39.87
+Karnataka,Mandya,Sugarcane,Kharif,June,3.52,130,46,50,Red,770,32.3,231.13
+Uttar Pradesh,Kanpur,Wheat,Rabi,December,1.83,83,77,57,Loamy,932,26.7,29.5
+Punjab,Ludhiana,Tomato,Rabi,August,4.22,197,36,83,Clay,483,22.3,189.9
+Punjab,Amritsar,Rice,Rabi,September,3.98,101,62,47,Loamy,525,24.7,22.55
+Andhra Pradesh,Kurnool,Corn,Zaid,August,2.9,144,73,81,Sandy,470,21.8,36.66
+Punjab,Amritsar,Sugarcane,Kharif,February,4.53,67,46,77,Red,776,21.5,205.36
+West Bengal,Kolkata,Tomato,Rabi,August,1.38,101,84,91,Clay,456,29.6,177.57
+Karnataka,Mandya,Tomato,Zaid,May,7.49,198,78,91,Clay,671,20.2,251.23
+Maharashtra,Nashik,Corn,Rabi,February,6.44,147,36,28,Clay,840,23.6,30.61
+Karnataka,Belgaum,Corn,Rabi,February,6.68,109,69,51,Loamy,741,31.0,30.63
+Karnataka,Mysore,Corn,Rabi,August,3.83,182,41,24,Loamy,774,32.3,26.97
+Andhra Pradesh,Nellore,Sugarcane,Rabi,March,5.91,157,97,81,Loamy,831,20.3,466.2
+Karnataka,Belgaum,Wheat,Rabi,September,8.33,174,33,84,Red,417,31.3,31.49
+West Bengal,Howrah,Cotton,Kharif,February,7.67,146,71,95,Red,642,34.8,34.05
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,December,5.63,172,93,56,Sandy,980,25.9,360.74
+Karnataka,Belgaum,Cotton,Annual,September,5.99,159,31,21,Sandy,1092,26.2,34.06
+Uttar Pradesh,Kanpur,Corn,Rabi,January,9.71,196,66,92,Sandy,1077,33.7,48.83
+Uttar Pradesh,Lucknow,Cotton,Annual,December,4.61,198,98,60,Loamy,540,24.3,47.34
+West Bengal,Darjeeling,Corn,Zaid,May,4.71,107,39,70,Sandy,1108,24.2,24.11
+Maharashtra,Nashik,Rice,Rabi,March,9.12,183,49,26,Black,480,26.8,35.57
+West Bengal,Howrah,Corn,Rabi,October,9.84,111,55,29,Loamy,642,29.6,27.13
+Andhra Pradesh,Nellore,Corn,Zaid,July,6.15,180,33,87,Sandy,806,20.9,32.11
+Karnataka,Mandya,Rice,Rabi,March,2.15,171,81,20,Loamy,1160,32.8,27.34
+Punjab,Amritsar,Rice,Annual,October,5.94,133,66,40,Black,844,28.7,32.14
+West Bengal,Howrah,Rice,Rabi,September,4.21,53,97,95,Red,988,32.2,34.4
+Andhra Pradesh,Nellore,Wheat,Kharif,December,2.95,154,59,65,Sandy,538,34.1,36.08
+Uttar Pradesh,Lucknow,Sugarcane,Kharif,February,5.9,59,39,39,Sandy,862,30.3,210.32
+Uttar Pradesh,Kanpur,Rice,Kharif,January,2.85,104,95,37,Sandy,923,22.4,29.56
+Punjab,Ludhiana,Corn,Annual,July,6.38,141,71,75,Sandy,504,29.0,36.97
+Tamil Nadu,Thanjavur,Tomato,Zaid,February,2.41,169,42,28,Sandy,1055,24.7,162.84
+West Bengal,Darjeeling,Sugarcane,Annual,June,7.17,162,64,94,Black,698,32.3,415.09
+Tamil Nadu,Madurai,Wheat,Zaid,September,4.31,103,52,53,Red,665,29.9,25.47
+Punjab,Amritsar,Cotton,Rabi,September,1.32,142,69,91,Loamy,446,28.6,31.38
+Punjab,Ludhiana,Wheat,Zaid,August,2.47,173,39,28,Black,994,34.9,35.74
+West Bengal,Kolkata,Cotton,Zaid,January,5.07,146,43,40,Clay,493,20.2,29.79
+Karnataka,Mysore,Sugarcane,Annual,May,3.9,58,60,66,Loamy,1044,27.8,262.19
+Uttar Pradesh,Kanpur,Corn,Annual,August,5.56,61,42,23,Black,565,33.7,18.76
+Uttar Pradesh,Kanpur,Corn,Zaid,July,5.37,133,39,73,Clay,854,34.4,35.61
+Punjab,Amritsar,Tomato,Kharif,April,7.16,191,71,37,Clay,1181,24.9,227.84
+Andhra Pradesh,Nellore,Wheat,Annual,January,7.6,148,81,69,Black,867,33.3,32.11
+Tamil Nadu,Madurai,Sugarcane,Zaid,April,6.68,131,60,89,Loamy,1077,20.0,404.97
+Punjab,Ludhiana,Wheat,Kharif,April,4.11,59,99,25,Black,647,24.7,27.76
+Punjab,Patiala,Corn,Annual,March,9.02,184,77,47,Clay,618,28.9,38.77
+West Bengal,Howrah,Cotton,Kharif,July,6.84,159,60,80,Clay,751,21.1,44.34
+West Bengal,Darjeeling,Wheat,Rabi,June,8.47,172,93,46,Red,528,22.6,32.03
+Maharashtra,Nashik,Corn,Kharif,February,5.55,90,77,46,Black,407,28.8,24.61
+Karnataka,Mandya,Sugarcane,Annual,July,5.86,120,39,99,Black,1094,28.9,385.28
+Tamil Nadu,Madurai,Tomato,Zaid,October,7.23,182,35,27,Clay,1159,24.1,168.14
+Maharashtra,Nashik,Wheat,Kharif,August,3.67,119,90,81,Loamy,551,30.8,33.17
+Uttar Pradesh,Kanpur,Cotton,Rabi,May,8.48,160,55,53,Clay,1008,28.9,43.04
+Maharashtra,Nagpur,Rice,Rabi,September,4.78,131,41,83,Clay,566,28.4,24.9
+Andhra Pradesh,Nellore,Tomato,Zaid,October,6.5,69,93,68,Black,426,33.1,186.98
+Punjab,Ludhiana,Corn,Rabi,May,2.0,188,90,68,Sandy,1042,25.5,37.56
+Maharashtra,Nagpur,Rice,Rabi,October,5.0,192,46,67,Loamy,927,21.8,36.74
+Maharashtra,Nashik,Cotton,Annual,November,7.64,57,42,88,Clay,628,28.3,26.81
+Punjab,Patiala,Cotton,Annual,September,4.91,100,100,73,Red,614,29.8,34.49
+Maharashtra,Nashik,Corn,Zaid,July,6.3,147,49,52,Black,886,25.4,33.99
+Tamil Nadu,Madurai,Wheat,Zaid,May,6.83,124,54,61,Loamy,1002,25.1,30.04
+Maharashtra,Pune,Cotton,Kharif,May,3.44,76,97,58,Sandy,667,32.0,26.55
+Uttar Pradesh,Lucknow,Cotton,Zaid,October,7.94,167,59,36,Sandy,683,25.5,39.75
+Andhra Pradesh,Guntur,Corn,Rabi,March,6.66,81,62,79,Clay,1151,32.2,33.01
+Tamil Nadu,Salem,Wheat,Annual,February,8.82,190,61,63,Black,962,21.5,41.64
+Uttar Pradesh,Lucknow,Sugarcane,Annual,April,3.84,133,59,99,Red,831,27.3,363.71
+West Bengal,Howrah,Cotton,Rabi,June,8.91,150,38,56,Sandy,528,20.2,29.56
+Punjab,Ludhiana,Tomato,Zaid,July,3.07,141,48,58,Sandy,906,31.7,155.22
+Punjab,Amritsar,Corn,Zaid,November,2.39,197,53,30,Sandy,722,33.6,27.13
+Maharashtra,Nashik,Rice,Kharif,October,3.46,185,46,59,Sandy,874,33.7,35.82
+Karnataka,Mysore,Sugarcane,Zaid,May,7.71,131,67,48,Red,1121,26.4,357.81
+Maharashtra,Nagpur,Corn,Zaid,September,6.78,68,41,36,Sandy,762,20.9,17.57
+Uttar Pradesh,Varanasi,Tomato,Rabi,June,1.23,120,65,80,Loamy,474,28.1,207.41
+Uttar Pradesh,Kanpur,Tomato,Zaid,August,7.85,179,52,24,Black,436,22.9,192.53
+West Bengal,Darjeeling,Cotton,Rabi,November,6.22,65,52,50,Sandy,1071,30.3,23.94
+West Bengal,Darjeeling,Cotton,Rabi,June,2.43,116,69,60,Clay,640,25.9,31.73
+Karnataka,Mysore,Corn,Rabi,June,6.08,190,35,68,Clay,422,27.0,31.04
+Punjab,Ludhiana,Sugarcane,Zaid,March,3.3,187,97,91,Red,922,20.2,509.16
+West Bengal,Kolkata,Cotton,Annual,September,7.58,198,34,100,Clay,404,34.2,40.63
+Andhra Pradesh,Kurnool,Corn,Kharif,January,4.59,112,61,55,Clay,1171,24.6,35.73
+West Bengal,Kolkata,Tomato,Kharif,July,4.19,81,72,77,Clay,711,33.9,158.39
+Karnataka,Belgaum,Wheat,Annual,August,9.51,68,75,70,Clay,926,27.3,31.55
+Karnataka,Mandya,Corn,Rabi,February,7.43,129,41,24,Black,1140,24.1,24.83
+West Bengal,Kolkata,Cotton,Zaid,January,1.82,160,46,24,Black,716,22.8,29.45
+Uttar Pradesh,Kanpur,Tomato,Zaid,September,3.77,62,93,55,Clay,668,33.8,145.93
+Andhra Pradesh,Guntur,Wheat,Kharif,June,1.55,89,50,36,Black,547,24.5,20.23
+Andhra Pradesh,Guntur,Wheat,Zaid,April,9.97,113,60,28,Black,713,35.0,31.75
+Punjab,Ludhiana,Rice,Kharif,September,5.46,120,60,66,Clay,718,27.7,26.3
+Uttar Pradesh,Varanasi,Rice,Annual,January,7.47,102,94,25,Loamy,885,26.2,25.62
+West Bengal,Kolkata,Sugarcane,Annual,March,1.57,74,45,26,Black,622,25.4,160.97
+Andhra Pradesh,Nellore,Sugarcane,Zaid,October,5.36,182,43,60,Clay,860,26.3,303.69
+Karnataka,Mysore,Corn,Kharif,May,6.35,122,90,57,Sandy,474,23.6,32.21
+West Bengal,Kolkata,Corn,Annual,July,8.12,117,51,57,Black,1178,31.1,28.17
+Punjab,Patiala,Wheat,Rabi,November,1.09,169,41,37,Sandy,649,28.4,26.8
+Andhra Pradesh,Guntur,Sugarcane,Kharif,February,3.3,142,49,23,Red,413,29.3,267.25
+Uttar Pradesh,Lucknow,Corn,Kharif,April,7.54,102,92,82,Black,552,33.8,40.78
+Punjab,Amritsar,Corn,Rabi,January,7.79,195,56,22,Loamy,454,30.0,39.62
+Uttar Pradesh,Varanasi,Cotton,Zaid,October,1.68,197,98,30,Black,1065,20.3,39.19
+Uttar Pradesh,Kanpur,Wheat,Annual,September,7.77,55,54,29,Clay,637,22.3,18.29
+Maharashtra,Pune,Wheat,Annual,May,3.0,86,72,95,Black,928,30.8,31.61
+Punjab,Ludhiana,Cotton,Kharif,May,9.37,73,87,75,Red,974,20.7,30.68
+Karnataka,Mandya,Wheat,Annual,April,8.63,79,58,29,Black,816,29.9,21.89
+Karnataka,Belgaum,Wheat,Rabi,May,6.61,65,77,42,Loamy,902,26.3,30.27
+Karnataka,Mysore,Wheat,Rabi,November,8.09,183,96,79,Loamy,1110,26.3,37.52
+West Bengal,Darjeeling,Rice,Kharif,September,2.32,84,86,49,Black,984,34.2,24.13
+Uttar Pradesh,Varanasi,Wheat,Kharif,July,4.82,121,69,71,Loamy,1108,21.1,31.87
+Uttar Pradesh,Lucknow,Cotton,Rabi,August,6.41,56,39,100,Red,445,32.6,22.31
+Andhra Pradesh,Nellore,Corn,Rabi,April,6.2,60,82,36,Loamy,533,22.1,24.88
+Maharashtra,Pune,Cotton,Zaid,April,4.5,62,53,46,Clay,1081,25.6,27.38
+West Bengal,Darjeeling,Tomato,Zaid,December,8.27,119,64,96,Sandy,1097,21.8,198.42
+Punjab,Patiala,Rice,Annual,August,8.6,51,81,25,Red,1166,24.2,22.79
+West Bengal,Howrah,Cotton,Rabi,March,7.66,119,89,67,Loamy,574,24.2,31.75
+Andhra Pradesh,Nellore,Corn,Zaid,October,3.79,74,76,77,Clay,1148,24.8,34.98
+Uttar Pradesh,Lucknow,Wheat,Rabi,March,6.52,126,89,21,Red,566,29.1,24.64
+Karnataka,Mysore,Corn,Annual,October,9.39,59,57,69,Sandy,401,20.9,27.81
+Uttar Pradesh,Lucknow,Tomato,Kharif,March,1.3,149,100,58,Sandy,625,23.4,196.5
+Maharashtra,Nagpur,Cotton,Rabi,January,1.09,141,80,38,Sandy,948,22.1,32.5
+West Bengal,Kolkata,Rice,Rabi,November,5.06,155,44,92,Clay,1052,31.9,32.57
+West Bengal,Howrah,Corn,Kharif,January,4.52,188,86,31,Loamy,723,31.8,34.7
+Punjab,Patiala,Wheat,Annual,January,7.81,153,57,53,Black,455,30.7,38.64
+Maharashtra,Nagpur,Cotton,Rabi,November,1.35,91,60,90,Red,611,24.0,30.78
+Uttar Pradesh,Kanpur,Sugarcane,Annual,May,6.12,84,58,51,Loamy,1056,22.4,237.0
+Andhra Pradesh,Kurnool,Sugarcane,Annual,February,1.4,173,56,92,Black,1086,27.2,406.26
+Uttar Pradesh,Varanasi,Corn,Annual,April,4.72,163,30,69,Black,1092,26.6,33.88
+West Bengal,Darjeeling,Sugarcane,Annual,January,4.64,81,37,32,Clay,815,25.9,231.84
+Uttar Pradesh,Kanpur,Wheat,Annual,September,8.18,165,70,85,Red,982,20.9,37.52
+Uttar Pradesh,Kanpur,Sugarcane,Annual,June,9.05,181,70,61,Black,650,26.1,422.08
+West Bengal,Darjeeling,Wheat,Zaid,February,8.75,59,71,66,Black,714,23.0,29.77
+Maharashtra,Nagpur,Rice,Rabi,January,9.6,142,76,96,Red,1093,34.5,43.16
+Tamil Nadu,Salem,Cotton,Kharif,March,2.8,116,86,87,Sandy,1101,31.5,35.71
+Uttar Pradesh,Varanasi,Sugarcane,Kharif,April,9.61,141,38,43,Sandy,904,29.3,320.45
+Uttar Pradesh,Lucknow,Wheat,Zaid,October,4.15,127,36,46,Clay,573,34.3,22.64
+Karnataka,Belgaum,Rice,Kharif,June,6.77,114,96,90,Sandy,768,22.8,39.95
+Karnataka,Belgaum,Sugarcane,Annual,October,3.47,117,85,81,Sandy,994,28.6,379.2
+Andhra Pradesh,Kurnool,Wheat,Annual,March,2.75,140,67,60,Clay,518,26.1,35.09
+Karnataka,Mandya,Rice,Zaid,March,9.83,120,57,38,Sandy,595,20.0,29.28
+Karnataka,Belgaum,Sugarcane,Rabi,January,5.63,158,64,45,Loamy,411,25.9,333.96
+Andhra Pradesh,Nellore,Rice,Rabi,June,1.13,192,82,41,Black,917,22.9,40.39
+Karnataka,Belgaum,Corn,Rabi,December,1.76,61,77,48,Sandy,667,21.2,25.02
+Uttar Pradesh,Kanpur,Sugarcane,Annual,May,8.29,92,68,84,Clay,608,34.4,336.19
+Karnataka,Mandya,Cotton,Kharif,May,5.53,169,68,73,Loamy,900,30.5,40.66
+Punjab,Ludhiana,Wheat,Rabi,March,5.53,118,78,83,Loamy,983,27.2,40.6
+West Bengal,Darjeeling,Wheat,Annual,December,2.33,162,77,95,Sandy,555,24.1,32.09
+Punjab,Patiala,Cotton,Kharif,November,2.71,66,37,96,Black,1028,30.5,23.82
+Andhra Pradesh,Kurnool,Rice,Zaid,October,7.22,154,37,49,Loamy,1190,21.8,35.73
+West Bengal,Darjeeling,Wheat,Zaid,May,3.34,137,84,50,Black,1045,22.9,27.73
+Punjab,Amritsar,Sugarcane,Rabi,June,5.83,103,34,31,Clay,736,23.5,260.83
+West Bengal,Kolkata,Cotton,Kharif,March,8.24,187,91,75,Sandy,1179,25.9,45.88
+Punjab,Amritsar,Corn,Zaid,March,4.76,58,96,58,Black,716,32.9,27.48
+Tamil Nadu,Salem,Rice,Rabi,September,9.81,75,96,27,Sandy,1158,31.5,26.96
+Karnataka,Mandya,Corn,Rabi,March,1.22,155,77,43,Black,1189,26.6,39.77
+Tamil Nadu,Madurai,Rice,Annual,January,6.13,192,45,56,Clay,661,26.1,41.88
+Uttar Pradesh,Lucknow,Corn,Rabi,August,1.15,171,45,20,Red,559,23.3,28.48
+Maharashtra,Nashik,Tomato,Kharif,September,2.37,180,36,77,Black,562,31.1,173.69
+Punjab,Patiala,Corn,Rabi,July,3.08,149,33,85,Red,950,29.3,29.16
+Andhra Pradesh,Nellore,Wheat,Rabi,March,5.6,193,98,29,Black,872,31.6,46.26
+Punjab,Patiala,Sugarcane,Kharif,February,7.63,177,78,34,Loamy,779,32.0,428.83
+Tamil Nadu,Salem,Sugarcane,Annual,January,2.71,127,88,67,Clay,586,26.9,285.04
+Maharashtra,Nagpur,Rice,Kharif,May,6.07,191,61,58,Red,854,22.6,41.96
+Uttar Pradesh,Kanpur,Rice,Annual,April,4.24,110,80,70,Loamy,1008,24.8,27.2
+Uttar Pradesh,Kanpur,Cotton,Rabi,January,2.7,77,93,37,Clay,510,26.9,20.47
+Karnataka,Mandya,Tomato,Rabi,December,4.35,181,85,49,Red,1149,21.0,225.69
+Andhra Pradesh,Guntur,Sugarcane,Annual,July,7.31,56,55,37,Red,1101,29.3,230.61
+Maharashtra,Nagpur,Tomato,Rabi,December,3.19,144,55,45,Black,749,33.9,159.55
+Maharashtra,Pune,Sugarcane,Annual,June,7.38,56,59,44,Clay,579,34.1,255.42
+Tamil Nadu,Thanjavur,Tomato,Rabi,July,9.32,117,90,43,Clay,601,34.4,183.33
+West Bengal,Darjeeling,Sugarcane,Rabi,December,3.2,66,32,29,Loamy,868,21.2,162.77
+Uttar Pradesh,Lucknow,Sugarcane,Kharif,April,2.99,154,93,45,Black,470,21.1,272.54
+Karnataka,Mandya,Sugarcane,Annual,February,4.61,51,53,47,Sandy,972,30.1,178.8
+West Bengal,Howrah,Tomato,Zaid,July,6.01,128,76,90,Loamy,901,30.4,220.08
+Tamil Nadu,Salem,Rice,Zaid,April,9.23,72,79,86,Clay,995,20.4,37.03
+Tamil Nadu,Salem,Corn,Kharif,April,8.65,158,98,54,Loamy,885,31.5,39.69
+Punjab,Amritsar,Sugarcane,Kharif,May,9.63,72,49,91,Loamy,802,29.3,252.94
+Punjab,Ludhiana,Cotton,Annual,August,7.68,171,57,61,Loamy,701,20.4,30.98
+Punjab,Ludhiana,Sugarcane,Kharif,June,1.44,54,80,33,Loamy,978,22.9,245.18
+Tamil Nadu,Madurai,Rice,Rabi,April,2.19,65,87,97,Clay,1106,28.4,26.05
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,February,2.59,103,88,83,Sandy,669,21.1,320.54
+Uttar Pradesh,Lucknow,Cotton,Kharif,March,5.97,154,57,70,Black,1002,28.7,35.61
+West Bengal,Kolkata,Wheat,Kharif,April,2.84,56,46,91,Red,750,24.6,20.99
+Maharashtra,Pune,Sugarcane,Kharif,August,3.93,116,86,68,Black,868,25.5,278.24
+Andhra Pradesh,Nellore,Tomato,Zaid,June,3.06,172,48,55,Loamy,631,28.4,202.15
+Punjab,Patiala,Tomato,Kharif,September,1.67,115,80,21,Black,634,21.6,128.12
+Punjab,Ludhiana,Wheat,Kharif,November,2.94,150,78,89,Sandy,446,22.0,35.33
+Maharashtra,Pune,Rice,Annual,December,6.84,173,51,59,Black,565,31.8,39.75
+Uttar Pradesh,Varanasi,Rice,Rabi,October,9.81,76,75,22,Red,745,27.9,23.4
+Uttar Pradesh,Lucknow,Rice,Annual,November,3.58,155,41,60,Clay,1104,30.2,34.35
+West Bengal,Howrah,Tomato,Rabi,December,7.54,181,87,86,Clay,824,26.0,309.28
+Punjab,Patiala,Cotton,Zaid,November,3.88,103,61,69,Red,406,20.1,32.39
+Andhra Pradesh,Kurnool,Corn,Zaid,April,4.06,80,73,44,Clay,765,22.7,27.1
+Uttar Pradesh,Varanasi,Rice,Annual,August,5.53,119,72,39,Sandy,404,21.1,26.28
+Uttar Pradesh,Varanasi,Wheat,Rabi,July,5.59,154,86,56,Loamy,649,20.8,37.46
+Karnataka,Mandya,Rice,Zaid,January,1.91,163,78,45,Sandy,457,34.0,31.06
+Andhra Pradesh,Guntur,Cotton,Annual,August,4.89,105,57,44,Clay,669,34.0,21.21
+Tamil Nadu,Madurai,Corn,Annual,June,3.12,114,88,34,Black,1081,24.9,31.16
+Tamil Nadu,Thanjavur,Cotton,Annual,June,7.55,62,76,59,Black,801,21.3,27.09
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,December,7.08,142,79,99,Clay,400,32.9,377.53
+Punjab,Amritsar,Cotton,Rabi,March,5.47,58,78,51,Loamy,703,33.0,25.11
+Tamil Nadu,Thanjavur,Corn,Rabi,January,4.94,53,60,40,Clay,940,26.2,18.59
+Andhra Pradesh,Kurnool,Corn,Kharif,October,8.96,128,92,88,Red,855,21.1,45.81
+Andhra Pradesh,Guntur,Corn,Annual,August,2.56,187,100,64,Black,685,31.0,43.2
+Punjab,Patiala,Sugarcane,Zaid,May,8.77,191,100,47,Loamy,721,29.5,462.89
+Uttar Pradesh,Kanpur,Cotton,Rabi,November,5.88,163,31,50,Black,1162,25.4,36.67
+West Bengal,Howrah,Wheat,Annual,May,5.29,76,31,51,Clay,941,27.3,25.97
+Karnataka,Belgaum,Wheat,Rabi,August,5.48,176,43,50,Black,581,21.7,37.36
+Karnataka,Belgaum,Rice,Zaid,March,4.47,179,36,45,Black,990,20.0,35.68
+Punjab,Patiala,Corn,Rabi,July,3.5,140,88,38,Loamy,1128,32.1,28.36
+Andhra Pradesh,Kurnool,Corn,Zaid,December,2.16,172,85,65,Clay,858,20.7,34.02
+Andhra Pradesh,Kurnool,Wheat,Annual,August,5.54,154,48,45,Red,812,29.3,28.06
+Andhra Pradesh,Guntur,Corn,Annual,August,6.28,184,71,35,Sandy,428,25.4,32.16
+Punjab,Patiala,Rice,Zaid,September,9.3,171,93,29,Sandy,563,29.5,43.39
+Maharashtra,Pune,Tomato,Zaid,September,2.6,188,83,63,Black,1078,34.0,223.21
+Uttar Pradesh,Varanasi,Rice,Rabi,October,3.08,183,31,36,Clay,1168,21.9,31.84
+Maharashtra,Pune,Tomato,Kharif,September,6.93,137,60,64,Black,983,30.2,179.95
+Uttar Pradesh,Lucknow,Rice,Annual,May,8.94,50,48,34,Black,789,31.8,18.11
+Uttar Pradesh,Varanasi,Rice,Kharif,March,5.45,189,75,42,Sandy,1031,20.3,40.77
+Punjab,Amritsar,Wheat,Annual,August,6.14,139,68,64,Red,611,30.6,29.59
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,September,9.4,53,58,50,Clay,535,32.2,207.46
+Karnataka,Belgaum,Tomato,Annual,February,6.97,81,54,31,Black,838,29.8,138.71
+Tamil Nadu,Madurai,Corn,Rabi,February,1.23,181,71,59,Red,1040,25.6,30.8
+Tamil Nadu,Thanjavur,Tomato,Kharif,September,10.0,106,84,67,Red,785,25.8,220.79
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,August,6.34,172,75,41,Loamy,752,29.6,313.9
+Tamil Nadu,Thanjavur,Cotton,Rabi,March,3.95,110,73,84,Loamy,679,22.3,36.47
+Punjab,Ludhiana,Tomato,Kharif,January,4.6,156,42,28,Red,942,20.7,182.95
+Uttar Pradesh,Kanpur,Wheat,Rabi,September,7.67,140,87,41,Loamy,1129,28.0,43.04
+Punjab,Patiala,Cotton,Kharif,September,2.96,51,80,41,Sandy,936,26.7,24.06
+Uttar Pradesh,Varanasi,Tomato,Annual,October,6.39,100,82,93,Loamy,900,33.9,176.14
+Punjab,Ludhiana,Tomato,Rabi,March,7.77,68,89,67,Clay,905,23.3,157.93
+Punjab,Ludhiana,Tomato,Zaid,April,8.65,188,82,26,Clay,1011,23.7,243.2
+Uttar Pradesh,Lucknow,Tomato,Rabi,December,1.86,137,93,75,Sandy,643,24.5,235.9
+West Bengal,Howrah,Rice,Kharif,September,4.43,75,41,88,Sandy,1129,24.3,28.82
+Andhra Pradesh,Kurnool,Rice,Rabi,September,1.08,87,62,26,Black,478,28.0,18.59
+Maharashtra,Pune,Sugarcane,Rabi,July,6.8,182,78,73,Red,913,22.2,484.26
+Andhra Pradesh,Kurnool,Rice,Annual,September,1.75,192,78,75,Black,1033,29.2,40.98
+Uttar Pradesh,Varanasi,Sugarcane,Zaid,August,7.78,173,73,55,Sandy,755,32.0,392.6
+Tamil Nadu,Salem,Wheat,Annual,September,8.66,82,67,75,Clay,582,34.1,29.1
+Punjab,Amritsar,Wheat,Annual,March,8.27,88,99,91,Black,1173,27.7,31.02
+Punjab,Amritsar,Corn,Zaid,April,8.9,135,89,53,Sandy,1074,27.0,38.81
+West Bengal,Howrah,Tomato,Annual,November,7.01,146,63,60,Sandy,1057,25.5,238.07
+Uttar Pradesh,Lucknow,Tomato,Rabi,April,2.33,156,58,55,Red,1008,30.4,210.07
+Maharashtra,Nagpur,Corn,Kharif,September,3.6,74,96,52,Loamy,550,30.4,29.68
+Uttar Pradesh,Lucknow,Corn,Annual,March,2.52,200,32,60,Red,869,31.3,35.71
+Maharashtra,Pune,Cotton,Annual,July,7.88,115,97,90,Sandy,647,27.2,41.53
+Punjab,Amritsar,Wheat,Zaid,January,2.78,113,62,68,Black,804,31.8,28.92
+Punjab,Patiala,Tomato,Zaid,April,1.51,179,50,32,Loamy,913,27.1,205.32
+Karnataka,Mysore,Cotton,Zaid,August,2.91,119,99,67,Sandy,796,21.6,34.42
+Andhra Pradesh,Guntur,Cotton,Rabi,October,6.29,94,62,86,Clay,522,33.8,35.43
+Tamil Nadu,Salem,Cotton,Annual,June,1.9,71,77,49,Black,798,27.0,26.0
+Tamil Nadu,Thanjavur,Tomato,Rabi,January,3.17,134,46,71,Sandy,1082,34.6,227.12
+Uttar Pradesh,Kanpur,Cotton,Rabi,March,8.15,53,58,98,Black,714,28.9,30.74
+West Bengal,Darjeeling,Tomato,Annual,November,7.62,74,44,36,Black,444,26.1,128.07
+Maharashtra,Nagpur,Tomato,Annual,January,6.36,122,56,25,Clay,551,29.5,130.97
+Uttar Pradesh,Lucknow,Cotton,Rabi,May,6.32,135,75,58,Loamy,1199,22.9,33.11
+Karnataka,Mandya,Tomato,Zaid,April,6.93,179,49,37,Sandy,1093,27.7,233.41
+Karnataka,Mysore,Wheat,Zaid,October,9.98,92,97,95,Loamy,860,34.8,35.49
+Andhra Pradesh,Guntur,Cotton,Rabi,September,6.74,179,66,27,Loamy,1102,21.5,31.91
+Punjab,Amritsar,Cotton,Annual,July,4.32,165,60,90,Loamy,996,27.1,32.48
+Maharashtra,Pune,Cotton,Kharif,September,4.36,166,66,100,Loamy,769,29.9,43.6
+Tamil Nadu,Thanjavur,Rice,Zaid,June,6.08,124,61,93,Sandy,1132,34.8,38.84
+Karnataka,Mandya,Corn,Kharif,December,3.66,106,60,73,Clay,492,35.0,23.73
+Karnataka,Belgaum,Rice,Annual,June,1.28,85,70,79,Red,564,32.7,31.9
+Maharashtra,Pune,Cotton,Kharif,July,4.54,200,79,66,Black,928,28.7,35.51
+Andhra Pradesh,Nellore,Cotton,Zaid,March,1.28,184,80,55,Loamy,555,33.6,36.56
+Uttar Pradesh,Lucknow,Corn,Zaid,November,5.72,163,99,33,Red,515,20.2,37.24
+Uttar Pradesh,Lucknow,Corn,Rabi,March,5.09,132,88,97,Loamy,1140,29.9,41.51
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,June,8.06,175,41,78,Loamy,707,21.1,418.53
+Tamil Nadu,Madurai,Rice,Kharif,October,5.51,184,85,55,Red,516,26.8,39.13
+Tamil Nadu,Salem,Tomato,Kharif,March,3.5,75,47,64,Clay,600,24.0,145.26
+Maharashtra,Pune,Corn,Annual,May,9.96,184,66,95,Loamy,877,25.3,38.52
+Punjab,Amritsar,Tomato,Annual,August,2.6,124,34,66,Black,785,24.7,171.44
+Punjab,Ludhiana,Sugarcane,Rabi,April,9.1,80,60,40,Black,1054,32.7,258.97
+Tamil Nadu,Madurai,Corn,Annual,October,3.45,53,30,87,Red,944,26.6,26.95
+Punjab,Patiala,Tomato,Zaid,December,6.23,199,57,93,Loamy,900,27.6,293.38
+Tamil Nadu,Thanjavur,Tomato,Kharif,May,2.11,82,97,42,Red,1123,32.8,179.57
+Andhra Pradesh,Kurnool,Corn,Rabi,December,5.95,194,45,26,Loamy,1085,28.0,33.96
+Maharashtra,Nagpur,Rice,Zaid,September,6.63,79,92,59,Loamy,700,29.2,33.06
+Uttar Pradesh,Lucknow,Tomato,Rabi,July,8.09,190,75,77,Clay,1135,28.8,306.09
+Karnataka,Belgaum,Wheat,Annual,June,3.25,132,43,65,Sandy,491,32.8,23.35
+Maharashtra,Nagpur,Rice,Rabi,February,9.46,187,79,22,Loamy,647,32.7,39.11
+Maharashtra,Nashik,Rice,Annual,November,1.4,143,100,93,Red,484,32.9,39.65
+Tamil Nadu,Thanjavur,Corn,Kharif,June,7.56,67,97,44,Sandy,758,30.5,22.74
+Karnataka,Mandya,Tomato,Kharif,May,3.23,121,56,27,Loamy,625,26.7,148.59
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,December,5.2,187,47,76,Black,631,24.1,339.4
+Punjab,Patiala,Tomato,Rabi,September,6.17,67,56,43,Black,776,31.7,169.45
+Karnataka,Mysore,Sugarcane,Annual,December,4.51,135,85,43,Red,812,30.7,295.17
+West Bengal,Darjeeling,Corn,Annual,October,1.9,101,39,20,Clay,862,23.5,20.6
+Maharashtra,Nagpur,Wheat,Annual,February,1.39,94,70,97,Black,749,29.0,31.24
+Tamil Nadu,Salem,Sugarcane,Rabi,March,2.44,117,51,50,Black,936,21.6,294.56
+Karnataka,Mysore,Tomato,Kharif,November,8.86,177,33,35,Clay,405,22.9,196.17
+Uttar Pradesh,Lucknow,Wheat,Rabi,January,4.65,137,93,46,Clay,482,34.9,30.39
+West Bengal,Howrah,Tomato,Annual,September,1.03,78,32,47,Loamy,765,27.0,98.39
+Uttar Pradesh,Lucknow,Rice,Zaid,December,4.01,57,80,68,Red,632,26.6,22.9
+Karnataka,Mandya,Rice,Zaid,April,6.79,96,76,81,Clay,721,28.0,32.06
+West Bengal,Darjeeling,Tomato,Rabi,September,4.44,128,53,54,Black,1109,33.6,211.65
+Maharashtra,Nagpur,Sugarcane,Zaid,August,9.58,191,92,83,Loamy,662,34.9,450.13
+Punjab,Patiala,Cotton,Annual,May,2.4,185,52,58,Loamy,1094,28.6,36.57
+West Bengal,Kolkata,Tomato,Zaid,April,7.72,180,45,60,Black,643,26.7,195.99
+Punjab,Ludhiana,Rice,Annual,October,6.8,140,49,68,Black,621,33.4,28.09
+West Bengal,Kolkata,Corn,Rabi,October,8.44,129,49,76,Red,1056,28.3,27.96
+Andhra Pradesh,Kurnool,Tomato,Rabi,November,6.41,167,51,61,Clay,770,32.7,235.08
+Punjab,Patiala,Wheat,Zaid,May,3.4,151,33,73,Sandy,449,29.0,28.53
+Punjab,Patiala,Rice,Annual,November,7.65,69,41,29,Clay,1128,34.0,21.05
+Maharashtra,Nagpur,Wheat,Kharif,December,5.68,97,70,34,Black,573,28.4,24.07
+Maharashtra,Nagpur,Tomato,Rabi,November,3.5,178,33,44,Loamy,464,22.4,192.25
+Karnataka,Mysore,Corn,Annual,June,4.82,73,83,38,Black,514,26.9,22.14
+Uttar Pradesh,Kanpur,Rice,Rabi,October,7.41,162,84,62,Loamy,530,34.0,43.94
+Karnataka,Mandya,Rice,Annual,June,5.63,122,40,75,Clay,1114,24.2,30.87
+Uttar Pradesh,Lucknow,Tomato,Kharif,April,3.82,76,52,30,Clay,625,27.1,109.56
+Karnataka,Mysore,Sugarcane,Kharif,April,5.8,190,35,31,Loamy,917,34.4,339.21
+Andhra Pradesh,Nellore,Tomato,Annual,June,1.54,134,34,40,Black,757,22.7,137.19
+Punjab,Ludhiana,Sugarcane,Kharif,March,1.59,191,85,24,Black,1099,30.0,418.04
+Uttar Pradesh,Varanasi,Cotton,Annual,July,6.1,54,57,55,Black,988,22.4,21.5
+Punjab,Amritsar,Corn,Rabi,October,2.87,53,88,62,Red,442,31.3,27.37
+Karnataka,Mysore,Sugarcane,Zaid,February,3.56,198,44,76,Black,447,31.7,332.37
+West Bengal,Kolkata,Tomato,Rabi,December,4.34,175,45,25,Loamy,830,32.5,200.11
+Tamil Nadu,Salem,Rice,Zaid,November,9.77,107,55,21,Red,562,29.2,21.89
+Punjab,Ludhiana,Sugarcane,Rabi,April,5.23,94,82,82,Sandy,752,22.6,260.27
+West Bengal,Darjeeling,Sugarcane,Rabi,April,9.11,165,93,73,Black,756,34.7,365.89
+West Bengal,Kolkata,Corn,Annual,December,3.04,141,71,70,Black,650,29.3,30.22
+Maharashtra,Nashik,Wheat,Rabi,July,4.56,109,31,91,Loamy,786,33.0,29.69
+Andhra Pradesh,Nellore,Sugarcane,Kharif,September,9.45,113,90,91,Red,848,22.7,417.24
+Punjab,Ludhiana,Wheat,Rabi,November,7.3,87,85,80,Loamy,885,24.3,26.82
+Andhra Pradesh,Guntur,Tomato,Rabi,September,9.4,71,97,68,Red,713,28.5,163.0
+Maharashtra,Pune,Sugarcane,Kharif,February,7.47,101,53,65,Black,678,28.0,310.66
+Andhra Pradesh,Guntur,Tomato,Rabi,September,9.86,140,82,47,Clay,821,23.3,241.56
+Karnataka,Belgaum,Sugarcane,Rabi,April,3.75,158,42,69,Sandy,632,25.4,271.67
+Tamil Nadu,Thanjavur,Cotton,Rabi,August,2.17,152,89,71,Sandy,434,33.6,34.05
+Andhra Pradesh,Kurnool,Cotton,Rabi,May,8.41,56,82,21,Red,1088,23.9,23.24
+Karnataka,Mandya,Sugarcane,Kharif,January,2.15,123,67,22,Clay,702,23.0,297.86
+Uttar Pradesh,Kanpur,Sugarcane,Rabi,August,8.86,53,87,44,Loamy,1083,21.5,251.06
+West Bengal,Howrah,Rice,Kharif,March,9.91,58,92,77,Loamy,627,33.0,35.55
+Punjab,Amritsar,Sugarcane,Annual,June,7.73,111,56,91,Black,886,25.7,405.15
+Karnataka,Mysore,Rice,Zaid,November,5.81,149,34,74,Sandy,603,27.6,34.14
+Andhra Pradesh,Kurnool,Tomato,Zaid,May,7.32,53,37,38,Black,538,26.6,97.7
+Uttar Pradesh,Lucknow,Corn,Rabi,November,6.84,76,47,82,Loamy,429,25.3,27.17
+Uttar Pradesh,Lucknow,Rice,Zaid,March,9.25,99,43,28,Black,672,32.3,22.89
+Uttar Pradesh,Varanasi,Corn,Kharif,May,8.45,189,45,37,Clay,1003,20.6,40.79
+Maharashtra,Nashik,Wheat,Zaid,March,4.86,51,67,93,Clay,758,29.6,27.26
+Andhra Pradesh,Nellore,Rice,Zaid,July,8.77,165,93,88,Black,984,24.5,44.64
+Karnataka,Belgaum,Tomato,Annual,November,2.31,139,30,96,Loamy,770,33.2,172.5
+Andhra Pradesh,Kurnool,Rice,Zaid,October,8.7,132,87,69,Sandy,1150,31.1,37.28
+Andhra Pradesh,Guntur,Rice,Zaid,December,1.21,162,89,50,Red,882,26.0,39.57
+West Bengal,Howrah,Tomato,Zaid,February,5.48,156,96,44,Loamy,1157,20.3,185.51
+Andhra Pradesh,Guntur,Rice,Zaid,May,9.2,196,99,37,Loamy,1057,24.8,35.99
+Tamil Nadu,Thanjavur,Wheat,Rabi,March,5.15,167,50,90,Clay,700,30.9,42.88
+Maharashtra,Pune,Wheat,Zaid,October,2.99,187,41,99,Black,471,27.0,29.91
+Karnataka,Mandya,Corn,Annual,October,5.15,150,55,93,Clay,1101,22.5,45.21
+Andhra Pradesh,Nellore,Tomato,Kharif,June,2.21,176,77,65,Sandy,466,29.4,176.23
+Andhra Pradesh,Nellore,Sugarcane,Rabi,November,8.49,51,67,100,Loamy,761,33.7,248.01
+Uttar Pradesh,Kanpur,Rice,Zaid,August,5.69,109,42,68,Loamy,859,21.7,29.53
+Maharashtra,Nashik,Wheat,Kharif,July,1.37,132,64,80,Clay,758,31.0,35.09
+Maharashtra,Pune,Rice,Zaid,March,2.43,140,93,48,Loamy,872,22.6,34.8
+Maharashtra,Pune,Sugarcane,Annual,February,7.46,85,75,27,Loamy,1155,26.0,262.94
+Karnataka,Belgaum,Rice,Kharif,March,7.28,99,88,94,Loamy,516,31.8,39.34
+Punjab,Amritsar,Rice,Zaid,September,8.85,118,90,62,Sandy,562,26.1,27.65
+Karnataka,Belgaum,Cotton,Kharif,August,7.88,125,72,43,Red,671,27.1,28.87
+Punjab,Ludhiana,Rice,Zaid,November,4.72,85,63,87,Sandy,559,27.5,26.48
+Karnataka,Mysore,Wheat,Zaid,March,3.93,125,83,44,Sandy,1068,28.3,35.33
+Maharashtra,Pune,Cotton,Rabi,June,3.26,83,61,20,Red,978,24.6,21.01
+Punjab,Amritsar,Tomato,Kharif,May,8.11,81,40,97,Loamy,846,32.1,146.26
+Uttar Pradesh,Varanasi,Cotton,Zaid,May,7.86,193,82,24,Black,873,33.9,33.76
+Punjab,Patiala,Sugarcane,Annual,January,6.17,73,99,93,Sandy,1108,32.6,387.87
+Maharashtra,Nagpur,Tomato,Kharif,May,4.94,187,69,84,Clay,894,21.9,270.36
+Tamil Nadu,Thanjavur,Rice,Annual,February,8.48,79,61,80,Red,774,26.7,35.05
+Karnataka,Belgaum,Rice,Kharif,July,6.11,65,93,30,Black,729,30.7,26.64
+Uttar Pradesh,Varanasi,Rice,Zaid,May,7.13,62,52,63,Red,591,33.6,28.14
+Punjab,Ludhiana,Wheat,Annual,October,5.13,88,71,88,Loamy,544,29.7,33.58
+Punjab,Amritsar,Corn,Rabi,July,8.17,196,79,64,Loamy,913,21.4,39.04
+Uttar Pradesh,Lucknow,Rice,Annual,June,3.41,53,46,37,Clay,1114,29.1,20.44
+Uttar Pradesh,Varanasi,Rice,Zaid,November,1.2,170,32,68,Sandy,948,29.1,34.77
+West Bengal,Darjeeling,Sugarcane,Rabi,August,9.83,180,42,31,Sandy,1175,32.8,322.75
+Andhra Pradesh,Nellore,Cotton,Zaid,August,9.8,51,35,86,Clay,1119,28.4,25.84
+Karnataka,Mysore,Rice,Rabi,November,8.91,175,62,39,Sandy,485,27.2,27.61
+West Bengal,Darjeeling,Corn,Kharif,October,8.64,181,68,37,Sandy,624,21.2,41.23
+Tamil Nadu,Thanjavur,Rice,Kharif,May,5.11,118,88,74,Red,1096,26.1,31.63
+Andhra Pradesh,Guntur,Corn,Kharif,February,7.74,67,41,21,Sandy,800,33.7,22.32
+Maharashtra,Pune,Wheat,Kharif,May,1.66,52,48,46,Sandy,637,32.5,18.04
+Uttar Pradesh,Kanpur,Rice,Rabi,April,6.93,112,63,96,Black,912,26.6,39.18
+Punjab,Patiala,Wheat,Annual,August,8.44,63,84,93,Loamy,592,34.8,26.54
+West Bengal,Kolkata,Wheat,Zaid,November,9.46,96,96,90,Red,526,23.5,40.18
+Uttar Pradesh,Lucknow,Corn,Rabi,May,9.69,72,53,83,Clay,1135,27.2,28.76
+Punjab,Ludhiana,Tomato,Kharif,January,9.35,113,45,53,Black,784,33.6,196.04
+Uttar Pradesh,Kanpur,Tomato,Zaid,May,2.94,50,63,78,Black,938,34.1,153.3
+Punjab,Amritsar,Rice,Rabi,June,1.33,147,88,61,Loamy,514,25.8,26.83
+Uttar Pradesh,Kanpur,Cotton,Zaid,September,8.35,80,71,25,Sandy,797,29.7,28.41
+Punjab,Amritsar,Wheat,Rabi,April,1.49,160,61,26,Clay,1105,31.1,36.81
+Andhra Pradesh,Guntur,Corn,Annual,July,2.64,175,100,78,Black,1038,30.7,47.81
+Uttar Pradesh,Varanasi,Sugarcane,Rabi,March,2.95,189,95,20,Clay,449,33.9,395.3
+Uttar Pradesh,Lucknow,Tomato,Annual,September,5.51,105,68,53,Sandy,716,33.5,181.25
+Andhra Pradesh,Guntur,Corn,Zaid,January,2.9,147,83,86,Loamy,979,21.5,45.37
+Maharashtra,Nagpur,Rice,Annual,August,1.63,95,92,52,Clay,607,25.9,29.26
+Maharashtra,Nagpur,Wheat,Kharif,October,9.74,64,30,89,Sandy,505,25.3,27.7
+West Bengal,Kolkata,Sugarcane,Kharif,May,2.23,182,49,53,Clay,468,33.2,280.81
+Maharashtra,Nashik,Tomato,Kharif,October,1.65,141,56,87,Clay,775,26.5,212.31
+Andhra Pradesh,Nellore,Tomato,Annual,June,6.18,95,80,55,Clay,1191,30.9,174.35
+Tamil Nadu,Madurai,Sugarcane,Kharif,March,5.15,70,57,30,Red,906,21.1,201.67
+Andhra Pradesh,Nellore,Cotton,Rabi,August,1.71,63,96,72,Clay,584,29.2,26.74
+Maharashtra,Pune,Corn,Rabi,June,9.24,181,42,64,Black,988,29.4,36.83
+Punjab,Ludhiana,Wheat,Zaid,August,5.47,116,51,43,Black,862,33.6,33.27
+Maharashtra,Nashik,Sugarcane,Annual,August,7.71,153,44,37,Red,736,22.1,328.73
+West Bengal,Howrah,Sugarcane,Zaid,August,5.43,170,32,76,Sandy,537,22.4,298.72
+Punjab,Amritsar,Sugarcane,Zaid,February,5.0,146,30,94,Clay,1082,21.8,287.27
+Karnataka,Mandya,Sugarcane,Kharif,December,6.71,120,48,51,Sandy,1103,22.4,342.16
+Punjab,Ludhiana,Rice,Rabi,February,4.56,127,76,33,Clay,908,34.5,28.78
+Tamil Nadu,Thanjavur,Rice,Rabi,June,1.48,166,52,77,Loamy,991,24.7,36.97
+Punjab,Amritsar,Rice,Kharif,February,3.2,77,76,26,Black,1156,24.2,28.18
+Uttar Pradesh,Varanasi,Corn,Rabi,April,8.98,137,44,33,Black,943,25.2,35.6
+Maharashtra,Nagpur,Tomato,Annual,September,7.27,56,70,59,Clay,848,27.2,170.39
+Tamil Nadu,Thanjavur,Corn,Rabi,May,4.59,127,72,61,Black,1057,24.5,31.63
+Maharashtra,Pune,Cotton,Annual,January,7.62,112,40,47,Black,569,32.6,29.27
+Uttar Pradesh,Kanpur,Sugarcane,Kharif,January,5.79,57,88,91,Red,815,32.6,342.68
+Maharashtra,Pune,Wheat,Zaid,September,3.72,87,89,95,Red,840,20.0,31.58
+Uttar Pradesh,Varanasi,Tomato,Rabi,March,4.19,67,92,95,Red,1046,24.3,203.75
+Uttar Pradesh,Lucknow,Tomato,Rabi,April,5.24,181,84,93,Loamy,1073,30.0,216.01
+Punjab,Ludhiana,Corn,Kharif,September,5.24,192,39,91,Black,500,30.0,34.58
+West Bengal,Darjeeling,Cotton,Rabi,August,8.85,156,52,32,Red,580,26.0,31.67
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,June,1.95,102,67,81,Red,1145,22.3,358.77
+West Bengal,Darjeeling,Cotton,Kharif,June,4.96,122,58,34,Black,477,28.8,30.61
+Tamil Nadu,Madurai,Corn,Zaid,July,4.45,73,60,48,Black,804,23.6,23.44
+Tamil Nadu,Madurai,Sugarcane,Rabi,May,1.07,68,31,73,Clay,876,33.9,262.58
+Punjab,Amritsar,Cotton,Zaid,May,7.54,72,50,76,Red,1035,22.0,25.14
+Tamil Nadu,Madurai,Corn,Rabi,February,9.55,80,98,58,Loamy,450,20.2,31.37
+Punjab,Amritsar,Corn,Kharif,June,1.44,147,32,86,Sandy,737,23.6,30.52
+Andhra Pradesh,Kurnool,Tomato,Rabi,February,6.85,130,45,47,Black,957,26.7,171.75
+Punjab,Patiala,Rice,Zaid,February,3.11,115,48,22,Black,877,32.0,19.62
+Andhra Pradesh,Kurnool,Wheat,Zaid,December,7.81,97,38,59,Red,826,21.9,28.64
+Karnataka,Mandya,Tomato,Zaid,February,5.51,128,35,55,Black,1098,30.9,201.97
+Karnataka,Mysore,Rice,Kharif,July,1.83,62,86,95,Loamy,555,20.3,26.59
+Maharashtra,Nashik,Sugarcane,Zaid,April,5.0,64,57,67,Sandy,1157,25.5,309.05
+Tamil Nadu,Thanjavur,Wheat,Zaid,September,9.7,56,35,71,Loamy,450,34.2,18.98
+Tamil Nadu,Salem,Cotton,Annual,July,2.95,147,39,28,Sandy,836,21.5,29.45
+Maharashtra,Nagpur,Corn,Zaid,August,5.73,135,79,88,Loamy,405,30.6,40.12
+Karnataka,Mandya,Corn,Zaid,March,8.99,169,66,72,Red,739,24.2,41.68
+Tamil Nadu,Thanjavur,Corn,Kharif,December,9.99,195,61,89,Clay,695,21.7,46.99
+Punjab,Patiala,Rice,Kharif,June,3.81,165,45,45,Red,903,24.0,25.67
+Andhra Pradesh,Kurnool,Rice,Rabi,November,6.3,158,56,69,Clay,632,28.6,32.54
+West Bengal,Howrah,Cotton,Zaid,April,3.64,137,35,30,Black,774,29.9,26.59
+Karnataka,Belgaum,Wheat,Zaid,July,7.57,80,76,78,Loamy,524,21.0,32.33
+Uttar Pradesh,Lucknow,Rice,Annual,August,8.46,59,89,61,Clay,922,25.8,26.19
+Karnataka,Mandya,Wheat,Rabi,February,1.31,157,100,86,Loamy,593,29.4,33.99
+Andhra Pradesh,Kurnool,Rice,Kharif,November,5.38,149,47,45,Black,1033,31.0,28.18
+Punjab,Ludhiana,Tomato,Annual,September,1.88,61,96,51,Sandy,872,25.3,176.17
+Uttar Pradesh,Varanasi,Rice,Rabi,June,5.5,114,53,61,Loamy,489,32.8,33.28
+Tamil Nadu,Thanjavur,Tomato,Kharif,July,2.11,116,69,20,Loamy,757,20.2,126.1
+Uttar Pradesh,Kanpur,Wheat,Kharif,January,1.74,115,31,91,Sandy,1038,26.7,26.11
+Andhra Pradesh,Nellore,Wheat,Annual,September,2.94,67,50,29,Black,855,25.8,23.8
+Maharashtra,Nashik,Tomato,Kharif,September,7.06,111,69,81,Red,642,25.2,174.63
+Karnataka,Belgaum,Rice,Annual,April,1.86,88,73,64,Black,972,34.7,24.32
+Maharashtra,Nagpur,Cotton,Zaid,February,2.48,156,80,27,Loamy,899,26.5,27.82
+Maharashtra,Nashik,Wheat,Zaid,August,6.64,151,99,57,Red,634,33.2,34.14
+West Bengal,Darjeeling,Corn,Zaid,July,8.65,134,38,48,Sandy,1102,34.3,31.36
+Punjab,Patiala,Wheat,Kharif,July,1.28,164,49,54,Black,1181,34.8,33.85
+Punjab,Ludhiana,Wheat,Zaid,May,4.39,61,75,53,Sandy,744,32.0,27.96
+Punjab,Amritsar,Rice,Rabi,December,6.3,70,55,73,Loamy,414,32.2,20.98
+Maharashtra,Nagpur,Corn,Rabi,August,8.4,55,68,45,Red,818,21.6,24.67
+Karnataka,Mysore,Corn,Kharif,February,8.61,200,89,38,Red,855,33.5,36.15
+Uttar Pradesh,Kanpur,Sugarcane,Kharif,November,1.53,76,69,47,Loamy,922,21.0,278.05
+Andhra Pradesh,Kurnool,Rice,Kharif,February,2.24,85,67,36,Red,638,26.2,26.53
+Tamil Nadu,Thanjavur,Tomato,Zaid,February,6.08,66,62,99,Red,1086,33.5,214.88
+West Bengal,Darjeeling,Corn,Annual,September,4.51,112,34,22,Clay,844,22.6,19.83
+Andhra Pradesh,Kurnool,Cotton,Rabi,April,4.37,176,59,97,Black,799,29.6,39.05
+Punjab,Amritsar,Tomato,Rabi,December,1.02,163,92,36,Loamy,919,24.7,225.28
+Andhra Pradesh,Guntur,Corn,Zaid,October,5.62,90,91,45,Clay,1059,24.3,29.61
+Maharashtra,Nagpur,Tomato,Kharif,September,8.79,101,90,31,Clay,431,22.9,157.02
+Maharashtra,Nagpur,Sugarcane,Rabi,January,7.6,121,90,95,Clay,541,22.5,413.72
+Andhra Pradesh,Kurnool,Wheat,Kharif,April,5.56,113,64,91,Sandy,649,27.3,33.23
+Uttar Pradesh,Kanpur,Cotton,Kharif,August,6.03,50,85,23,Clay,786,30.4,22.07
+Uttar Pradesh,Lucknow,Sugarcane,Annual,November,9.11,97,92,29,Loamy,911,26.6,249.32
+Maharashtra,Nashik,Cotton,Rabi,July,9.47,61,33,66,Sandy,423,26.1,26.44
+Uttar Pradesh,Varanasi,Cotton,Zaid,July,7.88,151,70,56,Clay,1030,27.2,42.25
+Uttar Pradesh,Lucknow,Wheat,Zaid,December,7.63,97,46,77,Clay,855,32.5,32.22
+Punjab,Amritsar,Cotton,Zaid,May,7.95,55,70,36,Black,438,23.6,22.27
+Punjab,Amritsar,Sugarcane,Kharif,December,8.99,136,31,38,Sandy,992,23.1,343.19
+Tamil Nadu,Salem,Wheat,Rabi,September,3.62,82,97,62,Black,717,26.7,31.75
+Uttar Pradesh,Varanasi,Tomato,Zaid,May,4.59,198,81,20,Loamy,543,28.1,220.23
+Uttar Pradesh,Varanasi,Corn,Annual,November,5.4,169,70,44,Clay,893,25.7,35.99
+Karnataka,Mysore,Rice,Rabi,October,8.05,123,56,21,Sandy,1034,26.8,29.58
+Tamil Nadu,Thanjavur,Rice,Kharif,July,5.7,113,35,40,Black,722,25.3,21.49
+Andhra Pradesh,Guntur,Corn,Rabi,January,9.29,183,47,22,Loamy,762,33.0,29.66
+West Bengal,Darjeeling,Tomato,Kharif,April,7.36,172,85,44,Black,527,26.0,242.67
+West Bengal,Darjeeling,Sugarcane,Kharif,October,7.64,190,48,32,Red,850,22.1,354.87
+Punjab,Amritsar,Corn,Rabi,August,1.92,148,42,64,Black,1114,30.1,31.03
+Karnataka,Mandya,Wheat,Zaid,March,5.44,132,51,63,Red,1070,32.2,38.66
+Punjab,Amritsar,Corn,Zaid,February,6.74,55,57,25,Clay,774,31.0,22.1
+Karnataka,Mandya,Tomato,Kharif,March,1.66,155,77,98,Sandy,759,30.5,200.87
+Tamil Nadu,Salem,Wheat,Rabi,February,2.02,164,84,41,Sandy,832,21.4,30.56
+Andhra Pradesh,Kurnool,Cotton,Zaid,August,1.77,169,38,90,Loamy,673,30.0,31.77
+Andhra Pradesh,Kurnool,Tomato,Zaid,January,3.17,59,59,58,Sandy,649,24.6,137.28
+Andhra Pradesh,Guntur,Rice,Annual,December,9.88,119,34,22,Red,594,29.7,22.93
+Karnataka,Belgaum,Tomato,Zaid,August,9.72,163,95,30,Clay,655,26.0,218.44
+Tamil Nadu,Madurai,Cotton,Zaid,October,7.84,76,100,78,Sandy,1083,21.6,40.38
+Andhra Pradesh,Kurnool,Rice,Rabi,May,7.8,72,39,47,Black,821,34.0,23.77
+Punjab,Patiala,Corn,Rabi,December,3.5,163,61,81,Black,403,21.0,40.63
+Karnataka,Mysore,Cotton,Kharif,October,8.33,170,70,48,Loamy,673,31.6,29.63
+Punjab,Patiala,Tomato,Rabi,November,4.08,134,57,56,Red,1067,24.7,223.83
+Uttar Pradesh,Kanpur,Cotton,Rabi,April,6.13,195,82,99,Sandy,913,20.5,53.46
+Andhra Pradesh,Kurnool,Sugarcane,Rabi,February,2.34,100,64,35,Clay,511,33.2,192.82
+Andhra Pradesh,Kurnool,Wheat,Kharif,September,3.32,162,56,52,Black,977,29.5,32.31
+Andhra Pradesh,Nellore,Rice,Kharif,March,6.46,62,62,31,Loamy,437,24.7,17.67
+Uttar Pradesh,Varanasi,Rice,Zaid,December,8.15,118,87,22,Black,1056,20.1,35.61
+Punjab,Ludhiana,Wheat,Zaid,November,4.65,151,92,79,Red,1180,22.8,33.23
+Karnataka,Mysore,Tomato,Annual,December,7.83,176,54,37,Clay,1060,28.7,188.93
+Karnataka,Mandya,Rice,Rabi,September,1.27,92,50,32,Clay,1011,27.5,22.43
+Punjab,Amritsar,Corn,Annual,October,8.63,161,50,79,Black,419,33.2,37.36
+Maharashtra,Nashik,Wheat,Zaid,August,8.04,161,100,30,Red,923,30.4,38.39
+Punjab,Ludhiana,Corn,Kharif,September,8.05,139,61,28,Clay,477,21.0,24.96
+Punjab,Ludhiana,Wheat,Rabi,March,9.06,158,88,89,Loamy,441,28.5,39.08
+Karnataka,Mysore,Tomato,Zaid,July,8.27,173,83,72,Loamy,565,22.7,232.03
+Punjab,Patiala,Sugarcane,Rabi,July,6.5,181,71,49,Loamy,749,30.7,343.49
+West Bengal,Kolkata,Sugarcane,Zaid,September,8.96,82,75,37,Clay,697,33.0,250.92
+Karnataka,Mandya,Sugarcane,Annual,March,6.49,147,72,79,Sandy,1120,29.1,435.58
+Uttar Pradesh,Lucknow,Sugarcane,Rabi,June,5.45,87,85,39,Clay,427,25.8,211.31
+Karnataka,Belgaum,Tomato,Zaid,October,1.37,197,50,61,Sandy,926,33.4,191.47
+Maharashtra,Nagpur,Cotton,Annual,November,2.17,102,41,66,Sandy,721,32.3,27.82
+Karnataka,Mysore,Sugarcane,Annual,June,8.42,134,74,79,Black,700,24.6,424.73
+West Bengal,Howrah,Sugarcane,Kharif,June,1.39,114,86,22,Sandy,625,25.2,278.36
+Andhra Pradesh,Nellore,Cotton,Zaid,December,8.83,171,94,20,Loamy,889,25.2,33.7
+Karnataka,Mandya,Cotton,Zaid,April,7.17,56,33,85,Clay,523,20.2,21.93
+Andhra Pradesh,Nellore,Rice,Kharif,December,2.25,112,35,80,Loamy,833,25.4,22.69
+Punjab,Patiala,Cotton,Annual,November,9.15,176,42,85,Clay,1112,34.4,44.17
+Uttar Pradesh,Kanpur,Rice,Annual,October,8.44,134,67,40,Loamy,1047,23.1,26.86
+Karnataka,Belgaum,Tomato,Kharif,September,1.52,105,43,31,Sandy,843,20.3,155.71
+Andhra Pradesh,Guntur,Tomato,Rabi,August,8.32,172,60,46,Red,980,27.2,254.83
+Karnataka,Mandya,Wheat,Kharif,June,8.43,198,58,92,Red,493,21.7,45.05
+West Bengal,Darjeeling,Sugarcane,Zaid,July,3.89,110,98,38,Sandy,740,32.2,329.69
+West Bengal,Kolkata,Wheat,Annual,December,2.18,60,34,77,Red,886,21.1,21.84
+West Bengal,Kolkata,Wheat,Zaid,March,9.18,54,76,93,Black,1127,31.2,28.61
+Maharashtra,Nagpur,Corn,Rabi,January,9.51,130,78,100,Loamy,582,28.5,44.55
+Uttar Pradesh,Varanasi,Rice,Rabi,September,8.19,164,70,92,Black,683,28.1,45.36
+Tamil Nadu,Thanjavur,Corn,Rabi,June,3.64,100,34,37,Loamy,1118,32.6,22.72
+West Bengal,Howrah,Cotton,Zaid,November,7.06,144,44,35,Black,1006,22.9,24.9
+Tamil Nadu,Thanjavur,Sugarcane,Rabi,June,1.15,189,34,85,Black,1115,23.8,312.42
+Maharashtra,Pune,Wheat,Annual,February,7.71,69,86,100,Black,1085,21.5,36.28
+Andhra Pradesh,Kurnool,Corn,Kharif,June,5.21,200,83,95,Loamy,746,34.2,51.19
+Uttar Pradesh,Lucknow,Sugarcane,Zaid,September,7.54,124,93,77,Black,1029,30.3,361.49
+Tamil Nadu,Madurai,Cotton,Kharif,February,4.0,63,52,58,Loamy,924,24.7,22.31
+Andhra Pradesh,Nellore,Sugarcane,Zaid,June,5.58,74,88,39,Sandy,742,20.7,312.38
+Uttar Pradesh,Kanpur,Sugarcane,Zaid,March,5.53,74,75,27,Black,831,20.3,263.53
+Punjab,Ludhiana,Rice,Zaid,November,2.0,129,41,93,Sandy,990,27.5,33.68
+West Bengal,Howrah,Sugarcane,Rabi,July,2.93,138,75,81,Sandy,474,27.2,387.75
+Uttar Pradesh,Kanpur,Cotton,Rabi,January,1.92,94,99,54,Black,1074,24.9,30.1
+Tamil Nadu,Madurai,Sugarcane,Zaid,December,6.94,67,86,92,Black,441,30.1,270.8
+Andhra Pradesh,Kurnool,Wheat,Kharif,August,4.36,153,70,27,Red,606,34.2,27.9
+Maharashtra,Nagpur,Cotton,Kharif,December,5.64,88,97,42,Black,789,33.7,24.36
+West Bengal,Howrah,Tomato,Zaid,June,5.81,157,38,85,Loamy,636,25.8,167.26
+Maharashtra,Pune,Sugarcane,Rabi,October,9.15,174,36,85,Black,925,33.2,388.38
+Maharashtra,Nashik,Rice,Kharif,October,7.89,193,82,92,Red,480,26.3,45.98
+Maharashtra,Pune,Wheat,Zaid,February,9.5,67,99,75,Sandy,542,29.0,29.05
+Punjab,Ludhiana,Sugarcane,Annual,April,8.24,187,74,81,Sandy,495,26.6,384.52
+Punjab,Ludhiana,Rice,Annual,March,9.18,93,86,94,Black,717,26.5,33.63
+Maharashtra,Nagpur,Rice,Zaid,May,3.62,181,37,68,Black,517,33.1,30.11
+Punjab,Patiala,Sugarcane,Kharif,January,4.26,115,84,52,Clay,1026,31.3,350.58
+Maharashtra,Nashik,Tomato,Rabi,January,1.19,146,43,21,Red,544,34.6,134.76
+Maharashtra,Nagpur,Rice,Annual,June,3.46,117,75,45,Loamy,621,24.5,24.7
+Karnataka,Mandya,Corn,Kharif,July,2.11,143,97,80,Loamy,1170,27.9,36.15
+Punjab,Patiala,Corn,Rabi,March,6.89,147,52,24,Loamy,597,34.1,28.39
+Uttar Pradesh,Lucknow,Rice,Kharif,May,9.61,85,46,38,Black,738,32.1,20.89
+Karnataka,Mysore,Corn,Kharif,March,2.63,56,43,53,Sandy,647,22.8,19.11
+West Bengal,Howrah,Cotton,Kharif,May,2.26,163,97,95,Red,824,25.3,38.97
+Karnataka,Mandya,Corn,Annual,September,7.05,62,98,98,Loamy,668,29.8,29.04
+Karnataka,Mandya,Tomato,Rabi,December,9.17,51,90,92,Black,1183,30.8,198.71
+Punjab,Amritsar,Rice,Rabi,April,7.1,132,95,36,Sandy,753,34.9,29.5
+Tamil Nadu,Salem,Sugarcane,Annual,April,5.55,160,38,47,Clay,709,26.9,257.3
+Maharashtra,Nagpur,Tomato,Rabi,February,4.58,151,31,62,Loamy,697,27.7,199.33
+Punjab,Patiala,Cotton,Annual,April,3.11,103,87,72,Loamy,462,31.7,24.36
+West Bengal,Darjeeling,Rice,Kharif,March,6.0,179,51,22,Clay,745,23.5,28.56
+West Bengal,Howrah,Cotton,Kharif,January,1.14,108,67,52,Red,541,21.1,22.45
+Maharashtra,Nagpur,Sugarcane,Rabi,November,3.66,149,94,36,Black,1116,20.5,369.35
+Tamil Nadu,Thanjavur,Wheat,Rabi,June,4.18,123,49,68,Black,1102,24.6,36.84
+Tamil Nadu,Salem,Rice,Annual,August,2.17,134,45,55,Black,1160,23.3,30.64
+Punjab,Patiala,Cotton,Kharif,December,9.16,134,33,41,Clay,960,33.5,34.46
+Tamil Nadu,Thanjavur,Tomato,Annual,November,6.94,176,31,78,Black,591,21.1,199.23
+Uttar Pradesh,Kanpur,Sugarcane,Annual,October,3.21,176,43,62,Loamy,784,24.3,303.24
+Andhra Pradesh,Kurnool,Wheat,Kharif,June,5.99,116,93,22,Loamy,489,27.8,32.43
+Karnataka,Belgaum,Tomato,Rabi,August,8.8,188,91,82,Black,1153,24.3,246.3
+Maharashtra,Pune,Cotton,Rabi,February,4.32,97,93,54,Red,786,28.9,36.09
+Tamil Nadu,Madurai,Wheat,Kharif,July,3.51,177,88,50,Loamy,451,27.9,35.79
+Karnataka,Belgaum,Cotton,Annual,August,3.13,74,44,78,Clay,1187,26.1,24.09
+Uttar Pradesh,Lucknow,Sugarcane,Annual,March,8.67,115,63,69,Clay,1080,26.3,289.89
+Karnataka,Belgaum,Corn,Rabi,December,1.06,98,99,42,Black,992,31.7,31.89
+Tamil Nadu,Madurai,Rice,Rabi,May,3.32,190,91,85,Red,1063,24.3,47.34
+Maharashtra,Pune,Tomato,Annual,April,5.37,164,62,78,Clay,417,24.3,216.49
+Maharashtra,Pune,Tomato,Zaid,May,6.6,127,91,85,Black,1046,24.1,206.41
+West Bengal,Howrah,Rice,Zaid,December,3.02,79,98,57,Loamy,1152,28.4,36.41
+Karnataka,Mysore,Sugarcane,Annual,January,9.24,164,64,65,Sandy,1022,24.1,346.7
+Andhra Pradesh,Guntur,Sugarcane,Annual,January,8.35,169,92,52,Loamy,1141,30.1,448.54
+Maharashtra,Pune,Sugarcane,Kharif,October,2.36,172,63,51,Clay,792,21.9,380.21
+Andhra Pradesh,Kurnool,Sugarcane,Kharif,March,4.05,78,57,77,Black,1029,27.4,305.94
+Maharashtra,Nagpur,Sugarcane,Zaid,February,6.99,121,88,39,Loamy,924,30.4,366.73
+Andhra Pradesh,Kurnool,Corn,Annual,May,1.56,172,92,65,Black,621,21.4,29.89
+Andhra Pradesh,Guntur,Rice,Kharif,September,2.49,162,40,50,Black,704,27.7,25.69
+Punjab,Patiala,Wheat,Rabi,November,7.21,97,46,38,Black,451,20.7,19.95
+Maharashtra,Nagpur,Wheat,Zaid,November,6.33,188,65,89,Loamy,632,25.3,38.29
+Andhra Pradesh,Guntur,Tomato,Annual,June,2.8,170,45,42,Loamy,412,28.9,194.52
+Punjab,Patiala,Cotton,Kharif,July,8.31,194,46,25,Sandy,771,28.4,32.46
+Tamil Nadu,Salem,Cotton,Annual,June,6.28,90,36,56,Red,665,30.5,24.73
+Uttar Pradesh,Varanasi,Wheat,Zaid,April,3.37,200,72,77,Loamy,703,24.5,34.78
+Tamil Nadu,Salem,Sugarcane,Rabi,October,6.03,118,78,43,Loamy,606,20.3,311.79
+Tamil Nadu,Madurai,Corn,Zaid,March,6.91,193,73,79,Sandy,876,31.2,48.97
+West Bengal,Darjeeling,Tomato,Zaid,January,9.91,173,49,37,Clay,927,21.2,198.72
+Uttar Pradesh,Kanpur,Rice,Annual,August,7.19,127,51,97,Sandy,555,28.7,27.61
+Tamil Nadu,Madurai,Sugarcane,Zaid,December,5.91,129,37,59,Loamy,680,25.5,325.95
+Uttar Pradesh,Varanasi,Tomato,Annual,January,7.57,91,33,75,Loamy,616,31.6,150.24
+Tamil Nadu,Madurai,Rice,Zaid,July,7.67,51,81,81,Black,777,21.6,30.57
+West Bengal,Howrah,Wheat,Zaid,September,5.68,137,47,75,Black,1095,28.1,36.19
+Tamil Nadu,Salem,Cotton,Zaid,March,9.82,58,94,32,Sandy,511,21.0,26.64
+Karnataka,Mandya,Sugarcane,Zaid,September,1.83,81,57,70,Red,1010,23.2,281.99
+Andhra Pradesh,Kurnool,Rice,Rabi,August,9.27,188,42,76,Clay,663,26.8,36.43
+West Bengal,Kolkata,Rice,Zaid,September,6.37,170,49,48,Clay,677,28.8,33.11
+West Bengal,Howrah,Wheat,Annual,April,4.24,197,74,25,Clay,1081,29.1,42.63
+Punjab,Ludhiana,Tomato,Kharif,May,7.43,89,79,84,Red,651,31.7,190.67
+Karnataka,Belgaum,Sugarcane,Rabi,April,7.08,101,87,55,Black,823,28.0,308.85
+Maharashtra,Pune,Rice,Zaid,March,9.17,138,91,39,Loamy,776,22.1,38.15
+West Bengal,Kolkata,Corn,Zaid,March,4.8,99,60,22,Sandy,763,23.1,23.52
+Karnataka,Belgaum,Cotton,Kharif,November,5.22,61,93,53,Sandy,906,32.6,25.33
+Maharashtra,Pune,Tomato,Rabi,July,6.59,92,63,42,Red,834,32.5,139.48
+Andhra Pradesh,Nellore,Corn,Kharif,May,9.64,55,64,91,Sandy,1123,20.0,28.75
+Punjab,Amritsar,Tomato,Rabi,April,9.47,194,41,90,Red,506,34.0,201.74
+Tamil Nadu,Salem,Wheat,Kharif,August,8.09,103,68,98,Clay,1148,26.7,29.91
+Uttar Pradesh,Kanpur,Sugarcane,Annual,April,8.23,63,39,85,Loamy,698,25.9,301.39
+Tamil Nadu,Thanjavur,Corn,Annual,February,3.73,61,39,31,Black,1173,21.7,17.37
+Tamil Nadu,Madurai,Cotton,Annual,July,6.35,64,62,31,Sandy,486,32.7,24.51
+Karnataka,Belgaum,Wheat,Rabi,May,6.8,108,93,32,Black,654,26.9,28.73
+Andhra Pradesh,Kurnool,Rice,Kharif,September,2.67,127,83,20,Black,664,31.0,27.68
+Punjab,Ludhiana,Rice,Kharif,January,8.26,132,36,73,Clay,1167,26.7,40.29
+Andhra Pradesh,Guntur,Tomato,Kharif,August,9.98,164,52,54,Clay,920,25.2,208.48
+Uttar Pradesh,Varanasi,Sugarcane,Annual,May,6.85,64,81,59,Clay,426,24.4,208.67
+West Bengal,Darjeeling,Cotton,Zaid,March,5.06,95,92,46,Loamy,642,29.7,29.31
+Uttar Pradesh,Lucknow,Cotton,Zaid,April,3.89,68,100,54,Clay,814,22.2,28.28
+Punjab,Ludhiana,Wheat,Annual,August,1.42,189,67,28,Black,619,27.7,30.46
+Andhra Pradesh,Nellore,Rice,Rabi,March,1.0,140,62,23,Red,949,21.2,24.37
+Andhra Pradesh,Guntur,Rice,Annual,September,6.66,144,43,74,Clay,759,31.7,31.69
+West Bengal,Howrah,Corn,Kharif,October,8.18,71,68,78,Sandy,594,26.5,30.69
+West Bengal,Howrah,Wheat,Rabi,February,5.48,139,85,53,Black,707,28.7,27.68
+Uttar Pradesh,Varanasi,Rice,Rabi,October,1.56,103,46,98,Loamy,563,25.5,24.64
+Maharashtra,Nashik,Rice,Kharif,August,6.8,127,43,61,Sandy,925,29.3,25.51
+Andhra Pradesh,Kurnool,Tomato,Zaid,July,9.98,101,96,31,Clay,1198,25.8,209.43
+Andhra Pradesh,Nellore,Wheat,Zaid,June,1.25,108,98,23,Sandy,646,27.9,25.04
+Uttar Pradesh,Kanpur,Wheat,Annual,December,4.46,198,84,74,Black,437,28.9,34.26
+Andhra Pradesh,Nellore,Wheat,Kharif,January,1.55,143,91,40,Sandy,1097,33.1,33.81
+West Bengal,Howrah,Wheat,Zaid,April,9.5,136,60,91,Black,815,32.4,39.46
+Maharashtra,Nagpur,Corn,Rabi,April,1.62,200,85,28,Red,704,25.1,31.42
+West Bengal,Darjeeling,Corn,Zaid,October,9.98,154,37,80,Sandy,641,30.7,33.27
+Punjab,Ludhiana,Cotton,Annual,August,3.14,59,62,41,Clay,813,27.1,18.56
+Punjab,Patiala,Wheat,Kharif,March,9.1,139,97,85,Clay,634,24.2,45.41
+Punjab,Amritsar,Rice,Rabi,June,1.56,183,73,21,Black,575,20.3,27.87
+Uttar Pradesh,Varanasi,Rice,Annual,March,8.06,86,89,43,Red,653,31.2,30.54
+Maharashtra,Nagpur,Wheat,Rabi,April,5.31,177,78,60,Clay,1015,29.8,46.31
+West Bengal,Howrah,Tomato,Kharif,September,2.32,167,39,63,Clay,422,28.5,215.33
+Tamil Nadu,Salem,Rice,Zaid,September,7.53,129,98,51,Clay,888,34.0,35.5
+Maharashtra,Pune,Cotton,Annual,February,3.63,59,90,98,Clay,698,28.9,31.58
+Uttar Pradesh,Lucknow,Cotton,Kharif,March,9.44,86,97,79,Sandy,741,25.6,33.18
+Tamil Nadu,Madurai,Rice,Kharif,December,4.8,74,89,39,Black,774,27.3,22.1
+Punjab,Patiala,Tomato,Zaid,February,6.21,62,47,61,Loamy,997,29.1,133.29
+Maharashtra,Nashik,Wheat,Rabi,May,6.26,196,35,27,Clay,670,21.4,28.9
+West Bengal,Howrah,Wheat,Zaid,April,3.33,140,72,92,Loamy,471,22.4,28.1
+Maharashtra,Nagpur,Wheat,Zaid,June,7.49,142,47,56,Loamy,1040,28.3,36.96
+Karnataka,Mandya,Wheat,Kharif,June,9.19,173,84,25,Loamy,1025,23.5,30.48
+Maharashtra,Nagpur,Corn,Zaid,September,5.61,52,49,46,Loamy,1152,29.6,25.14
+West Bengal,Howrah,Wheat,Kharif,January,1.48,60,95,93,Clay,1086,27.7,32.59
+Uttar Pradesh,Lucknow,Wheat,Kharif,January,6.0,106,90,29,Sandy,434,32.1,29.59
+Maharashtra,Pune,Rice,Rabi,August,9.93,68,79,27,Sandy,849,34.9,23.44
+Uttar Pradesh,Varanasi,Cotton,Rabi,May,2.06,180,84,71,Black,902,20.3,38.14
+Maharashtra,Pune,Tomato,Zaid,December,3.56,157,50,28,Sandy,1200,27.9,201.86
+West Bengal,Darjeeling,Sugarcane,Rabi,June,4.89,57,51,79,Black,441,20.2,222.51
+Maharashtra,Nagpur,Corn,Rabi,February,4.5,154,82,75,Loamy,1104,29.6,43.94
+Uttar Pradesh,Kanpur,Cotton,Annual,August,2.44,151,57,28,Loamy,869,23.2,31.96
+Punjab,Patiala,Sugarcane,Rabi,March,1.8,123,96,33,Clay,525,30.4,293.04
+Tamil Nadu,Thanjavur,Cotton,Zaid,January,5.52,105,77,48,Black,646,34.6,31.6
+Andhra Pradesh,Nellore,Tomato,Annual,September,5.59,129,91,59,Black,1172,24.4,213.92
+Tamil Nadu,Madurai,Sugarcane,Annual,November,6.95,178,68,52,Black,751,34.4,310.73
+Punjab,Amritsar,Wheat,Rabi,February,2.93,169,48,34,Clay,1189,24.6,29.79
+Andhra Pradesh,Guntur,Cotton,Annual,June,8.89,82,53,33,Red,1090,28.6,24.34
+Punjab,Ludhiana,Wheat,Zaid,August,5.66,141,66,80,Sandy,726,26.0,30.16
+Andhra Pradesh,Guntur,Tomato,Zaid,July,7.54,73,63,65,Clay,1045,28.3,150.51
+Maharashtra,Nagpur,Wheat,Rabi,May,9.48,163,49,26,Black,431,24.0,34.31
+Maharashtra,Nashik,Cotton,Annual,April,4.2,95,87,86,Clay,620,28.1,38.1
+Karnataka,Belgaum,Cotton,Annual,September,2.77,197,47,95,Red,481,21.6,40.73
+Tamil Nadu,Thanjavur,Corn,Rabi,January,3.75,102,90,54,Loamy,582,20.9,23.94
+Andhra Pradesh,Nellore,Cotton,Rabi,February,6.25,103,39,67,Sandy,641,21.8,24.17
+Andhra Pradesh,Guntur,Sugarcane,Rabi,October,6.33,72,84,41,Clay,908,31.8,275.2
+West Bengal,Kolkata,Wheat,Annual,December,8.37,170,30,59,Sandy,876,20.7,33.35
+Karnataka,Belgaum,Rice,Kharif,November,8.61,111,31,26,Clay,1035,23.2,27.1
+Karnataka,Mysore,Corn,Zaid,November,6.69,194,72,80,Clay,759,30.1,44.36
+Andhra Pradesh,Guntur,Sugarcane,Annual,January,9.13,73,90,81,Loamy,799,31.2,266.54
+Tamil Nadu,Salem,Corn,Annual,March,7.52,133,94,99,Red,1026,32.2,48.12
+Andhra Pradesh,Nellore,Wheat,Zaid,November,5.41,83,95,22,Sandy,425,21.6,21.43
+Andhra Pradesh,Kurnool,Corn,Zaid,June,5.5,161,40,95,Clay,806,27.1,41.79
+Karnataka,Mysore,Sugarcane,Kharif,June,2.24,197,30,83,Clay,423,31.4,385.03
+Andhra Pradesh,Guntur,Tomato,Annual,April,4.88,106,40,82,Clay,1126,26.6,159.54
+Andhra Pradesh,Kurnool,Corn,Kharif,October,1.09,199,74,29,Black,1087,34.8,40.99
+Uttar Pradesh,Kanpur,Cotton,Rabi,October,2.91,154,98,29,Black,1066,23.4,30.34
+Tamil Nadu,Madurai,Cotton,Zaid,August,4.72,122,57,85,Loamy,965,30.5,39.36
+Maharashtra,Nagpur,Sugarcane,Rabi,December,8.31,136,57,85,Sandy,542,33.5,394.19
+Andhra Pradesh,Nellore,Wheat,Rabi,April,8.92,83,64,48,Loamy,555,32.1,26.66
+Tamil Nadu,Madurai,Rice,Rabi,March,8.37,100,40,59,Sandy,987,34.2,26.15
+West Bengal,Howrah,Wheat,Zaid,January,9.53,105,39,31,Sandy,906,31.3,28.99
+Punjab,Amritsar,Cotton,Kharif,February,2.72,70,89,50,Red,1187,25.8,25.44
+Karnataka,Belgaum,Rice,Kharif,February,8.86,149,58,96,Red,499,31.5,31.77
+West Bengal,Howrah,Tomato,Annual,February,1.47,147,51,59,Clay,1015,29.1,173.03
+Tamil Nadu,Salem,Corn,Rabi,December,2.82,73,49,35,Red,593,31.2,17.83
+Uttar Pradesh,Kanpur,Wheat,Kharif,January,1.74,64,85,60,Loamy,790,25.1,25.5
+Tamil Nadu,Salem,Cotton,Annual,July,8.08,131,75,30,Black,1030,29.9,30.81
+Andhra Pradesh,Kurnool,Tomato,Rabi,December,6.8,179,90,29,Clay,765,27.5,224.11
+Andhra Pradesh,Guntur,Sugarcane,Zaid,October,4.79,165,43,94,Clay,415,20.6,380.31
+Andhra Pradesh,Nellore,Wheat,Zaid,January,6.05,103,78,70,Black,540,32.7,28.9
+Uttar Pradesh,Varanasi,Wheat,Annual,May,6.11,109,95,27,Black,997,29.2,28.42
+Karnataka,Mandya,Tomato,Kharif,May,6.96,143,93,63,Red,566,23.0,185.0
+Uttar Pradesh,Kanpur,Sugarcane,Rabi,April,1.65,157,40,38,Clay,1183,22.2,313.48
+Uttar Pradesh,Varanasi,Cotton,Zaid,April,6.99,55,46,100,Red,429,23.1,20.79
+Andhra Pradesh,Kurnool,Wheat,Rabi,February,1.93,86,81,33,Black,413,28.9,18.98
+Uttar Pradesh,Kanpur,Corn,Zaid,March,7.87,81,93,57,Red,610,23.9,26.74
+Uttar Pradesh,Kanpur,Wheat,Kharif,February,6.61,88,93,82,Sandy,1120,22.2,38.21
+Maharashtra,Pune,Sugarcane,Rabi,January,2.04,183,71,49,Black,640,20.7,302.08
+Tamil Nadu,Madurai,Sugarcane,Annual,January,4.5,67,66,25,Sandy,1160,29.8,257.22
+Andhra Pradesh,Guntur,Sugarcane,Kharif,November,5.9,196,72,29,Red,474,22.8,318.29
+Maharashtra,Nagpur,Corn,Rabi,August,1.83,97,56,100,Sandy,492,33.8,26.62
+Punjab,Ludhiana,Rice,Rabi,December,1.21,186,89,28,Black,762,32.9,31.27
+West Bengal,Howrah,Wheat,Rabi,April,8.55,150,60,48,Sandy,622,30.4,37.07
+Andhra Pradesh,Guntur,Corn,Annual,September,5.38,149,59,39,Sandy,691,30.1,26.05
+Uttar Pradesh,Kanpur,Rice,Kharif,November,8.15,113,93,94,Sandy,532,21.1,35.08
+Maharashtra,Pune,Cotton,Rabi,April,1.55,175,73,98,Loamy,555,31.1,33.32
+West Bengal,Howrah,Wheat,Annual,October,2.59,144,39,66,Black,463,22.8,23.48
+Andhra Pradesh,Kurnool,Cotton,Rabi,December,5.07,61,39,97,Loamy,430,20.9,25.95
